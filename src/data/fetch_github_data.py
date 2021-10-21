@@ -81,15 +81,20 @@ def data_get_github_public_multiple_repositories():
 
 
 def data_get_github_public_search():
-    print("Github Statistics: Public Repositories Search")
+    topic = "npm"
+    print("Github Statistics: Public Repositories Search | Topic: ["+str(topic)+"].")
     username = "parichaya"
     g = Github()
     user = g.get_user(username)
-    for i, repo in enumerate(g.search_repositories("topic:npm")):
+    count = 0
+    total = 30
+    for i, repo in enumerate(g.search_repositories("topic:"+str(topic))):
         helper_print_repo(repo)
         print("=" * 100)
-        if i == 9:
+        count += 1
+        if i == total-1:
             break
+    print("End of Public Repository Search | Count = [" + str(count) + "] | Topic = [" + str(topic) + "].")
 
 if __name__ == '__main__':
     #data_fetch_drill()
