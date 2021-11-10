@@ -1,0 +1,1251 @@
+id, name, version, is_ok, num_vuln, critical, high, medium, low
+5000, @sentry/utils, 6.3.4, True
+5001, @sentry/browser, 6.14.0, True
+5002, @sentry/browser, 6.13.3, True
+5003, @sentry/browser, 6.13.2, True
+5004, @sentry/browser, 6.13.1, True
+5005, @sentry/browser, 6.13.0, True
+5006, @sentry/browser, 6.13.0-beta.3, True
+5007, @sentry/browser, 6.13.0-beta.2, True
+5008, @sentry/browser, 6.13.0-beta.1, True
+5009, @sentry/browser, 6.13.0-beta.0, True
+5010, @sentry/browser, 6.12.0, True
+5011, @sentry/browser, 6.12.0-beta.2, True
+5012, @sentry/browser, 6.12.0-beta.1, True
+5013, @sentry/browser, 6.11.0, True
+5014, @sentry/browser, 6.10.0, True
+5015, @sentry/browser, 6.10.0-beta.3, True
+5016, @sentry/browser, 6.10.0-beta.2, True
+5017, @sentry/browser, 6.10.0-beta, True
+5018, @sentry/browser, 6.9.0, True
+5019, @sentry/browser, 6.8.0, True
+5020, @sentry/browser, 6.7.2, True
+5021, @sentry/browser, 6.7.1, True
+5022, @sentry/browser, 6.7.0, True
+5023, @sentry/browser, 6.6.0, True
+5024, @sentry/browser, 6.5.1, True
+5025, @sentry/browser, 6.5.0, True
+5026, @sentry/browser, 6.4.1, True
+5027, @sentry/browser, 6.4.0, True
+5028, @sentry/browser, 6.3.6, True
+5029, @sentry/browser, 6.3.5, True
+5030, @sentry/browser, 6.3.4, True
+5031, @sentry/types, 6.14.0, True
+5032, @sentry/types, 6.13.3, True
+5033, @sentry/types, 6.13.2, True
+5034, @sentry/types, 6.13.1, True
+5035, @sentry/types, 6.13.0, True
+5036, @sentry/types, 6.13.0-beta.3, True
+5037, @sentry/types, 6.13.0-beta.2, True
+5038, @sentry/types, 6.13.0-beta.1, True
+5039, @sentry/types, 6.13.0-beta.0, True
+5040, @sentry/types, 6.12.0, True
+5041, @sentry/types, 6.12.0-beta.2, True
+5042, @sentry/types, 6.12.0-beta.1, True
+5043, @sentry/types, 6.11.0, True
+5044, @sentry/types, 6.10.0, True
+5045, @sentry/types, 6.10.0-beta.3, True
+5046, @sentry/types, 6.10.0-beta.2, True
+5047, @sentry/types, 6.10.0-beta, True
+5048, @sentry/types, 6.9.0, True
+5049, @sentry/types, 6.8.0, True
+5050, @sentry/types, 6.7.2, True
+5051, @sentry/types, 6.7.1, True
+5052, @sentry/types, 6.7.0, True
+5053, @sentry/types, 6.6.0, True
+5054, @sentry/types, 6.5.1, True
+5055, @sentry/types, 6.5.0, True
+5056, @sentry/types, 6.4.1, True
+5057, @sentry/types, 6.4.0, True
+5058, @sentry/types, 6.3.6, True
+5059, @sentry/types, 6.3.5, True
+5060, @sentry/types, 6.3.4, True
+5061, @sentry/node, 6.14.0, True
+5062, @sentry/node, 6.13.3, True
+5063, @sentry/node, 6.13.2, True
+5064, @sentry/node, 6.13.1, True
+5065, @sentry/node, 6.13.0, True
+5066, @sentry/node, 6.13.0-beta.3, True
+5067, @sentry/node, 6.13.0-beta.2, True
+5068, @sentry/node, 6.13.0-beta.1, True
+5069, @sentry/node, 6.13.0-beta.0, True
+5070, @sentry/node, 6.12.0, True
+5071, @sentry/node, 6.12.0-beta.2, True
+5072, @sentry/node, 6.12.0-beta.1, True
+5073, @sentry/node, 6.11.0, True
+5074, @sentry/node, 6.10.0, True
+5075, @sentry/node, 6.10.0-beta.3, True
+5076, @sentry/node, 6.10.0-beta.2, True
+5077, @sentry/node, 6.10.0-beta, True
+5078, @sentry/node, 6.9.0, True
+5079, @sentry/node, 6.8.0, True
+5080, @sentry/node, 6.7.2, True
+5081, @sentry/node, 6.7.1, True
+5082, @sentry/node, 6.7.0, True
+5083, @sentry/node, 6.6.0, True
+5084, @sentry/node, 6.5.1, True
+5085, @sentry/node, 6.5.0, True
+5086, @sentry/node, 6.4.1, True
+5087, @sentry/node, 6.4.0, True
+5088, @sentry/node, 6.3.6, True
+5089, @sentry/node, 6.3.5, True
+5090, @sentry/node, 6.3.4, True
+5091, conventional-changelog-conventionalcommits, conventional-commits-parser-v3.2.3, True
+5092, conventional-changelog-conventionalcommits, conventional-changelog-conventionalcommits-v4.6.1, True
+5093, conventional-changelog-conventionalcommits, conventional-commits-parser-v3.2.2, True
+5094, conventional-changelog-conventionalcommits, conventional-changelog-core-v4.2.4, True
+5095, conventional-changelog-conventionalcommits, conventional-changelog-angular-v5.0.13, True
+5096, conventional-changelog-conventionalcommits, conventional-changelog-core-v4.2.3, True
+5097, conventional-changelog-conventionalcommits, conventional-changelog-conventionalcommits-v4.6.0, True
+5098, conventional-changelog-conventionalcommits, conventional-commits-parser-v3.2.1, True
+5099, conventional-changelog-conventionalcommits, git-raw-commits-v2.0.10, True
+5100, conventional-changelog-conventionalcommits, conventional-changelog-writer-v5.0.0, True
+5101, conventional-changelog-conventionalcommits, conventional-recommended-bump-v6.1.0, True
+5102, conventional-changelog-conventionalcommits, conventional-changelog-core-v4.2.2, True
+5103, conventional-changelog-conventionalcommits, conventional-recommended-bump-v6.0.12, True
+5104, conventional-changelog-conventionalcommits, git-raw-commits-v2.0.9, True
+5105, conventional-changelog-conventionalcommits, conventional-changelog-writer-v4.1.0, True
+5106, conventional-changelog-conventionalcommits, v1.1.0, False, 1, 0, 0, 1, 0
+5107, conventional-changelog-conventionalcommits, v1.0.2, False, 12, 0, 8, 4, 0
+5108, conventional-changelog-conventionalcommits, v1.0.0, False, 12, 0, 8, 4, 0
+5109, conventional-changelog-conventionalcommits, v0.5.3, False, 30, 2, 17, 11, 0
+5110, conventional-changelog-conventionalcommits, v0.5.2, False, 30, 2, 17, 11, 0
+5111, conventional-changelog-conventionalcommits, v0.5.1, False, 30, 2, 17, 11, 0
+5112, conventional-changelog-conventionalcommits, v0.5.0, False, 30, 2, 17, 11, 0
+5113, conventional-changelog-conventionalcommits, v0.4.3, False, 46, 3, 23, 20, 0
+5114, conventional-changelog-conventionalcommits, v0.4.2, False, 46, 3, 23, 20, 0
+5115, conventional-changelog-conventionalcommits, v0.4.1, False, 46, 3, 23, 20, 0
+5116, conventional-changelog-conventionalcommits, v0.4.0, False, 46, 3, 23, 20, 0
+5117, conventional-changelog-conventionalcommits, v0.3.2, False, 46, 3, 23, 20, 0
+5118, conventional-changelog-conventionalcommits, v0.3.0, False, 46, 3, 23, 20, 0
+5119, conventional-changelog-conventionalcommits, v0.3.1, False, 46, 3, 23, 20, 0
+5120, conventional-changelog-conventionalcommits, v0.2.0, False, 46, 3, 23, 20, 0
+5121, github-markdown-css, v5.0.0, True
+5122, github-markdown-css, v4.0.0, True
+5123, github-markdown-css, v3.0.1, True
+5124, github-markdown-css, v3.0.0, True
+5125, github-markdown-css, 0.2.0, False, 37, 1, 9, 24, 3
+5126, bizcharts, v3.5.10, False, 5, 0, 0, 5, 0
+5127, bizcharts, v4.1.14, False, 10, 0, 0, 10, 0
+5128, bizcharts, v4.1.13, False, 10, 0, 0, 10, 0
+5129, bizcharts, v4.1.12, False, 10, 0, 0, 10, 0
+5130, bizcharts, 4.1.11, False, 10, 0, 0, 10, 0
+5131, bizcharts, v4.1.10, False, 10, 0, 0, 10, 0
+5132, bizcharts, v4.1.9, False, 10, 0, 0, 10, 0
+5133, bizcharts, v4.1.8, False, 10, 0, 0, 10, 0
+5134, bizcharts, v4.1.7, False, 10, 0, 0, 10, 0
+5135, bizcharts, v4.1.6, False, 10, 0, 0, 10, 0
+5136, bizcharts, v4.1.5, False, 10, 0, 0, 10, 0
+5137, bizcharts, v4.1.4, False, 10, 0, 0, 10, 0
+5138, bizcharts, v4.1.3, False, 10, 0, 0, 10, 0
+5139, bizcharts, v4.1.1, False, 10, 0, 0, 10, 0
+5140, bizcharts, v4.1.0, False, 10, 0, 0, 10, 0
+5141, bizcharts, v4.0.16, False, 14, 0, 0, 14, 0
+5142, bizcharts, v4.0.15, False, 14, 0, 0, 14, 0
+5143, bizcharts, v4.0.14, False, 15, 0, 0, 15, 0
+5144, bizcharts, v4.0.13, False, 15, 0, 0, 15, 0
+5145, bizcharts, v4.0.12, False, 15, 0, 0, 15, 0
+5146, bizcharts, v4.0.11, False, 14, 0, 0, 14, 0
+5147, node-telegram-bot-api, v0.50.0, True
+5148, node-telegram-bot-api, v0.30.0, True
+5149, node-telegram-bot-api, v0.29.0, True
+5150, node-telegram-bot-api, v0.28.0, True
+5151, node-telegram-bot-api, v0.27.1, True
+5152, node-telegram-bot-api, v0.27.0, True
+5153, node-telegram-bot-api, v0.26.0, True
+5154, node-telegram-bot-api, v0.25.0, True
+5155, bs-platform, 9.1.4, True
+5156, bs-platform, 9.1.3, True
+5157, bs-platform, 9.1.2, True
+5158, bs-platform, 9.0.2, True
+5159, bs-platform, 9.0.1, True
+5160, bs-platform, 9.0.0, True
+5161, bs-platform, 8.4.2, True
+5162, bs-platform, 8.3.1, True
+5163, bs-platform, 8.2.0, True
+5164, bs-platform, 8.0.3, True
+5165, bs-platform, 8.0.1, True
+5166, bs-platform, 7.3.2, True
+5167, bs-platform, 7.3.1, True
+5168, bs-platform, 7.2.2, True
+5169, bs-platform, 7.2.0, True
+5170, bs-platform, 7.1.0, True
+5171, bs-platform, 7.0.1, True
+5172, bs-platform, 6.2.1, True
+5173, bs-platform, 5.2.1, True
+5174, bs-platform, 6.2.0, True
+5175, bs-platform, 5.2.0, True
+5176, bs-platform, 3.1.0, True
+5177, bs-platform, 3.0.0, True
+5178, bs-platform, 2.2.3, True
+5179, bs-platform, 1.9.0, True
+5180, bs-platform, 1.4.3, True
+5181, bs-platform, 1.4.2, True
+5182, bs-platform, 1.4.1, True
+5183, bs-platform, 1.0, True
+5184, zombie, 6.1.4, True
+5185, x-ray, 2.3.4, False, 4, 0, 2, 2, 0
+5186, x-ray, 2.1.0, False, 4, 0, 1, 1, 2
+5187, config, v3.3.6, True
+5188, seamless-immutable, 7.1.4, True
+5189, unfetch, 4.2.0, True
+5190, unfetch, 4.1.0, True
+5191, unfetch, 4.0.1, True
+5192, unfetch, 3.1.2, True
+5193, unfetch, 4.0.0, True
+5194, unfetch, 3.1.1, True
+5195, unfetch, 3.1.0, True
+5196, unfetch, 3.0.0, True
+5197, unfetch, 2.1.2, True
+5198, unfetch, 2.1.1, True
+5199, unfetch, 2.1.0, True
+5200, unfetch, 2.0.1, True
+5201, unfetch, 2.0.0, True
+5202, unfetch, 1.0.1, True
+5203, isomorphic-unfetch, 4.2.0, True
+5204, isomorphic-unfetch, 4.1.0, True
+5205, isomorphic-unfetch, 4.0.1, True
+5206, isomorphic-unfetch, 3.1.2, True
+5207, isomorphic-unfetch, 4.0.0, True
+5208, isomorphic-unfetch, 3.1.1, True
+5209, isomorphic-unfetch, 3.1.0, True
+5210, isomorphic-unfetch, 3.0.0, True
+5211, isomorphic-unfetch, 2.1.2, True
+5212, isomorphic-unfetch, 2.1.1, True
+5213, isomorphic-unfetch, 2.1.0, True
+5214, isomorphic-unfetch, 2.0.1, True
+5215, isomorphic-unfetch, 2.0.0, False, 1, 0, 0, 1, 0
+5216, isomorphic-unfetch, 1.0.1, True
+5217, edge, v8.2.1, True
+5218, edge, v0.9.3, True
+5219, vue-property-decorator, v8.4.2, True
+5220, vue-property-decorator, v8.3.0, True
+5221, vue-property-decorator, v8.2.2, True
+5222, vue-property-decorator, v8.2.1, True
+5223, vue-property-decorator, v8.2.0, True
+5224, vue-property-decorator, v8.1.1, True
+5225, vue-property-decorator, v8.1.0, True
+5226, vue-property-decorator, v8.0.0, True
+5227, vue-property-decorator, v7.3.0, True
+5228, vue-property-decorator, v7.2.0, True
+5229, vue-property-decorator, v7.1.0, True
+5230, vue-property-decorator, v7.0.0, True
+5231, vue-property-decorator, v6.1.0, True
+5232, vue-property-decorator, v6.0.0, True
+5233, vue-property-decorator, v5.3.0, True
+5234, vue-property-decorator, v5.2.1, True
+5235, npm, v8.1.3, False, 2, 0, 2, 0, 0
+5236, @std/esm, 3.2.25, True
+5237, @std/esm, 3.2.24, True
+5238, @std/esm, 3.2.23, True
+5239, @std/esm, 3.2.22, True
+5240, @std/esm, 3.2.21, True
+5241, @std/esm, 3.2.20, True
+5242, @std/esm, 3.2.19, True
+5243, @std/esm, 3.2.18, True
+5244, @std/esm, 3.2.17, True
+5245, @std/esm, 3.2.16, True
+5246, @std/esm, 3.2.15, True
+5247, @std/esm, 3.2.14, True
+5248, @std/esm, 3.2.13, True
+5249, @std/esm, 3.2.12, True
+5250, @std/esm, 3.2.11, True
+5251, @std/esm, 3.2.10, True
+5252, @std/esm, 3.2.9, True
+5253, @std/esm, 3.2.8, True
+5254, @std/esm, 3.2.7, True
+5255, @std/esm, 3.2.6, True
+5256, @std/esm, 3.2.5, True
+5257, @std/esm, 3.2.4, True
+5258, @std/esm, 3.2.3, True
+5259, @std/esm, 3.2.2, True
+5260, @std/esm, 3.2.1, True
+5261, @std/esm, 3.2.0, True
+5262, @std/esm, 3.1.4, True
+5263, @std/esm, 3.1.3, True
+5264, @std/esm, 3.1.2, True
+5265, @std/esm, 3.1.1, True
+5266, nodegit, v0.27.0, False, 1, 0, 0, 1, 0
+5267, nodegit, v0.27.0-alpha.1, False, 1, 0, 0, 1, 0
+5268, nodegit, v0.26.5, False, 1, 0, 0, 1, 0
+5269, nodegit, v0.26.4, False, 1, 0, 0, 1, 0
+5270, nodegit, v0.26.3, False, 1, 0, 0, 1, 0
+5271, nodegit, v0.26.2, False, 5, 0, 4, 1, 0
+5272, nodegit, v0.26.1, False, 5, 0, 4, 1, 0
+5273, nodegit, v0.26.0, False, 5, 0, 4, 1, 0
+5274, nodegit, v0.25.1, False, 5, 0, 4, 1, 0
+5275, nodegit, v0.25.0, False, 5, 0, 4, 1, 0
+5276, nodegit, v0.25.0-alpha.16, False, 5, 0, 4, 1, 0
+5277, nodegit, v0.25.0-alpha.15, False, 5, 0, 4, 1, 0
+5278, nodegit, v0.25.0-alpha.14, False, 5, 0, 4, 1, 0
+5279, nodegit, v0.25.0-alpha.12, False, 5, 0, 4, 1, 0
+5280, nodegit, v0.25.0-alpha.11, False, 5, 0, 4, 1, 0
+5281, nodegit, v0.25.0-alpha.13, False, 5, 0, 4, 1, 0
+5282, nodegit, v0.25.0-alpha.10, False, 5, 0, 4, 1, 0
+5283, nodegit, v0.25.0-alpha.9, False, 11, 0, 9, 1, 1
+5284, nodegit, v0.25.0-alpha.8, False, 11, 0, 9, 1, 1
+5285, nodegit, v0.25.0-alpha.7, False, 11, 0, 9, 1, 1
+5286, nodegit, v0.25.0-alpha.6, False, 11, 0, 9, 1, 1
+5287, nodegit, v0.24.1, False, 11, 0, 9, 1, 1
+5288, nodegit, v0.23.1, False, 11, 0, 9, 1, 1
+5289, nodegit, v0.25.0-alpha.5, False, 11, 0, 9, 1, 1
+5290, nodegit, v0.25.0-alpha.4, False, 11, 0, 9, 1, 1
+5291, nodegit, v0.25.0-alpha.3, False, 11, 0, 9, 1, 1
+5292, nodegit, v0.25.0-alpha.2, False, 11, 0, 9, 1, 1
+5293, nodegit, v0.25.0-alpha.1, False, 11, 0, 9, 1, 1
+5294, nodegit, v0.24.0, False, 11, 0, 9, 1, 1
+5295, nodegit, v0.23.0, False, 11, 0, 9, 1, 1
+5296, io-ts, 2.2.16, True
+5297, io-ts, 2.2.15, True
+5298, io-ts, 2.2.14, True
+5299, io-ts, 2.2.13, True
+5300, io-ts, 2.2.12, True
+5301, io-ts, 2.2.11, True
+5302, io-ts, 2.2.10, True
+5303, io-ts, 2.2.9, True
+5304, io-ts, 2.2.8, True
+5305, io-ts, 2.2.7, True
+5306, io-ts, 2.2.6, True
+5307, io-ts, 2.2.5, True
+5308, io-ts, 2.2.4, True
+5309, io-ts, 2.2.3, True
+5310, io-ts, 2.2.2, True
+5311, io-ts, 2.2.1, True
+5312, io-ts, 2.2.0, True
+5313, io-ts, 2.1.3, True
+5314, io-ts, 2.1.1, True
+5315, io-ts, 2.1.0, True
+5316, io-ts, 2.0.6, True
+5317, io-ts, 2.0.5, True
+5318, io-ts, 2.0.4, True
+5319, io-ts, 2.0.3, True
+5320, io-ts, 2.0.2, True
+5321, io-ts, 2.0.1, True
+5322, io-ts, 2.0.0, True
+5323, io-ts, 1.10.4, True
+5324, io-ts, 1.10.3, True
+5325, io-ts, 1.10.2, True
+5326, @serialport/bindings, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5327, @serialport/bindings, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5328, @serialport/bindings, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5329, @serialport/bindings, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5330, @serialport/bindings, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5331, @serialport/bindings, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5332, @serialport/bindings, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5333, @serialport/bindings, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5334, @serialport/bindings, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5335, @serialport/bindings, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5336, @serialport/bindings, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5337, @serialport/bindings, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5338, @serialport/bindings, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5339, @serialport/bindings, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5340, @serialport/bindings, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5341, @serialport/bindings, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5342, @serialport/bindings, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5343, @serialport/bindings, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5344, @serialport/bindings, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5345, @serialport/bindings, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5346, @serialport/bindings, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5347, @serialport/bindings, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5348, @serialport/bindings, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5349, @serialport/bindings, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5350, @serialport/bindings, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5351, @serialport/bindings, v6.2.2, False, 5, 0, 2, 3, 0
+5352, @serialport/bindings, v6.2.1, False, 5, 0, 2, 3, 0
+5353, @serialport/bindings, v6.2.0, False, 5, 0, 2, 3, 0
+5354, @serialport/bindings, v6.1.1, False, 5, 0, 2, 3, 0
+5355, @serialport/bindings, v6.1.0, False, 5, 0, 2, 3, 0
+5356, @serialport/parser-byte-length, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5357, @serialport/parser-byte-length, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5358, @serialport/parser-byte-length, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5359, @serialport/parser-byte-length, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5360, @serialport/parser-byte-length, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5361, @serialport/parser-byte-length, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5362, @serialport/parser-byte-length, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5363, @serialport/parser-byte-length, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5364, @serialport/parser-byte-length, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5365, @serialport/parser-byte-length, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5366, @serialport/parser-byte-length, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5367, @serialport/parser-byte-length, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5368, @serialport/parser-byte-length, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5369, @serialport/parser-byte-length, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5370, @serialport/parser-byte-length, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5371, @serialport/parser-byte-length, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5372, @serialport/parser-byte-length, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5373, @serialport/parser-byte-length, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5374, @serialport/parser-byte-length, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5375, @serialport/parser-byte-length, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5376, @serialport/parser-byte-length, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5377, @serialport/parser-byte-length, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5378, @serialport/parser-byte-length, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5379, @serialport/parser-byte-length, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5380, @serialport/parser-byte-length, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5381, @serialport/parser-byte-length, v6.2.2, False, 5, 0, 2, 3, 0
+5382, @serialport/parser-byte-length, v6.2.1, False, 5, 0, 2, 3, 0
+5383, @serialport/parser-byte-length, v6.2.0, False, 5, 0, 2, 3, 0
+5384, @serialport/parser-byte-length, v6.1.1, False, 5, 0, 2, 3, 0
+5385, @serialport/parser-byte-length, v6.1.0, False, 5, 0, 2, 3, 0
+5386, @serialport/binding-mock, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5387, @serialport/binding-mock, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5388, @serialport/binding-mock, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5389, @serialport/binding-mock, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5390, @serialport/binding-mock, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5391, @serialport/binding-mock, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5392, @serialport/binding-mock, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5393, @serialport/binding-mock, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5394, @serialport/binding-mock, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5395, @serialport/binding-mock, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5396, @serialport/binding-mock, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5397, @serialport/binding-mock, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5398, @serialport/binding-mock, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5399, @serialport/binding-mock, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5400, @serialport/binding-mock, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5401, @serialport/binding-mock, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5402, @serialport/binding-mock, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5403, @serialport/binding-mock, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5404, @serialport/binding-mock, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5405, @serialport/binding-mock, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5406, @serialport/binding-mock, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5407, @serialport/binding-mock, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5408, @serialport/binding-mock, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5409, @serialport/binding-mock, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5410, @serialport/binding-mock, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5411, @serialport/binding-mock, v6.2.2, False, 5, 0, 2, 3, 0
+5412, @serialport/binding-mock, v6.2.1, False, 5, 0, 2, 3, 0
+5413, @serialport/binding-mock, v6.2.0, False, 5, 0, 2, 3, 0
+5414, @serialport/binding-mock, v6.1.1, False, 5, 0, 2, 3, 0
+5415, @serialport/binding-mock, v6.1.0, False, 5, 0, 2, 3, 0
+5416, @serialport/parser-cctalk, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5417, @serialport/parser-cctalk, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5418, @serialport/parser-cctalk, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5419, @serialport/parser-cctalk, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5420, @serialport/parser-cctalk, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5421, @serialport/parser-cctalk, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5422, @serialport/parser-cctalk, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5423, @serialport/parser-cctalk, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5424, @serialport/parser-cctalk, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5425, @serialport/parser-cctalk, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5426, @serialport/parser-cctalk, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5427, @serialport/parser-cctalk, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5428, @serialport/parser-cctalk, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5429, @serialport/parser-cctalk, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5430, @serialport/parser-cctalk, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5431, @serialport/parser-cctalk, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5432, @serialport/parser-cctalk, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5433, @serialport/parser-cctalk, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5434, @serialport/parser-cctalk, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5435, @serialport/parser-cctalk, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5436, @serialport/parser-cctalk, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5437, @serialport/parser-cctalk, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5438, @serialport/parser-cctalk, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5439, @serialport/parser-cctalk, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5440, @serialport/parser-cctalk, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5441, @serialport/parser-cctalk, v6.2.2, False, 5, 0, 2, 3, 0
+5442, @serialport/parser-cctalk, v6.2.1, False, 5, 0, 2, 3, 0
+5443, @serialport/parser-cctalk, v6.2.0, False, 5, 0, 2, 3, 0
+5444, @serialport/parser-cctalk, v6.1.1, False, 5, 0, 2, 3, 0
+5445, @serialport/parser-cctalk, v6.1.0, False, 5, 0, 2, 3, 0
+5446, @serialport/parser-ready, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5447, @serialport/parser-ready, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5448, @serialport/parser-ready, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5449, @serialport/parser-ready, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5450, @serialport/parser-ready, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5451, @serialport/parser-ready, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5452, @serialport/parser-ready, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5453, @serialport/parser-ready, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5454, @serialport/parser-ready, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5455, @serialport/parser-ready, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5456, @serialport/parser-ready, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5457, @serialport/parser-ready, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5458, @serialport/parser-ready, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5459, @serialport/parser-ready, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5460, @serialport/parser-ready, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5461, @serialport/parser-ready, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5462, @serialport/parser-ready, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5463, @serialport/parser-ready, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5464, @serialport/parser-ready, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5465, @serialport/parser-ready, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5466, @serialport/parser-ready, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5467, @serialport/parser-ready, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5468, @serialport/parser-ready, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5469, @serialport/parser-ready, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5470, @serialport/parser-ready, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5471, @serialport/parser-ready, v6.2.2, False, 5, 0, 2, 3, 0
+5472, @serialport/parser-ready, v6.2.1, False, 5, 0, 2, 3, 0
+5473, @serialport/parser-ready, v6.2.0, False, 5, 0, 2, 3, 0
+5474, @serialport/parser-ready, v6.1.1, False, 5, 0, 2, 3, 0
+5475, @serialport/parser-ready, v6.1.0, False, 5, 0, 2, 3, 0
+5476, @serialport/stream, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5477, @serialport/stream, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5478, @serialport/stream, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5479, @serialport/stream, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5480, @serialport/stream, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5481, @serialport/stream, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5482, @serialport/stream, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5483, @serialport/stream, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5484, @serialport/stream, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5485, @serialport/stream, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5486, @serialport/stream, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5487, @serialport/stream, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5488, @serialport/stream, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5489, @serialport/stream, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5490, @serialport/stream, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5491, @serialport/stream, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5492, @serialport/stream, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5493, @serialport/stream, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5494, @serialport/stream, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5495, @serialport/stream, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5496, @serialport/stream, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5497, @serialport/stream, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5498, @serialport/stream, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5499, @serialport/stream, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5500, @serialport/stream, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5501, @serialport/stream, v6.2.2, False, 5, 0, 2, 3, 0
+5502, @serialport/stream, v6.2.1, False, 5, 0, 2, 3, 0
+5503, @serialport/stream, v6.2.0, False, 5, 0, 2, 3, 0
+5504, @serialport/stream, v6.1.1, False, 5, 0, 2, 3, 0
+5505, @serialport/stream, v6.1.0, False, 5, 0, 2, 3, 0
+5506, @serialport/parser-readline, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5507, @serialport/parser-readline, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5508, @serialport/parser-readline, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5509, @serialport/parser-readline, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5510, @serialport/parser-readline, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5511, @serialport/parser-readline, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5512, @serialport/parser-readline, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5513, @serialport/parser-readline, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5514, @serialport/parser-readline, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5515, @serialport/parser-readline, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5516, @serialport/parser-readline, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5517, @serialport/parser-readline, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5518, @serialport/parser-readline, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5519, @serialport/parser-readline, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5520, @serialport/parser-readline, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5521, @serialport/parser-readline, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5522, @serialport/parser-readline, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5523, @serialport/parser-readline, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5524, @serialport/parser-readline, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5525, @serialport/parser-readline, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5526, @serialport/parser-readline, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5527, @serialport/parser-readline, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5528, @serialport/parser-readline, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5529, @serialport/parser-readline, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5530, @serialport/parser-readline, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5531, @serialport/parser-readline, v6.2.2, False, 5, 0, 2, 3, 0
+5532, @serialport/parser-readline, v6.2.1, False, 5, 0, 2, 3, 0
+5533, @serialport/parser-readline, v6.2.0, False, 5, 0, 2, 3, 0
+5534, @serialport/parser-readline, v6.1.1, False, 5, 0, 2, 3, 0
+5535, @serialport/parser-readline, v6.1.0, False, 5, 0, 2, 3, 0
+5536, @serialport/parser-delimiter, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5537, @serialport/parser-delimiter, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5538, @serialport/parser-delimiter, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5539, @serialport/parser-delimiter, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5540, @serialport/parser-delimiter, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5541, @serialport/parser-delimiter, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5542, @serialport/parser-delimiter, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5543, @serialport/parser-delimiter, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5544, @serialport/parser-delimiter, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5545, @serialport/parser-delimiter, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5546, @serialport/parser-delimiter, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5547, @serialport/parser-delimiter, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5548, @serialport/parser-delimiter, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5549, @serialport/parser-delimiter, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5550, @serialport/parser-delimiter, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5551, @serialport/parser-delimiter, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5552, @serialport/parser-delimiter, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5553, @serialport/parser-delimiter, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5554, @serialport/parser-delimiter, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5555, @serialport/parser-delimiter, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5556, @serialport/parser-delimiter, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5557, @serialport/parser-delimiter, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5558, @serialport/parser-delimiter, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5559, @serialport/parser-delimiter, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5560, @serialport/parser-delimiter, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5561, @serialport/parser-delimiter, v6.2.2, False, 5, 0, 2, 3, 0
+5562, @serialport/parser-delimiter, v6.2.1, False, 5, 0, 2, 3, 0
+5563, @serialport/parser-delimiter, v6.2.0, False, 5, 0, 2, 3, 0
+5564, @serialport/parser-delimiter, v6.1.1, False, 5, 0, 2, 3, 0
+5565, @serialport/parser-delimiter, v6.1.0, False, 5, 0, 2, 3, 0
+5566, @serialport/parser-regex, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+5567, @serialport/parser-regex, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+5568, @serialport/parser-regex, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+5569, @serialport/parser-regex, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+5570, @serialport/parser-regex, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+5571, @serialport/parser-regex, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+5572, @serialport/parser-regex, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+5573, @serialport/parser-regex, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+5574, @serialport/parser-regex, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+5575, @serialport/parser-regex, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+5576, @serialport/parser-regex, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+5577, @serialport/parser-regex, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+5578, @serialport/parser-regex, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+5579, @serialport/parser-regex, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+5580, @serialport/parser-regex, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+5581, @serialport/parser-regex, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+5582, @serialport/parser-regex, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+5583, @serialport/parser-regex, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+5584, @serialport/parser-regex, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+5585, @serialport/parser-regex, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+5586, @serialport/parser-regex, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+5587, @serialport/parser-regex, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+5588, @serialport/parser-regex, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+5589, @serialport/parser-regex, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+5590, @serialport/parser-regex, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+5591, @serialport/parser-regex, v6.2.2, False, 5, 0, 2, 3, 0
+5592, @serialport/parser-regex, v6.2.1, False, 5, 0, 2, 3, 0
+5593, @serialport/parser-regex, v6.2.0, False, 5, 0, 2, 3, 0
+5594, @serialport/parser-regex, v6.1.1, False, 5, 0, 2, 3, 0
+5595, @serialport/parser-regex, v6.1.0, False, 5, 0, 2, 3, 0
+5596, vue-loader, v16.8.3, True
+5597, react-ga, v3.3.0, True
+5598, react-ga, v3.2.1, True
+5599, react-ga, v3.2.0, True
+5600, react-ga, v3.1.2, True
+5601, react-ga, v3.1.1, True
+5602, react-ga, v3.1.0, True
+5603, react-ga, v3.0.0, True
+5604, react-ga, v2.7.0, True
+5605, react-ga, 2.6.0, True
+5606, react-ga, v2.5.7, True
+5607, react-ga, v2.5.6, True
+5608, react-ga, 2.5.4, True
+5609, react-ga, 2.5.3, True
+5610, react-ga, 2.5.2, True
+5611, react-ga, 2.5.1, True
+5612, react-ga, v2.5.0, True
+5613, react-ga, v2.4.1, True
+5614, react-ga, v2.4.0, False, 1, 0, 0, 1, 0
+5615, react-ga, v2.3.6, True
+5616, react-ga, v2.3.5, True
+5617, react-ga, v2.3.0, True
+5618, react-ga, v2.2.0, True
+5619, react-ga, v2.1.2, True
+5620, react-ga, v2.1.1, True
+5621, react-ga, v2.1.0, True
+5622, react-ga, v2.0.0, True
+5623, react-ga, v1.5.0, True
+5624, @nlpjs/core, 4.14.2, True
+5625, @nlpjs/core, 3.10.2, False, 4, 0, 3, 0, 1
+5626, @nlpjs/core, 3.10.1, False, 4, 0, 3, 0, 1
+5627, @nlpjs/core, 3.10.0, False, 4, 0, 3, 0, 1
+5628, @nlpjs/core, 3.9.0, False, 4, 0, 3, 0, 1
+5629, @nlpjs/core, 3.8.0, False, 4, 0, 3, 0, 1
+5630, @nlpjs/core, 3.7.2, False, 4, 0, 3, 0, 1
+5631, @nlpjs/core, 3.7.1, False, 4, 0, 3, 0, 1
+5632, @nlpjs/core, 3.7.0, False, 4, 0, 3, 0, 1
+5633, @nlpjs/core, 3.5.2, False, 4, 0, 3, 0, 1
+5634, @nlpjs/core, 3.5.1, False, 4, 0, 3, 0, 1
+5635, @nlpjs/core, 3.5.0, False, 4, 0, 3, 0, 1
+5636, @nlpjs/core, 3.4.0, False, 4, 0, 3, 0, 1
+5637, @nlpjs/core, 3.2.1, False, 4, 0, 3, 0, 1
+5638, @nlpjs/core, 3.1.1, False, 4, 0, 3, 0, 1
+5639, @nlpjs/core, 3.1.0, False, 4, 0, 3, 0, 1
+5640, @nlpjs/core, 3.0.2, False, 4, 0, 3, 0, 1
+5641, @nlpjs/core, 3.0.1, False, 4, 0, 3, 0, 1
+5642, @nlpjs/core, 2.5.2, False, 5, 0, 4, 0, 1
+5643, @nlpjs/core, 2.5.1, False, 5, 0, 4, 0, 1
+5644, @nlpjs/core, 2.4.1, False, 5, 0, 4, 0, 1
+5645, @nlpjs/core, 2.4.0, False, 5, 0, 4, 0, 1
+5646, @nlpjs/core, 2.3.2, False, 5, 0, 4, 0, 1
+5647, @nlpjs/core, 2.3.1, False, 5, 0, 4, 0, 1
+5648, @nlpjs/core, 2.3.0, False, 5, 0, 4, 0, 1
+5649, @nlpjs/core, 2.1.2, False, 5, 0, 4, 0, 1
+5650, @nlpjs/core, 2.1.0, False, 5, 0, 4, 0, 1
+5651, @nlpjs/core, 2.0.4, False, 5, 0, 4, 0, 1
+5652, @nlpjs/core, 2.0.3, False, 5, 0, 4, 0, 1
+5653, @nlpjs/core, 2.0.2, False, 5, 0, 4, 0, 1
+5654, bourbon-neat, v4.0.0, True
+5655, bourbon-neat, v3.0.1, True
+5656, bourbon-neat, v3.0.0, True
+5657, bourbon-neat, v1.9.1, False, 28, 0, 15, 12, 1
+5658, bourbon-neat, v1.9.0, False, 28, 0, 15, 12, 1
+5659, bourbon-neat, v2.1.0, True
+5660, bourbon-neat, v2.0.0, True
+5661, bourbon-neat, v2.0.0.beta.2, True
+5662, bourbon-neat, v2.0.0.beta.1, False, 40, 0, 22, 17, 1
+5663, bourbon-neat, v2.0.0.alpha.1, False, 40, 0, 22, 17, 1
+5664, bourbon-neat, v2.0.0.alpha.0, False, 40, 0, 22, 17, 1
+5665, bourbon-neat, v1.8.0, False, 40, 0, 22, 17, 1
+5666, bourbon-neat, v1.7.4, False, 40, 0, 22, 17, 1
+5667, bourbon-neat, v1.7.3, False, 40, 0, 22, 17, 1
+5668, bourbon-neat, v1.7.2, True
+5669, bourbon-neat, v1.7.1, True
+5670, bourbon-neat, v1.7.0, error, Couldn't find the requested package or version
+5671, bourbon-neat, v1.7.0.rc, error, Couldn't find the requested package or version
+5672, bourbon-neat, v1.7.0.pre, error, Couldn't find the requested package or version
+5673, bourbon-neat, v1.5.1, error, Couldn't find the requested package or version
+5674, bourbon-neat, v1.6.0, error, Couldn't find the requested package or version
+5675, bourbon-neat, v1.6.0.pre2, error, Couldn't find the requested package or version
+5676, bourbon-neat, v1.6.0.pre, error, Couldn't find the requested package or version
+5677, bourbon-neat, v1.5.0, error, Couldn't find the requested package or version
+5678, bourbon-neat, v1.4.0, error, Couldn't find the requested package or version
+5679, @polymer/lit-element, v2.4.0, True
+5680, @polymer/lit-element, v2.3.1, True
+5681, @polymer/lit-element, v2.3.0, True
+5682, @polymer/lit-element, v2.1.0, True
+5683, @polymer/lit-element, v2.0.1, True
+5684, @polymer/lit-element, v2.0.0, True
+5685, @polymer/lit-element, v0.6.4, True
+5686, @polymer/lit-element, v0.6.3, True
+5687, @polymer/lit-element, v0.6.2, True
+5688, @polymer/lit-element, 0.6.1, True
+5689, @polymer/lit-element, 0.6.0, True
+5690, @polymer/lit-element, v0.6.0-dev.6, True
+5691, lit-element, v2.4.0, True
+5692, lit-element, v2.3.1, True
+5693, lit-element, v2.3.0, True
+5694, lit-element, v2.1.0, True
+5695, lit-element, v2.0.1, True
+5696, lit-element, v2.0.0, True
+5697, lit-element, v0.6.4, True
+5698, lit-element, v0.6.3, True
+5699, lit-element, v0.6.2, True
+5700, lit-element, 0.6.1, True
+5701, lit-element, 0.6.0, True
+5702, lit-element, v0.6.0-dev.6, True
+5703, graphql-tools, @graphql-tools/github-loader@7.2.1, error, Couldn't find the requested package or version
+5704, graphql-tools, @graphql-tools/apollo-engine-loader@7.2.1, error, Couldn't find the requested package or version
+5705, graphql-tools, @graphql-tools/url-loader@7.5.1, error, Couldn't find the requested package or version
+5706, graphql-tools, @graphql-tools/apollo-engine-loader@7.2.0, error, Couldn't find the requested package or version
+5707, graphql-tools, @graphql-tools/url-loader@7.5.0, error, Couldn't find the requested package or version
+5708, graphql-tools, @graphql-tools/github-loader@7.2.0, error, Couldn't find the requested package or version
+5709, emojione, 4.5.0, True
+5710, emojione, 4.0.0, True
+5711, emojione, 3.1.7, True
+5712, emojione, 3.1.6, True
+5713, emojione, 3.1.5, True
+5714, emojione, 3.1.4, True
+5715, emojione, 3.1.3, True
+5716, emojione, 3.1.2, True
+5717, emojione, v3.1.1, True
+5718, emojione, v3.1.0, True
+5719, emojione, v3.0.3, True
+5720, emojione, v3.0.2, True
+5721, emojione, v3.0.1, True
+5722, emojione, v3.0.0, True
+5723, emojione, v2.2.7, True
+5724, emojione, v2.2.6, True
+5725, emojione, v2.2.5, True
+5726, emojione, v2.2.4, True
+5727, emojione, v2.2.3, True
+5728, emojione, v2.2.2, True
+5729, emojione, v2.2.1, True
+5730, emojione, v2.2.0, True
+5731, emojione, v2.1.4, True
+5732, emojione, v2.1.3, True
+5733, emojione, v2.1.2, True
+5734, emojione, v2.1.1, True
+5735, emojione, v2.1.0, True
+5736, emojione, v2.0.1, True
+5737, emojione, v2.0.0, True
+5738, emojione, v1.5.2, True
+5739, sugar-core, 2.0.2, True
+5740, sugar-core, 2.0.0, True
+5741, sugar-core, 1.5.0, True
+5742, sugar-core, 1.4.1, True
+5743, sugar-core, 1.3.9, True
+5744, sugar, 2.0.2, True
+5745, sugar, 2.0.0, True
+5746, sugar, 1.5.0, True
+5747, sugar, 1.4.1, True
+5748, sugar, 1.3.9, True
+5749, angular-translate, 2.19.0, True
+5750, angular-translate, 2.18.4, True
+5751, angular-translate, 2.18.3, True
+5752, angular-translate, 2.18.2, True
+5753, angular-translate, 2.18.1, False, 2, 0, 1, 1, 0
+5754, angular-translate, 2.18.0, False, 2, 0, 1, 1, 0
+5755, angular-translate, 2.17.1, False, 3, 0, 2, 1, 0
+5756, angular-translate, 2.17.0, False, 3, 0, 2, 1, 0
+5757, angular-translate, 2.16.0, False, 3, 0, 2, 1, 0
+5758, angular-translate, 2.15.2, False, 3, 0, 2, 1, 0
+5759, angular-translate, 2.15.1, False, 3, 0, 2, 1, 0
+5760, angular-translate, 2.15.0, False, 3, 0, 2, 1, 0
+5761, angular-translate, 2.14.0, False, 3, 0, 2, 1, 0
+5762, angular-translate, 2.13.1, False, 3, 0, 2, 1, 0
+5763, angular-translate, 2.13.0, False, 3, 0, 2, 1, 0
+5764, angular-translate, 2.12.1, False, 3, 0, 2, 1, 0
+5765, angular-translate, 2.12.0, False, 3, 0, 2, 1, 0
+5766, angular-translate, 2.11.1, False, 3, 0, 2, 1, 0
+5767, angular-translate, 2.11.0, False, 3, 0, 2, 1, 0
+5768, angular-translate, 2.10.0, False, 3, 0, 2, 1, 0
+5769, angular-translate, 2.9.2, False, 3, 0, 2, 1, 0
+5770, angular-translate, 2.9.1, False, 10, 0, 2, 8, 0
+5771, angular-translate, 2.9.0, False, 9, 0, 2, 7, 0
+5772, angular-translate, 2.8.1, True
+5773, angular-translate, 2.8.0, True
+5774, angular-translate, 2.7.2, True
+5775, angular-translate, 2.7.1, True
+5776, angular-translate, 2.7.0, True
+5777, angular-translate, 2.6.1, True
+5778, angular-translate, 2.6.0, True
+5779, core-decorators, v0.12.1, True
+5780, core-decorators, v0.12.0, True
+5781, core-decorators, v0.11.2, True
+5782, core-decorators, v0.10.0, True
+5783, core-decorators, v0.9.0, True
+5784, core-decorators, v0.7.0, True
+5785, core-decorators, v0.4.3, True
+5786, core-decorators, v0.1.5, True
+5787, core-decorators, v0.1.0, True
+5788, mini-css-extract-plugin, v2.4.4, True
+5789, bitcoinjs-lib, v4.0.3, True
+5790, gl-matrix, v3.4.1, True
+5791, gl-matrix, v3.3.0, True
+5792, gl-matrix, v3.2.1, True
+5793, gl-matrix, v.3.2.0, True
+5794, gl-matrix, v3.1.0, True
+5795, gl-matrix, v3.0.0, True
+5796, gl-matrix, v3.0.0-0, True
+5797, gl-matrix, v2.8.1, True
+5798, gl-matrix, v2.7.0, False, 32, 0, 26, 6, 0
+5799, gl-matrix, v2.6.1, True
+5800, gl-matrix, v2.4.0, True
+5801, google-closure-library, v20210808, True
+5802, google-closure-library, v20210601, True
+5803, google-closure-library, v20210406, True
+5804, google-closure-library, v20210302, True
+5805, google-closure-library, v20210202, True
+5806, google-closure-library, v20210106, True
+5807, google-closure-library, v20201102, True
+5808, google-closure-library, v20201006, True
+5809, google-closure-library, v20200927, True
+5810, google-closure-library, v20200830, True
+5811, google-closure-library, v20200719, True
+5812, google-closure-library, v20200628, True
+5813, google-closure-library, v20200614, True
+5814, google-closure-library, v20200517, True
+5815, google-closure-library, v20200504, True
+5816, google-closure-library, v20200406, True
+5817, google-closure-library, v20200315, True
+5818, google-closure-library, v20200224, False, 1, 0, 0, 1, 0
+5819, google-closure-library, v20200204, False, 1, 0, 0, 1, 0
+5820, google-closure-library, v20200112, False, 9, 1, 3, 3, 2
+5821, google-closure-library, v20200101, False, 9, 1, 3, 3, 2
+5822, google-closure-library, v20191111, False, 9, 1, 3, 3, 2
+5823, google-closure-library, v20191027, False, 9, 1, 3, 3, 2
+5824, google-closure-library, v20190929, False, 1, 0, 0, 1, 0
+5825, google-closure-library, v20190909, False, 1, 0, 0, 1, 0
+5826, google-closure-library, v20190819, False, 1, 0, 0, 1, 0
+5827, google-closure-library, v20190729, False, 1, 0, 0, 1, 0
+5828, google-closure-library, v20190709, False, 1, 0, 0, 1, 0
+5829, google-closure-library, v20190618, False, 1, 0, 0, 1, 0
+5830, google-closure-library, v20190528, False, 1, 0, 0, 1, 0
+5831, axe-core, v4.3.5, True
+5832, axe-core, v4.3.4, True
+5833, axe-core, v4.2.4, True
+5834, axe-core, v4.3.3, True
+5835, axe-core, v4.3.2, True
+5836, axe-core, v4.3.1, True
+5837, axe-core, v4.3.0, True
+5838, axe-core, v4.2.3, True
+5839, axe-core, v4.0.3, True
+5840, axe-core, v3.5.6, True
+5841, axe-core, v3.4.3, True
+5842, axe-core, v3.3.4, True
+5843, axe-core, v3.2.4, True
+5844, axe-core, v3.1.3, True
+5845, axe-core, v3.0.4, True
+5846, axe-core, v4.0.2, True
+5847, axe-core, v4.2.2, True
+5848, axe-core, v4.2.1, True
+5849, axe-core, v4.2.0, True
+5850, axe-core, v4.1.4, True
+5851, axe-core, v4.1.3, True
+5852, axe-core, v4.1.2, True
+5853, axe-core, v4.1.1, True
+5854, axe-core, v4.1.0, True
+5855, axe-core, v4.0.1, True
+5856, axe-core, v4.0.0, True
+5857, axe-core, v3.5.5, True
+5858, axe-core, v3.5.4, True
+5859, axe-core, v3.5.3, True
+5860, axe-core, v3.5.2, True
+5861, react-native-fs, v2.18.0, True
+5862, react-native-fs, v2.17.0, True
+5863, react-native-fs, 2.15.1, True
+5864, react-native-fs, 2.14.1, True
+5865, react-native-fs, v2.13.3, True
+5866, react-native-fs, v2.13.2, True
+5867, react-native-fs, v2.13.1, True
+5868, react-native-fs, v2.12.2, True
+5869, react-native-fs, v2.12.1, True
+5870, react-native-fs, v2.12.0, True
+5871, react-native-fs, v2.11.18, True
+5872, react-native-fs, v2.11.17, True
+5873, react-native-fs, v2.11.16, True
+5874, react-native-fs, v2.11, True
+5875, react-native-fs, v2.10, True
+5876, react-native-fs, v2.9.12, True
+5877, react-native-fs, v2.9.11, True
+5878, react-native-fs, v2.9.10, True
+5879, react-native-fs, 2.9.10, True
+5880, react-native-fs, v2.9.9, True
+5881, react-native-fs, v2.9.0, True
+5882, react-native-fs, v2.8.5, True
+5883, react-native-fs, v2.8.4, True
+5884, react-native-fs, v2.8.3, True
+5885, react-native-fs, v2.8.1, True
+5886, react-native-fs, v2.5.2, True
+5887, react-native-fs, 2.5.1, True
+5888, react-native-fs, v2.5.0, True
+5889, react-native-fs, v.2.4.0, True
+5890, react-native-fs, v2.3.3, True
+5891, react-native-webview, v11.14.2, True
+5892, react-native-webview, v11.14.1, True
+5893, react-native-webview, v11.14.0, True
+5894, react-native-webview, v11.13.1, True
+5895, react-native-webview, v11.13.0, True
+5896, react-native-webview, v11.12.0, True
+5897, react-native-webview, v11.11.0, True
+5898, react-native-webview, v11.10.0, True
+5899, react-native-webview, v11.9.0, True
+5900, react-native-webview, v11.8.0, True
+5901, react-native-webview, v11.7.0, True
+5902, react-native-webview, v11.6.6, True
+5903, react-native-webview, v11.6.5, True
+5904, react-native-webview, v11.6.4, True
+5905, react-native-webview, v11.6.3, True
+5906, react-native-webview, v11.6.2, True
+5907, react-native-webview, v11.6.1, True
+5908, react-native-webview, v11.6.0, True
+5909, react-native-webview, v11.5.0, True
+5910, react-native-webview, v11.4.7, True
+5911, react-native-webview, v11.4.6, True
+5912, react-native-webview, v11.4.5, True
+5913, react-native-webview, v11.4.4, True
+5914, react-native-webview, v11.4.3, True
+5915, react-native-webview, v11.4.2, True
+5916, react-native-webview, v11.4.1, True
+5917, react-native-webview, v11.4.0, True
+5918, react-native-webview, v11.3.2, True
+5919, react-native-webview, v11.3.1, True
+5920, react-native-webview, v11.3.0, True
+5921, topojson, v3.0.2, True
+5922, topojson, v3.0.0, True
+5923, topojson, v2.2.0, True
+5924, topojson, v2.0.0, True
+5925, topojson, v1.6.27, True
+5926, topojson, v1.6.26, True
+5927, topojson, v1.6.25, True
+5928, topojson, v1.6.24, True
+5929, topojson, v1.6.23, True
+5930, topojson, v1.6.22, True
+5931, topojson, v1.6.21, True
+5932, topojson, v1.6.20, True
+5933, topojson, v1.6.19, True
+5934, topojson, v1.6.18, True
+5935, topojson, v1.6.17, True
+5936, topojson, v1.6.16, True
+5937, topojson, v1.6.15, True
+5938, topojson, v1.6.14, True
+5939, topojson, v1.6.13, True
+5940, topojson, v1.6.11, True
+5941, topojson, v1.6.9, True
+5942, topojson, v1.6.8, True
+5943, topojson, v1.6.7, True
+5944, topojson, v1.6.6, True
+5945, topojson, v1.6.5, True
+5946, topojson, v1.6.4, True
+5947, topojson, v1.6.2, True
+5948, topojson, v1.6.1, True
+5949, topojson, v1.6.0, True
+5950, topojson, v1.5.4, True
+5951, css-element-queries, 1.2.2, True
+5952, css-element-queries, 1.2.1, True
+5953, css-element-queries, 1.2.0, True
+5954, css-element-queries, 1.1.1, True
+5955, css-element-queries, 1.1.0, True
+5956, css-element-queries, 1.0.5, True
+5957, css-element-queries, 1.0.4, True
+5958, css-element-queries, 1.0.3, True
+5959, css-element-queries, 1.0.1, True
+5960, css-element-queries, 1.0.0, True
+5961, css-element-queries, 0.4.0, True
+5962, css-element-queries, 0.3.2, True
+5963, css-element-queries, 0.3.1, True
+5964, css-element-queries, 0.3.0, True
+5965, css-element-queries, v0.2, error, Couldn't find the requested package or version
+5966, css-element-queries, 0.1, error, Couldn't find the requested package or version
+5967, bitcore, v8.22.2, False, 57, 0, 39, 18, 0
+5968, bitcore, v8.16.2, False, 57, 0, 39, 18, 0
+5969, bitcore, prod, True
+5970, bitcore, v8.2.0, True
+5971, bitcore, v8.1.0, True
+5972, bitcore, v4.1.1, False, 93, 5, 31, 35, 22
+5973, bitcore, v4.1.0, False, 93, 5, 31, 35, 22
+5974, bitcore, v4.0.0, False, 125, 5, 46, 49, 25
+5975, bitcore, v3.0.0, False, 120, 5, 54, 51, 10
+5976, bitcore, v2.0.0, False, 114, 5, 49, 51, 9
+5977, bitcore, v1.0.0, False, 114, 5, 49, 51, 9
+5978, bitcore, v0.13.0, False, 12, 1, 5, 6, 0
+5979, bitcore, v0.12.0, False, 12, 1, 5, 6, 0
+5980, bitcore, v0.11.0, False, 12, 1, 5, 6, 0
+5981, bitcore, v0.10.4, False, 12, 1, 5, 6, 0
+5982, bitcore, v0.10.3, False, 12, 1, 5, 6, 0
+5983, bitcore, v0.10.0, False, 12, 1, 5, 6, 0
+5984, bitcore, v0.9.5, False, 12, 1, 5, 6, 0
+5985, bitcore, v0.9.4, False, 12, 1, 5, 6, 0
+5986, bitcore, v0.9.0, False, 12, 1, 5, 6, 0
+5987, bitcore, v0.8.6, False, 19, 1, 6, 10, 2
+5988, bitcore, v0.8.5, False, 19, 1, 6, 10, 2
+5989, bitcore, v0.8.2, False, 19, 1, 6, 10, 2
+5990, bitcore, v0.8.1, False, 35, 2, 12, 17, 4
+5991, bitcore, v0.1.41, False, 19, 1, 6, 10, 2
+5992, bitcore, v0.1.40, False, 19, 1, 6, 10, 2
+5993, bitcore, v0.1.39, False, 19, 1, 6, 10, 2
+5994, bitcore, v0.1.38, False, 136, 7, 70, 57, 2
+5995, bitcore, v0.1.37, False, 136, 7, 70, 57, 2
+5996, bitcore, v0.1.19, False, 13, 0, 6, 6, 1
+5997, exif-js, v2.3.0, True
+5998, exif-js, v2.2.0, True
+5999, theme-ui, v0.12.1-develop.6, True
+6000, theme-ui, v0.12.1-develop.5, True
+6001, theme-ui, v0.12.1-develop.4, True
+6002, theme-ui, v0.12.0, True
+6003, theme-ui, v0.12.0-develop.0, True
+6004, theme-ui, v0.11.4-develop.16, True
+6005, theme-ui, v0.11.4-develop.15, True
+6006, theme-ui, v0.11.4-develop.14, True
+6007, theme-ui, v0.11.4-develop.13, True
+6008, theme-ui, v0.11.4-develop.12, True
+6009, theme-ui, v0.11.4-develop.8, True
+6010, theme-ui, v0.11.4-develop.6, True
+6011, theme-ui, v0.11.4-develop.4, True
+6012, theme-ui, v0.11.3, True
+6013, theme-ui, v0.11.3-develop.5, True
+6014, theme-ui, v0.11.3-develop.4, True
+6015, theme-ui, v0.11.3-develop.3, True
+6016, theme-ui, v0.11.3-develop.2, True
+6017, theme-ui, v0.11.3-develop.1, True
+6018, theme-ui, v0.11.3-develop.0, True
+6019, theme-ui, v0.11.2, True
+6020, theme-ui, v0.11.2-develop.3, True
+6021, theme-ui, v0.11.2-develop.1, True
+6022, theme-ui, v0.11.2-develop.0, True
+6023, theme-ui, v0.11.1, True
+6024, theme-ui, v0.11.0, True
+6025, theme-ui, v0.11.0-develop.2, True
+6026, theme-ui, v0.11.0-develop.1, True
+6027, theme-ui, v0.11.0-develop.0, True
+6028, theme-ui, v0.10.1-develop.0, True
+6029, css-loader, v6.5.1, True
+6030, @alifd/next, build/1.24.14, True
+6031, @alifd/next, build/1.24.13, True
+6032, @alifd/next, build/1.24.13-beta, True
+6033, @alifd/next, build/1.24.12, True
+6034, @alifd/next, build/1.24.11, True
+6035, @alifd/next, build/1.24.10, True
+6036, @alifd/next, build/1.24.9, True
+6037, @alifd/next, build/1.24.8, True
+6038, @alifd/next, build/1.24.6, True
+6039, @alifd/next, build/1.24.5, True
+6040, @alifd/next, build/1.24.4, True
+6041, @alifd/next, build/1.24.2, True
+6042, @alifd/next, build/1.24.1, True
+6043, @alifd/next, build/1.24.0, True
+6044, @alifd/next, build/1.23.24, True
+6045, @alifd/next, build/1.23.23, True
+6046, @alifd/next, build/1.24.0-beta.5, True
+6047, @alifd/next, build/1.23.22, True
+6048, @alifd/next, build/1.23.21, True
+6049, @alifd/next, build/1.23.20, True
+6050, @alifd/next, build/1.23.19, True
+6051, @alifd/next, build/1.24.0-beta.4, True
+6052, @alifd/next, build/1.23.18, True
+6053, @alifd/next, build/1.23.17, True
+6054, @alifd/next, build/1.24.0-beta.2, True
+6055, @alifd/next, build/1.23.16, True
+6056, @alifd/next, build/1.23.15, True
+6057, @alifd/next, build/1.23.14, True
+6058, @alifd/next, build/1.23.13, True
+6059, @alifd/next, build/1.23.12, True
+6060, pubsub-js, v1.5.8, True
+6061, pubsub-js, v1.5.4, True
+6062, pubsub-js, v1.5.2, True
+6063, pubsub-js, v1.5.1, True
+6064, pubsub-js, v1.5.0, True
+6065, pubsub-js, v1.4.2, True
+6066, pubsub-js, v1.4.1, True
+6067, pubsub-js, v1.4.0, True
+6068, pubsub-js, v1.3.10, True
+6069, pubsub-js, v1.3.9, True
+6070, pubsub-js, v1.3.7, True
+6071, webcomponents.js, v1.1.0, True
+6072, webcomponents.js, v1.0.5, True
+6073, webcomponents.js, v1.0.4, True
+6074, webcomponents.js, v1.0.3, True
+6075, webcomponents.js, v1.0.2, True
+6076, webcomponents.js, v1.0.1, True
+6077, webcomponents.js, v1.0.0, True
+6078, webcomponents.js, v1.0.0-rc.12, True
+6079, webcomponents.js, v1.0.0-rc.11, True
+6080, webcomponents.js, v1.0.0-rc.10, True
+6081, webcomponents.js, v1.0.0-rc.9, True
+6082, webcomponents.js, v1.0.0-rc.4, True
+6083, webcomponents.js, v1.0.0-rc.1, True
+6084, webcomponents.js, v0.7.24, True
+6085, webcomponents.js, v0.7.23, True
+6086, webcomponents.js, v0.7.22, True
+6087, webcomponents.js, v0.7.21, True
+6088, webcomponents.js, v0.7.20, True
+6089, webcomponents.js, v0.7.19, True
+6090, webcomponents.js, v0.7.18, True
+6091, webcomponents.js, v0.7.15, True
+6092, webcomponents.js, v0.7.2, True
+6093, webcomponents.js, v0.6.1, True
+6094, webcomponents.js, 0.6.0, True
+6095, seneca, v3.22.0, False, 5, 0, 5, 0, 0
+6096, seneca, v3.7.0, False, 1, 0, 0, 0, 1
+6097, seneca, v3.6.0, False, 1, 0, 0, 0, 1
+6098, seneca, v3.5.0, False, 1, 0, 0, 0, 1
+6099, seneca, v3.3.0, False, 156, 17, 69, 69, 1
+6100, seneca, v3.2.1, False, 156, 17, 69, 69, 1
+6101, seneca, v3.2.0, False, 156, 17, 69, 69, 1
+6102, seneca, v3.1.0, False, 156, 17, 69, 69, 1
+6103, seneca, v3.0.0, False, 147, 16, 65, 65, 1
+6104, seneca, v1.0.0, False, 293, 31, 126, 127, 9
+6105, seneca, v2.0.0, False, 293, 31, 126, 127, 9
+6106, ffi, 2.3.0, True
+6107, node-ffi, 2.3.0, True
+6108, @firebase/remote-config, firebase@4.5.2, error, Couldn't find the requested package or version
+6109, @firebase/remote-config, v4.5.1, True
+6110, @firebase/remote-config, v4.5.0, False, 2, 0, 0, 2, 0
+6111, @firebase/remote-config, v4.4.0, False, 2, 0, 0, 2, 0
+6112, @firebase/remote-config, v4.3.0, False, 2, 0, 0, 2, 0
+6113, @firebase/remote-config, v4.2.0, False, 2, 0, 0, 2, 0
+6114, @firebase/remote-config, v4.1.4, False, 2, 0, 0, 2, 0
+6115, @firebase/remote-config, v4.1.3, False, 2, 0, 0, 2, 0
+6116, @firebase/remote-config, v4.1.2, False, 2, 0, 0, 2, 0
+6117, @firebase/remote-config, v4.1.0, False, 2, 0, 0, 2, 0
+6118, @firebase/remote-config, v4.1.1, False, 2, 0, 0, 2, 0
+6119, @firebase/remote-config, v4.1.0-rc.1, False, 2, 0, 0, 2, 0
+6120, @firebase/remote-config, v4.0.0, False, 2, 0, 0, 2, 0
+6121, @firebase/analytics, firebase@4.5.2, error, Couldn't find the requested package or version
+6122, @firebase/analytics, v4.5.1, True
+6123, @firebase/analytics, v4.5.0, False, 2, 0, 0, 2, 0
+6124, @firebase/analytics, v4.4.0, False, 2, 0, 0, 2, 0
+6125, @firebase/analytics, v4.3.0, False, 2, 0, 0, 2, 0
+6126, @firebase/analytics, v4.2.0, False, 2, 0, 0, 2, 0
+6127, @firebase/analytics, v4.1.4, False, 2, 0, 0, 2, 0
+6128, @firebase/analytics, v4.1.3, False, 2, 0, 0, 2, 0
+6129, @firebase/analytics, v4.1.2, False, 2, 0, 0, 2, 0
+6130, @firebase/analytics, v4.1.0, False, 2, 0, 0, 2, 0
+6131, @firebase/analytics, v4.1.1, False, 2, 0, 0, 2, 0
+6132, @firebase/analytics, v4.1.0-rc.1, False, 2, 0, 0, 2, 0
+6133, @firebase/analytics, v4.0.0, False, 2, 0, 0, 2, 0
+6134, glamorous, v5.0.0, True
+6135, glamorous, v4.13.1, True
+6136, glamorous, v4.13.0, True
+6137, glamorous, v4.12.5, True
+6138, glamorous, v4.12.4, True
+6139, glamorous, v4.12.3, True
+6140, glamorous, v4.12.2, True
+6141, glamorous, v4.12.1, True
+6142, glamorous, v4.12.0, True
+6143, glamorous, v4.11.6, True
+6144, glamorous, v4.11.5, True
+6145, glamorous, v4.11.4, True
+6146, glamorous, v4.11.3, True
+6147, glamorous, v4.11.2, True
+6148, glamorous, v4.11.1, True
+6149, glamorous, v4.11.0, True
+6150, glamorous, v4.10.0, True
+6151, glamorous, v4.9.7, True
+6152, glamorous, v4.9.6, True
+6153, glamorous, v4.9.5, True
+6154, glamorous, v4.9.4, True
+6155, glamorous, v4.9.3, True
+6156, glamorous, v4.9.2, True
+6157, glamorous, v4.9.1, True
+6158, glamorous, v4.9.0, True
+6159, glamorous, v4.8.0, True
+6160, glamorous, v4.7.0, True
+6161, glamorous, v4.6.0, True
+6162, glamorous, v4.5.0, True
+6163, glamorous, v4.4.1, True
+6164, glamor, v2.20.14, False, 1, 0, 0, 1, 0
+6165, glamor, v2.20.13, False, 1, 0, 0, 1, 0
+6166, glamor, v2.20.5, False, 1, 0, 0, 1, 0
+6167, glamor, v2.20.4, False, 1, 0, 0, 1, 0
+6168, glamor, v2.20.1, False, 1, 0, 0, 1, 0
+6169, glamor, v2.18.0, False, 1, 0, 0, 1, 0
+6170, glamor, v2.17.16, False, 1, 0, 0, 1, 0
+6171, glamor, v2.17.15, False, 1, 0, 0, 1, 0
+6172, geolib, v3.3.3, True
+6173, geolib, v3.3.2, True
+6174, geolib, v3.3.1, True
+6175, geolib, v3.3.0, True
+6176, geolib, v3.2.2, True
+6177, geolib, v3.2.1, True
+6178, geolib, v3.2.0, True
+6179, geolib, v3.1.0, True
+6180, geolib, v3.0.4, True
+6181, geolib, v3.0.3, True
+6182, geolib, v3.0.2, True
+6183, geolib, v3.0.1, True
+6184, geolib, v3.0.0, True
+6185, geolib, v2.0.26, True
+6186, geolib, v2-branch, True
+6187, geolib, 2.0.21, True
+6188, geolib, 2.0.18, True
+6189, geolib, 2.0.17, True
+6190, geolib, 2.0.7, True
+6191, geolib, 2.0.1+beta-1, True
+6192, utility-types, v3.10.0, True
+6193, utility-types, v3.9.0, True
+6194, utility-types, v3.8.0, True
+6195, utility-types, v3.7.0, True
+6196, utility-types, v3.6.1, True
+6197, utility-types, v3.6.0, True
+6198, utility-types, v3.5.0, True
+6199, utility-types, v3.4.1, True
+6200, utility-types, v3.2.1, True
+6201, utility-types, v3.2.0, True
+6202, utility-types, v3.0.0, True
+6203, utility-types, v3.1.0, True
+6204, utility-types, v2.0.0, True
+6205, utility-types, v1.1.0, True
+6206, utility-types, v1.0.0, True
+6207, utility-types, v3.0.0-beta1, error, Couldn't find the requested package or version
+6208, regenerator-babel, runtime@0.10.4, error, Couldn't find the requested package or version
+6209, regenerator-babel, runtime@0.10.5, error, Couldn't find the requested package or version
+6210, regenerator-babel, v0.9.7, True
+6211, regenerator-babel, v0.9.6, True
+6212, regenerator-babel, v0.8.6, True
+6213, regenerator-babel, v0.8.2, True
+6214, regenerator-babel, v0.7.0, True
+6215, regenerator-babel, v0.6.10, True
+6216, regenerator-babel, v0.6.5, True
+6217, regenerator-babel, v0.6.1, True
+6218, regenerator-babel, v0.5.0, True
+6219, regenerator-babel, v0.4.12, True
+6220, regenerator-babel, v0.4.11, True
+6221, regenerator-babel, v0.4.10, True
+6222, regenerator-babel, v0.4.9, True
+6223, regenerator-babel, v0.4.6, True
+6224, regenerator-babel, v0.4.2, True
+6225, regenerator-babel, v0.4.1, True
+6226, regenerator-babel, v0.3.9, True
+6227, regenerator-babel, v0.3.8, True
+6228, regenerator-babel, v0.3.7, True
+6229, regenerator-babel, v0.3.6, True
+6230, regenerator-babel, v0.3.5, True
+6231, regenerator-babel, v0.3.4, True
+6232, regenerator-babel, v0.3.3, True
+6233, regenerator-babel, v0.3.2, True
+6234, regenerator-babel, v0.3.1, True
+6235, regenerator-babel, v0.3.0, True
+6236, regenerator-babel, v0.2.11, True
+6237, regenerator-babel, v0.2.10, True
+6238, web-animations-js, 2.3.2, True
+6239, web-animations-js, 2.3.1, True
+6240, web-animations-js, 2.3.0, True
+6241, web-animations-js, 2.2.5, True
+6242, web-animations-js, 2.2.4, True
+6243, web-animations-js, 2.2.3, True
+6244, web-animations-js, 2.2.2, True
+6245, web-animations-js, 2.2.1, True
+6246, web-animations-js, 2.1.5, True
+6247, web-animations-js, 2.0.1, True
+6248, web-animations-js, 1.0.8, True
+6249, web-animations-js, 2.2.0, True

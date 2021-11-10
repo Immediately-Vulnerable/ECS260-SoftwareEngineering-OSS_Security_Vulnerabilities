@@ -8,11 +8,13 @@ That being said, to run the script, we need both
 * Install `Snyk CLI`
 * Complete authentication by `synk auth`
 
+To run (for now):
+`python3 -c 'import extract_snyk; extract_snyk.para_wrapper("github_releases", 1, skip = 4562)'`
 
 ## Vulnerability Lookup in Snyk DB
 Lookup by
-* package name & version (implemented)
-* github url (not implemented, since not all package have github url; will discuss this)
+* package name & version 
+* github url (if the first choice is not working)
 
 ## Vulnerability Info Extracted (As for Nov 1)
 Use the *pacakage name* and *version* from `library.io`, we can obtain a full vulnerability report in Json (see Appendix A for example).

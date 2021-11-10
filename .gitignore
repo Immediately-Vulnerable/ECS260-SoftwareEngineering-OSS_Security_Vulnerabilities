@@ -9,10 +9,17 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
-src/.DS_Store
-snyk/.DS_Store
+*.pyc
+*.DS_Store
 snyk/data/*
 !snyk/data/npm/
 snyk/data/npm/*
+!snyk/data/npm/*.png
+!snyk/data/npm/github_releases.csv
+!snyk/data/npm/top2kStars_from_top5kPR_releases*.csv
 !snyk/data/npm/output/
 snyk/playground.R
+.Rproj.user
+snyk/playground.py
+snyk/snyk.Rproj
+snyk/.Rhistory

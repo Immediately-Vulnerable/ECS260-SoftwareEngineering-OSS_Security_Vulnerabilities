@@ -1,24 +1,44 @@
 import os, json, csv
+import subprocess
+import multiprocessing as mp
 import pandas as pd
 
 
-def fetch_vuln(package_name, package_version):
+def fetch_vuln(package_name, package_version, github_url):
     """
     Todo: add try-catch and timeout, try subprocess
     """
+    MAX_RETRY = 10
+    TIMEOUT = 60*3
 
-    # vuln_file = "vuln_{}.json".format(package_name)
-
+    # vuln_file = "vuln_{}.json".format(package_name"
     # command = "snyk test {}@{} --json-file-output={}".format(package_name, package_version, vuln_file)
-    command = "snyk test {}@{} --json".format(package_name, package_version)
 
-    stream = os.popen(command)
-    vuln_json = json.load(stream)
+    retry_counter = MAX_RETRY
 
-    # with open(vuln_file, "r") as read_file:
-    #     vuln_data = json.load(read_file)
+    while retry_counter > 0:
+        try:
+            command = "snyk test {}@{} --json".format(package_name, package_version)
+            r = subprocess.run(command, timeout=TIMEOUT, shell=True, capture_output=True)
+            vuln_json = json.loads(r.stdout)
+            if "error" in vuln_json:
+                command = "snyk test {} --json".format(github_url)
+                r = subprocess.run(command, timeout=TIMEOUT, shell=True, capture_output=True)
+                vuln_json = json.loads(r.stdout)
+                return vuln_json
+            return vuln_json
+        except subprocess.TimeoutExpired as e:
+            print(e)
+            retry_counter -= 1
+            print("{} retries left".format(retry_counter))
+        except Exception as e:
+            print(e)
+            raise Exception()
 
-    return vuln_json
+    if retry_counter == 0:
+        raise Exception("Maxed out tries")
+    return None
+
 
 
 def extract_vuln(vuln_json):
@@ -27,6 +47,10 @@ def extract_vuln(vuln_json):
     """
 
     res = []
+
+    if "error" in vuln_json:
+        res.extend(["error", vuln_json["error"]])
+        return res
 
     is_ok = vuln_json["ok"]
     res.append(is_ok)
@@ -48,59 +72,69 @@ def test():
     """
     Test fetch and extract vulnurability functions.
     """
-    vuln_json = fetch_vuln("jquery-ui", "1.12.0") # bad package
-    vuln_json = fetch_vuln("1-1-help-desk-system", "0.0.7") # worse package
-    vuln_json = fetch_vuln("node-red-contrib-join-wait", "0.3.0") # good package
+    # vuln_json = fetch_vuln("jquery-ui", "1.12.0") # bad package
+    # vuln_json = fetch_vuln("1-1-help-desk-system", "0.0.7") # worse package
+    # vuln_json = fetch_vuln("node-red-contrib-join-wait", "0.3.0") # good package
+    
+    vuln_json = fetch_vuln("fsevents", "v1.2.1", "https://github.com/fsevents/fsevents/releases/tag/v1.2.1")
     vuln_arr = extract_vuln(vuln_json)
     return vuln_arr
 
 
+def generate_vuln_file(in_fname, out_fname, errlog_fname, id_index, name_index, version_index, url_index, sample_size = None, skip = None):
+    counter = 0
+    header_out = ["id", "name", "version", "is_ok", "num_vuln", "critical", "high", "medium", "low"]
+    with open(out_fname, 'w' if skip is None else 'a' ) as outfile, open(in_fname, 'r') as infile, open(errlog_fname, 'w') as errlog:
+        datareader = csv.reader(infile)
+        # next(datareader) # skip header  
+        if skip is not None:
+            for _ in range(skip):
+                next(datareader)
+        else:
+            outfile.write(", ".join(map(str, header_out)) + "\n") # write header row
+        try:
+            for row in datareader:
+                id = row[id_index]
+                name = row[name_index]
+                version = row[version_index]
+                url = row[url_index]
+                output_arr = [id, name, version]
+                
+                this_vuln_json = fetch_vuln(name, version, url)
+                this_vuln_arr = extract_vuln(this_vuln_json)
+                output_arr.extend(this_vuln_arr)
 
-dir = "/Users/Nan/projects/ECS260/snyk/data/npm/"
-proj_fname = dir + "(NPM_extracted)projects_with_repository_fields-1.6.0-2020-01-12.csv"
-vuln_fname = dir + "project_vuln_sample.csv"
-samples = 100
+                print(", ".join(map(str, output_arr)))
+                outfile.write(", ".join(map(str, output_arr)) + "\n") 
 
-# version_dic = {}
-# counter = 0
-# with open(proj_fname, "r") as csvfile:
-#   datareader = csv.reader(csvfile)
-#   next(datareader)  # yield the header row
-#   for row in datareader:
-#     id = row[0]
-#     name = row[2]
-#     version = row[13]
-#     version_dic[id] = (name, version)
-#     counter += 1
-#     if counter > samples:
-#         break
+                counter += 1
+                if sample_size is not None and counter > sample_size:
+                    break
+                
+        except Exception as e:
+            errlog.write('index: {}, error msg:{} \n'.format(counter, str(e)))
+        
+        finally:
+            outfile.close()
+            infile.close()
+            errlog.close()
+    
 
-# for this_id, (name, version) in version_dic.items():
-#     print (this_id, name, version)
-#     output_arr = [this_id, name, version]
-#     this_vuln_json = fetch_vuln(name, version)
-#     this_vuln_arr = extract_vuln(this_vuln_json)
-#     output_arr.extend(this_vuln_arr)
-#     print(", ".join(map(str, output_arr)))
 
-counter = 0
-header_out = ["id", "name", "version", "is_ok", "num_vuln", "critical", "high", "medium", "low"]
-with open(vuln_fname, 'w') as outfile, open(proj_fname, 'r') as infile:
-    datareader = csv.reader(infile)
-    next(datareader)  # yield the header row
-    outfile.write(", ".join(map(str, header_out)) + "\n") # write header row
-    for row in datareader:
-        id = row[0]
-        name = row[2]
-        version = row[13]
-        print (id, name, version)
-        output_arr = [id, name, version]
-        this_vuln_json = fetch_vuln(name, version)
-        this_vuln_arr = extract_vuln(this_vuln_json)
-        output_arr.extend(this_vuln_arr)
-        outfile.write(", ".join(map(str, output_arr)) + "\n") 
+## Old test file
+# proj_fname = dir + "(NPM_extracted)projects_with_repository_fields-1.6.0-2020-01-12.csv"
+# vuln_fname = dir + "output/project_vuln_sample.csv"
+# id_index = 0
+# name_index = 2
+# version_index = 13
 
-        counter += 1
-        if counter > samples:
-            break
+# in_fname = dir + "split/github_releases_{}.csv".format("1")
+# out_fname = dir + "output/github_releases_{}.csv".format("1")
+# errlog_fname = out_fname.replace(".csv", "_err.txt")
 
+def para_wrapper(raw_file, i, id_index, name_index, version_index, url_index, skip = None):
+    dir = "/Users/Nan/projects/ECS260/snyk/data/npm/"
+    in_fname = dir + "split/{}_{}.csv".format(raw_file, str(i))
+    out_fname = dir + "output/{}_{}.csv".format(raw_file, str(i))
+    errlog_fname = out_fname.replace(".csv", "_err.txt")
+    generate_vuln_file(in_fname, out_fname, errlog_fname, id_index=id_index, name_index=name_index, version_index=version_index, url_index=url_index, skip = skip)

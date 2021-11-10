@@ -1,0 +1,1251 @@
+id, name, version, is_ok, num_vuln, critical, high, medium, low
+7500, jssha, v2.0.2, True
+7501, jssha, v1.6.1, True
+7502, jssha, v2.0.1, True
+7503, jssha, v2.0.0, True
+7504, jssha, v1.6.0, True
+7505, jssha, v1.5.0, True
+7506, oracledb, v5.3.0, True
+7507, oracledb, v5.2.0, True
+7508, oracledb, v5.1.0, True
+7509, oracledb, v5.0.0, True
+7510, oracledb, v4.2.0, True
+7511, oracledb, v4.1.0, True
+7512, oracledb, v4.0.1, True
+7513, oracledb, v4.0.0, True
+7514, oracledb, v4.0.0-dev-20190623, True
+7515, oracledb, v3.1.2, True
+7516, oracledb, v3.1.1, True
+7517, oracledb, v3.1.0, True
+7518, oracledb, v3.0.1, True
+7519, oracledb, v3.0.0, True
+7520, oracledb, v2.3.0, True
+7521, oracledb, v2.2.0, True
+7522, oracledb, v2.1.2, True
+7523, oracledb, v2.1.1, True
+7524, oracledb, v2.1.0, True
+7525, oracledb, v2.0.15, True
+7526, oracledb, v2.0.14, True
+7527, oracledb, v2.0.13-dev, True
+7528, oracledb, v1.13.1, True
+7529, oracledb, v1.13.0, True
+7530, oracledb, v1.12.2, True
+7531, oracledb, v1.12.1-dev, True
+7532, oracledb, v1.12.0-dev, True
+7533, oracledb, v1.11.0, True
+7534, oracledb, v1.10.1, True
+7535, oracledb, v1.10.0, True
+7536, node-xmpp, v0.13.0, False, 33, 0, 10, 20, 3
+7537, node-xmpp, v0.12.1, False, 33, 0, 10, 20, 3
+7538, node-xmpp, v0.12.0, False, 25, 0, 6, 16, 3
+7539, node-xmpp, v0.11.1, True
+7540, node-xmpp, v0.11.0, False, 25, 0, 6, 16, 3
+7541, node-xmpp, v0.10.0, False, 13, 0, 5, 8, 0
+7542, node-xmpp, v0.9.2, True
+7543, node-xmpp, v0.9.1, True
+7544, node-xmpp, v0.9.0, False, 13, 0, 5, 8, 0
+7545, node-xmpp, v0.8.0, False, 13, 0, 5, 8, 0
+7546, node-xmpp, v0.7.4, True
+7547, node-xmpp, v0.7.3, True
+7548, node-xmpp, v0.7.2, False, 13, 0, 5, 8, 0
+7549, node-xmpp, v0.7.1, False, 13, 0, 5, 8, 0
+7550, node-xmpp, v0.7.0, False, 13, 0, 5, 8, 0
+7551, node-xmpp, v0.6.2, False, 11, 0, 5, 6, 0
+7552, node-xmpp, v0.6.1, False, 11, 0, 5, 6, 0
+7553, node-xmpp, v0.6.0, False, 11, 0, 5, 6, 0
+7554, node-xmpp, v0.5.2, False, 11, 0, 5, 6, 0
+7555, node-xmpp, v0.5.1, False, 11, 0, 5, 6, 0
+7556, node-xmpp, v0.5.0, True
+7557, node-xmpp, v0.3.0, True
+7558, @frctl/fractal, @frctl/handlebars@1.2.13, error, Couldn't find the requested package or version
+7559, @frctl/fractal, @frctl/twig@1.2.11, error, Couldn't find the requested package or version
+7560, @frctl/fractal, @frctl/twig-example@0.2.7, error, Couldn't find the requested package or version
+7561, @frctl/fractal, @frctl/react-example@0.2.7, error, Couldn't find the requested package or version
+7562, @frctl/fractal, @frctl/handlebars-example@0.3.8, error, Couldn't find the requested package or version
+7563, @frctl/fractal, @frctl/react@0.3.5, error, Couldn't find the requested package or version
+7564, @frctl/fractal, @frctl/core@0.3.3, error, Couldn't find the requested package or version
+7565, @frctl/fractal, @frctl/web@0.1.10, error, Couldn't find the requested package or version
+7566, @frctl/fractal, @frctl/nunjucks-example@0.0.6, False, 16, 1, 9, 6, 0
+7567, @frctl/fractal, @frctl/mandelbrot@1.9.4, error, Couldn't find the requested package or version
+7568, @frctl/fractal, @frctl/fractal@1.5.11, error, Couldn't find the requested package or version
+7569, @frctl/fractal, @frctl/nunjucks@2.0.13, error, Couldn't find the requested package or version
+7570, @frctl/fractal, @frctl/core@0.3.2, error, Couldn't find the requested package or version
+7571, @frctl/fractal, @frctl/web@0.1.9, error, Couldn't find the requested package or version
+7572, @frctl/fractal, @frctl/nunjucks-example@0.0.5, False, 16, 1, 9, 6, 0
+7573, @frctl/fractal, @frctl/twig@1.2.10, error, Couldn't find the requested package or version
+7574, @frctl/fractal, @frctl/react-example@0.2.6, error, Couldn't find the requested package or version
+7575, @frctl/fractal, @frctl/fractal@1.5.10, error, Couldn't find the requested package or version
+7576, @frctl/fractal, @frctl/react@0.3.4, error, Couldn't find the requested package or version
+7577, @frctl/fractal, @frctl/nunjucks@2.0.12, error, Couldn't find the requested package or version
+7578, @frctl/fractal, @frctl/twig-example@0.2.6, error, Couldn't find the requested package or version
+7579, @frctl/fractal, @frctl/handlebars-example@0.3.7, error, Couldn't find the requested package or version
+7580, @frctl/fractal, @frctl/handlebars@1.2.12, error, Couldn't find the requested package or version
+7581, @frctl/fractal, @frctl/mandelbrot@1.9.3, error, Couldn't find the requested package or version
+7582, @frctl/fractal, @frctl/react@0.3.3, error, Couldn't find the requested package or version
+7583, @frctl/fractal, @frctl/twig-example@0.2.5, error, Couldn't find the requested package or version
+7584, @frctl/fractal, @frctl/nunjucks-example@0.0.4, False, 16, 1, 9, 6, 0
+7585, @frctl/fractal, @frctl/handlebars@1.2.11, error, Couldn't find the requested package or version
+7586, @frctl/fractal, @frctl/fractal@1.5.9, error, Couldn't find the requested package or version
+7587, @frctl/fractal, @frctl/handlebars-example@0.3.6, error, Couldn't find the requested package or version
+7588, mssql, v7.2.1, True
+7589, mssql, v7.2.0, True
+7590, mssql, v7.1.3, True
+7591, mssql, v7.1.1, True
+7592, mssql, v7.1.0, True
+7593, mssql, v6.3.2, True
+7594, mssql, v5.1.5, False, 1, 0, 0, 1, 0
+7595, mssql, v7.0.0, True
+7596, mssql, v7.0.0-beta.5, True
+7597, mssql, v7.0.0-beta.3, False, 1, 0, 0, 1, 0
+7598, mssql, v7.0.0-beta.2, False, 1, 0, 0, 1, 0
+7599, mssql, v7.0.0-beta.1, False, 1, 0, 0, 1, 0
+7600, mssql, v7.0.0-alpha.4, False, 1, 0, 0, 1, 0
+7601, mssql, v6.3.1, True
+7602, mssql, v6.3.0, True
+7603, mssql, v6.2.3, True
+7604, mssql, v6.2.2, True
+7605, mssql, v7.0.0-alpha.3, False, 1, 0, 0, 1, 0
+7606, mssql, v7.0.0-alpha.2, False, 2, 0, 1, 1, 0
+7607, mssql, v7.0.0-alpha.1, False, 2, 0, 1, 1, 0
+7608, mssql, v6.2.0, True
+7609, mssql, v5.1.1, False, 1, 0, 0, 1, 0
+7610, mssql, v4.3.8, True
+7611, mssql, v6.1.0, True
+7612, mssql, v6.0.1, True
+7613, mssql, v6.0.0, True
+7614, mssql, v6.0.0-beta.1, True
+7615, mssql, v6.0.0-alpha.9, True
+7616, mssql, v5.1.0, False, 1, 0, 0, 1, 0
+7617, mssql, v5.0.6, False, 1, 0, 0, 1, 0
+7618, tcomb, v3.2.29, True
+7619, tcomb, v3.2.28, True
+7620, tcomb, v3.2.27, True
+7621, tcomb, v3.2.25, True
+7622, tcomb, v3.2.24, True
+7623, tcomb, v3.2.23, True
+7624, tcomb, v3.2.22, True
+7625, tcomb, v3.2.21, True
+7626, tcomb, v3.2.20, True
+7627, tcomb, v3.2.19, True
+7628, tcomb, v3.2.18, True
+7629, tcomb, v3.2.17, True
+7630, tcomb, v3.2.16, True
+7631, tcomb, v3.2.15, True
+7632, tcomb, v3.2.14, True
+7633, tcomb, v3.2.13, True
+7634, tcomb, v3.2.12, True
+7635, tcomb, 3.2.11, True
+7636, tcomb, 3.2.10, True
+7637, tcomb, 3.2.9, True
+7638, tcomb, v3.2.8, True
+7639, tcomb, v3.2.7, True
+7640, tcomb, v3.2.6, True
+7641, tcomb, v3.2.5, True
+7642, tcomb, v3.2.4, True
+7643, tcomb, v3.2.3, True
+7644, tcomb, v3.2.2, True
+7645, tcomb, v3.2.1, True
+7646, tcomb, v3.2.0, True
+7647, tcomb, v3.1.0, True
+7648, workly, v1.3.0, True
+7649, workly, v1.0.1, True
+7650, workly, v1.0.0, True
+7651, workly, v0.1.1, True
+7652, workly, v0.1.0, True
+7653, rbush, v3.0.1, True
+7654, rbush, v3.0.0, True
+7655, rbush, v2.0.2, True
+7656, rbush, v1.3, True
+7657, rbush, v1.3.4, True
+7658, rbush, v1.3.5, True
+7659, rbush, v1.4.0, True
+7660, rbush, v1.4.1, True
+7661, rbush, v1.4.2, True
+7662, rbush, v1.4.3, True
+7663, rbush, v2.0.0, True
+7664, rbush, v2.0.1, True
+7665, @xstyled/system, v3.1.1, True
+7666, @xstyled/system, v3.1.0, True
+7667, @xstyled/system, v3.0.3, True
+7668, @xstyled/system, v3.0.2, True
+7669, @xstyled/system, v3.0.1, True
+7670, @xstyled/system, v3.0.0, True
+7671, @xstyled/system, v3.0.0-beta.0, True
+7672, @xstyled/system, v2.5.0, True
+7673, @xstyled/system, v2.4.1, True
+7674, @xstyled/system, v2.4.0, True
+7675, @xstyled/system, v2.3.0, True
+7676, @xstyled/system, v2.2.3, True
+7677, @xstyled/system, v2.2.2, True
+7678, @xstyled/system, v2.2.1, True
+7679, @xstyled/system, v2.2.0, True
+7680, @xstyled/system, v2.1.0, True
+7681, @xstyled/system, v2.0.0, True
+7682, @xstyled/system, v1.19.1, True
+7683, @xstyled/system, v1.19.0, True
+7684, @xstyled/system, v1.18.1, True
+7685, @xstyled/system, v1.18.0, True
+7686, @xstyled/system, v1.17.2, True
+7687, @xstyled/system, v1.17.1, True
+7688, @xstyled/system, v1.17.0, True
+7689, @xstyled/system, v1.16.0, True
+7690, @xstyled/system, v1.15.1, True
+7691, @xstyled/system, v1.15.0, True
+7692, @xstyled/system, v1.14.0, True
+7693, @xstyled/system, v1.13.1, True
+7694, @xstyled/system, v1.13.0, True
+7695, @xstyled/styled-components, v3.1.1, True
+7696, @xstyled/styled-components, v3.1.0, True
+7697, @xstyled/styled-components, v3.0.3, True
+7698, @xstyled/styled-components, v3.0.2, True
+7699, @xstyled/styled-components, v3.0.1, True
+7700, @xstyled/styled-components, v3.0.0, True
+7701, @xstyled/styled-components, v3.0.0-beta.0, True
+7702, @xstyled/styled-components, v2.5.0, True
+7703, @xstyled/styled-components, v2.4.1, True
+7704, @xstyled/styled-components, v2.4.0, True
+7705, @xstyled/styled-components, v2.3.0, True
+7706, @xstyled/styled-components, v2.2.3, True
+7707, @xstyled/styled-components, v2.2.2, True
+7708, @xstyled/styled-components, v2.2.1, True
+7709, @xstyled/styled-components, v2.2.0, True
+7710, @xstyled/styled-components, v2.1.0, True
+7711, @xstyled/styled-components, v2.0.0, True
+7712, @xstyled/styled-components, v1.19.1, True
+7713, @xstyled/styled-components, v1.19.0, True
+7714, @xstyled/styled-components, v1.18.1, True
+7715, @xstyled/styled-components, v1.18.0, True
+7716, @xstyled/styled-components, v1.17.2, True
+7717, @xstyled/styled-components, v1.17.1, True
+7718, @xstyled/styled-components, v1.17.0, True
+7719, @xstyled/styled-components, v1.16.0, True
+7720, @xstyled/styled-components, v1.15.1, True
+7721, @xstyled/styled-components, v1.15.0, True
+7722, @xstyled/styled-components, v1.14.0, True
+7723, @xstyled/styled-components, v1.13.1, True
+7724, @xstyled/styled-components, v1.13.0, True
+7725, pluralize-mongoose, v8.0.0, True
+7726, pluralize-mongoose, v7.0.0, True
+7727, pluralize-mongoose, v6.0.0, True
+7728, pluralize-mongoose, v5.1.0, True
+7729, pluralize-mongoose, v5.0.0, True
+7730, pluralize-mongoose, v4.0.0, True
+7731, pluralize-mongoose, v3.1.0, True
+7732, pluralize-mongoose, v3.0.0, True
+7733, pluralize-mongoose, v2.0.0, True
+7734, pluralize-mongoose, v1.2.1, True
+7735, pluralize-mongoose, v1.2.0, True
+7736, pluralize-mongoose, v1.1.6, True
+7737, pluralize-mongoose, v1.1.5, True
+7738, pluralize-mongoose, v1.1.4, True
+7739, pluralize-mongoose, v1.1.3, True
+7740, node-rdkafka, v2.10.0, True
+7741, node-rdkafka, v2.9.0, True
+7742, node-rdkafka, v2.8.0, True
+7743, node-rdkafka, v2.7.0, True
+7744, node-rdkafka, v2.5.0, True
+7745, node-rdkafka, v2.3.4, True
+7746, node-rdkafka, v2.3.1, True
+7747, node-rdkafka, v2.3.0, True
+7748, node-rdkafka, v2.2.3, True
+7749, node-rdkafka, v2.2.2, True
+7750, node-rdkafka, v2.2.1, True
+7751, node-rdkafka, v2.2.0, True
+7752, node-rdkafka, v2.1.1, True
+7753, node-rdkafka, v2.1.0, True
+7754, node-rdkafka, v2.0.0, True
+7755, node-rdkafka, v1.0.6, True
+7756, node-rdkafka, v1.0.5, True
+7757, node-rdkafka, v1.0.1, True
+7758, node-rdkafka, v1.0.0, True
+7759, node-rdkafka, v0.10.2, True
+7760, node-rdkafka, v0.10.0, True
+7761, node-rdkafka, v0.9.0, True
+7762, node-rdkafka, v0.8.2, True
+7763, node-rdkafka, v0.8.0, True
+7764, node-rdkafka, v0.6.0, True
+7765, chevrotain, v0.5.21, True
+7766, chevrotain, v0.5.20, True
+7767, chevrotain, v0.5.19, True
+7768, chevrotain, v0.5.18, True
+7769, chevrotain, v0.5.17, True
+7770, chevrotain, v0.5.16, True
+7771, chevrotain, v0.5.15, True
+7772, chevrotain, v0.5.14, True
+7773, chevrotain, v0.5.13, False, 9, 1, 4, 4, 0
+7774, chevrotain, v0.5.12, False, 9, 1, 4, 4, 0
+7775, chevrotain, v0.5.11, False, 9, 1, 4, 4, 0
+7776, chevrotain, v0.5.10, False, 9, 1, 4, 4, 0
+7777, chevrotain, v0.5.9, False, 9, 1, 4, 4, 0
+7778, chevrotain, v0.5.8, False, 9, 1, 4, 4, 0
+7779, chevrotain, v0.5.7, False, 9, 1, 4, 4, 0
+7780, chevrotain, v0.5.6, False, 9, 1, 4, 4, 0
+7781, chevrotain, v0.5.5, False, 9, 1, 4, 4, 0
+7782, chevrotain, v0.5.4, False, 9, 1, 4, 4, 0
+7783, chevrotain, v0.5.3, False, 9, 1, 4, 4, 0
+7784, chevrotain, v0.5.2, False, 9, 1, 4, 4, 0
+7785, chevrotain, v0.5.1, False, 9, 1, 4, 4, 0
+7786, chevrotain, v0.5.0, False, 9, 1, 4, 4, 0
+7787, chevrotain, v0.4.10, False, 9, 1, 4, 4, 0
+7788, chevrotain, v0.4.9, False, 9, 1, 4, 4, 0
+7789, chevrotain, v0.4.8, False, 9, 1, 4, 4, 0
+7790, chevrotain, v0.4.7, False, 9, 1, 4, 4, 0
+7791, chevrotain, v0.4.6, False, 9, 1, 4, 4, 0
+7792, chevrotain, v0.4.5, False, 9, 1, 4, 4, 0
+7793, chevrotain, v0.4.4, False, 9, 1, 4, 4, 0
+7794, chevrotain, v0.4.3, False, 9, 1, 4, 4, 0
+7795, csvtojson, v2.0.10, True
+7796, csvtojson, 1.1.9, True
+7797, csvtojson, 1.1.8, True
+7798, csvtojson, 1.1.7, True
+7799, csvtojson, 1.1.5, True
+7800, csvtojson, 1.1.3, True
+7801, csvtojson, 1.1.1, True
+7802, csvtojson, 1.1.0, True
+7803, twig, v1.15.3, True
+7804, twig, v1.15.2, True
+7805, twig, 1.15.0, True
+7806, twig, 1.14.0, True
+7807, twig, 1.13.3, True
+7808, twig, 1.13.2, True
+7809, twig, 1.13.1, True
+7810, twig, v1.13.0, True
+7811, python-shell, v3.0.0, True
+7812, python-shell, v1.0.8, True
+7813, python-shell, v1.0.4, True
+7814, python-shell, 1.0.3, True
+7815, python-shell, v1.0.2, True
+7816, python-shell, v1.0.1, True
+7817, python-shell, v1.0.0, True
+7818, python-shell, v0.5.0, True
+7819, zmq, 2.13.0, True
+7820, zmq, 2.9.0, True
+7821, miio, 0.15.6, False, 5, 0, 3, 2, 0
+7822, miio, 0.15.5, False, 5, 0, 3, 2, 0
+7823, miio, 0.15.4, False, 5, 0, 3, 2, 0
+7824, miio, 0.15.3, False, 5, 0, 3, 2, 0
+7825, miio, 0.15.2, False, 5, 0, 3, 2, 0
+7826, miio, 0.15.1, False, 5, 0, 3, 2, 0
+7827, miio, 0.15.0, False, 5, 0, 3, 2, 0
+7828, react-resizable, v1.4.5, True
+7829, react-resizable, v1.4.4, True
+7830, react-resizable, v1.4.3, True
+7831, react-resizable, v1.4.2, True
+7832, react-resizable, v1.4.1, True
+7833, react-resizable, v1.4.0, True
+7834, react-resizable, v1.3.4, True
+7835, react-resizable, v1.3.3, True
+7836, react-resizable, v1.3.2, True
+7837, react-resizable, v1.3.1, True
+7838, react-resizable, v1.3.0, True
+7839, moment-range, v4.0.2, True
+7840, moment-range, v4.0.1, True
+7841, moment-range, v4.0.0, True
+7842, moment-range, v3.1.1, True
+7843, moment-range, v3.1.0, True
+7844, moment-range, v3.0.3, True
+7845, moment-range, v3.0.2, True
+7846, moment-range, v3.0.1, True
+7847, moment-range, v3.0.0-0, True
+7848, moment-range, v3.0.0, True
+7849, moment-range, 2.2.0, True
+7850, moment-range, 2.1.0, True
+7851, moment-range, 2.0.3, True
+7852, moment-range, 2.0.2, True
+7853, moment-range, 2.0.1, True
+7854, moment-range, 2.0.0, True
+7855, moment-range, 1.2.0, True
+7856, moment-range, 1.1.2, True
+7857, moment-range, 1.1.1, True
+7858, moment-range, 1.1.0, True
+7859, moment-range, 1.0.7, True
+7860, moment-range, v1.0.5, True
+7861, moment-range, v1.0.4, True
+7862, moment-range, v1.0.3, True
+7863, capital-case, no-case@3.0.3, error, Couldn't find the requested package or version
+7864, capital-case, change-case@4.1.0, error, Couldn't find the requested package or version
+7865, capital-case, camel-case@4.1.0, error, Couldn't find the requested package or version
+7866, capital-case, pascal-case@3.1.0, error, Couldn't find the requested package or version
+7867, capital-case, title-case@3.0.1, error, Couldn't find the requested package or version
+7868, capital-case, is-lower-case@2.0.0, error, Couldn't find the requested package or version
+7869, capital-case, is-upper-case@2.0.0, error, Couldn't find the requested package or version
+7870, capital-case, lower-case-first@2.0.0, error, Couldn't find the requested package or version
+7871, capital-case, header-case@2.0.0, error, Couldn't find the requested package or version
+7872, capital-case, dot-case@3.0.0, error, Couldn't find the requested package or version
+7873, capital-case, constant-case@3.0.0, error, Couldn't find the requested package or version
+7874, capital-case, swap-case@2.0.0, error, Couldn't find the requested package or version
+7875, capital-case, upper-case-first@2.0.0, error, Couldn't find the requested package or version
+7876, capital-case, title-case@3.0.0, error, Couldn't find the requested package or version
+7877, capital-case, lower-case@2.0.0, error, Couldn't find the requested package or version
+7878, capital-case, upper-case@2.0.0, error, Couldn't find the requested package or version
+7879, capital-case, change-case@4.0.0, error, Couldn't find the requested package or version
+7880, capital-case, snake-case@3.0.0, error, Couldn't find the requested package or version
+7881, capital-case, sentence-case@3.0.0, error, Couldn't find the requested package or version
+7882, capital-case, path-case@3.0.0, error, Couldn't find the requested package or version
+7883, capital-case, pascal-case@3.0.0, error, Couldn't find the requested package or version
+7884, capital-case, param-case@3.0.0, error, Couldn't find the requested package or version
+7885, capital-case, camel-case@4.0.0, error, Couldn't find the requested package or version
+7886, capital-case, capital-case@1.0.0, error, Couldn't find the requested package or version
+7887, capital-case, no-case@3.0.0, error, Couldn't find the requested package or version
+7888, capital-case, v3.1.0, True
+7889, capital-case, v3.0.2, True
+7890, capital-case, v3.0.1, True
+7891, capital-case, v3.0.0, True
+7892, ali-oss, v6.6.0, False, 1, 0, 1, 0, 0
+7893, ali-oss, v6.7.0, False, 1, 0, 1, 0, 0
+7894, ali-oss, v6.8.0, False, 1, 0, 1, 0, 0
+7895, ali-oss, 4.6.1, False, 1, 0, 1, 0, 0
+7896, ali-oss, 4.5.1, False, 1, 0, 1, 0, 0
+7897, ali-oss, 4.5.0, False, 1, 0, 1, 0, 0
+7898, messageformat, @messageformat/core@3.0.0, error, Couldn't find the requested package or version
+7899, messageformat, messageformat@3.0.0-beta.2, error, Couldn't find the requested package or version
+7900, messageformat, messageformat@3.0.0-beta.1, error, Couldn't find the requested package or version
+7901, messageformat, messageformat@2.3.0, error, Couldn't find the requested package or version
+7902, messageformat, messageformat@2.2.0, error, Couldn't find the requested package or version
+7903, messageformat, messageformat@2.1.0, error, Couldn't find the requested package or version
+7904, messageformat, v2.0.5, True
+7905, messageformat, v2.0.4, True
+7906, messageformat, v2.0.3, True
+7907, messageformat, v2.0.2, True
+7908, messageformat, v2.0.1, True
+7909, messageformat, v2.0.0, True
+7910, messageformat, v2.0.0-beta.5, True
+7911, messageformat, v2.0.0-beta.4, True
+7912, messageformat, v2.0.0-beta.2, True
+7913, messageformat, v2.0.0-beta.1, True
+7914, messageformat, v1.1.1, True
+7915, messageformat, v1.1.0, True
+7916, messageformat, v1.0.2, True
+7917, messageformat, v1.0.0, True
+7918, messageformat, v0.3.1, True
+7919, messageformat, v0.3.0, False, 2, 0, 2, 0, 0
+7920, messageformat, 0.2.2, False, 3, 0, 2, 1, 0
+7921, messageformat, 0.2.1, False, 3, 0, 2, 1, 0
+7922, proj4, 2.7.5, True
+7923, proj4, 2.7.2, True
+7924, proj4, 2.7.0, True
+7925, proj4, 2.6.3, True
+7926, proj4, 2.6.2, True
+7927, proj4, 2.6.1, True
+7928, proj4, 2.6.0, True
+7929, proj4, 2.5.0, True
+7930, proj4, 2.4.3, True
+7931, proj4, 2.4.1, True
+7932, proj4, 2.4.0, True
+7933, proj4, 2.3.16, True
+7934, proj4, 2.3.15, True
+7935, proj4, 2.3.14, True
+7936, proj4, 2.3.12, True
+7937, proj4, 2.3.3, True
+7938, proj4, 2.2.2, True
+7939, proj4, 2.2.1, True
+7940, proj4, 2.1.4, True
+7941, proj4, 2.1.2, True
+7942, focus-visible, v5.2.0, True
+7943, focus-visible, v5.0.0, True
+7944, focus-visible, v4.0.1, True
+7945, focus-visible, v3.0.0, True
+7946, focus-visible, v2.0.0, True
+7947, focus-visible, v1.0.0, error, Couldn't find the requested package or version
+7948, normalize-scss, 7.0.1, True
+7949, normalize-scss, 4.0.3, True
+7950, normalize-scss, 4.0.2, True
+7951, normalize-scss, 4.0.1, True
+7952, normalize-scss, 4.0.0, True
+7953, normalize-scss, 3.0.3, True
+7954, normalize-scss, 3.0.2+normalize.3.0.2, True
+7955, normalize-scss, 3.0.1+normalize.3.0.1, True
+7956, normalize-scss, 3.0.0+normalize.3.0.1, True
+7957, normalize-scss, 3.0.0-alpha.2+normalize.3.0.0, error, Couldn't find the requested package or version
+7958, normalize-scss, 2.2.0+normalize.2.1.3, error, Couldn't find the requested package or version
+7959, normalize-scss, 3.0.0-alpha.1+normalize.2.1.3, error, Couldn't find the requested package or version
+7960, normalize-scss, 2.1.3, error, Couldn't find the requested package or version
+7961, d3-queue, v3.0.7, True
+7962, d3-queue, v3.0.6, True
+7963, d3-queue, v3.0.5, True
+7964, d3-queue, v3.0.4, True
+7965, d3-queue, v3.0.3, True
+7966, d3-queue, v3.0.2, True
+7967, d3-queue, v3.0.1, True
+7968, d3-queue, v3.0.0, True
+7969, d3-queue, v2.0.3, True
+7970, d3-queue, v2.0.2, True
+7971, d3-queue, v1.2.3, True
+7972, d3-queue, v2.0.1, True
+7973, d3-queue, v2.0.0, True
+7974, d3-queue, v1.2.2, True
+7975, d3-queue, v1.2.1, True
+7976, d3-queue, v1.2.0, True
+7977, d3-queue, v1.1.1, True
+7978, d3-queue, v1.1.0, True
+7979, queue-async, v3.0.7, True
+7980, queue-async, v3.0.6, True
+7981, queue-async, v3.0.5, True
+7982, queue-async, v3.0.4, True
+7983, queue-async, v3.0.3, True
+7984, queue-async, v3.0.2, True
+7985, queue-async, v3.0.1, True
+7986, queue-async, v3.0.0, True
+7987, queue-async, v2.0.3, True
+7988, queue-async, v2.0.2, True
+7989, queue-async, v1.2.3, True
+7990, queue-async, v2.0.1, True
+7991, queue-async, v2.0.0, True
+7992, queue-async, v1.2.2, True
+7993, queue-async, v1.2.1, True
+7994, queue-async, v1.2.0, True
+7995, queue-async, v1.1.1, True
+7996, queue-async, v1.1.0, True
+7997, images, v3.0.3, True
+7998, images, v3.0.2, False, 6, 0, 5, 0, 1
+7999, images, v3.0.1, False, 6, 0, 5, 0, 1
+8000, tedious, v14.0.0, True
+8001, tedious, v13.2.0, True
+8002, tedious, v13.1.0, True
+8003, tedious, v13.0.5, True
+8004, tedious, v13.0.4, True
+8005, tedious, v13.0.3, True
+8006, tedious, v13.0.2, True
+8007, tedious, v13.0.1, True
+8008, tedious, v13.0.0, True
+8009, tedious, v12.3.0, True
+8010, tedious, v12.3.0-alpha.1, True
+8011, tedious, v12.2.0, True
+8012, tedious, v12.1.0, True
+8013, tedious, v12.0.0, True
+8014, tedious, v12.0.0-beta.4, True
+8015, tedious, v12.0.0-alpha.1, True
+8016, tedious, v11.8.0, True
+8017, tedious, v11.7.0, True
+8018, tedious, v12.0.0-beta.3, True
+8019, tedious, v12.0.0-beta.2, True
+8020, tedious, v12.0.0-beta.1, True
+8021, tedious, v11.6.1, True
+8022, tedious, v11.6.0, True
+8023, tedious, v11.5.0, True
+8024, tedious, v11.4.2, True
+8025, tedious, v11.4.1, True
+8026, tedious, v6.7.1, True
+8027, tedious, v11.4.0, True
+8028, tedious, v11.3.1, True
+8029, tedious, v11.3.0, True
+8030, worker-loader, v3.0.8, True
+8031, worker-loader, v3.0.7, True
+8032, worker-loader, v3.0.6, True
+8033, worker-loader, v3.0.5, True
+8034, worker-loader, v3.0.4, True
+8035, worker-loader, v3.0.3, True
+8036, worker-loader, v3.0.2, True
+8037, worker-loader, v3.0.1, True
+8038, worker-loader, v3.0.0, True
+8039, worker-loader, v2.0.0, True
+8040, worker-loader, v1.1.1, True
+8041, worker-loader, v1.1.0, False, 1, 0, 1, 0, 0
+8042, worker-loader, v1.0.0, False, 1, 0, 1, 0, 0
+8043, eosjs, v22.1.0, True
+8044, eosjs, v22.0.0, True
+8045, eosjs, v21.0.4, True
+8046, eosjs, v22.0.0-rc2, False, 1, 0, 0, 1, 0
+8047, eosjs, v21.0.2-rc3, False, 1, 0, 0, 1, 0
+8048, eosjs, v22.0.0-rc1, False, 1, 0, 0, 1, 0
+8049, eosjs, v21.0.3, False, 1, 0, 0, 1, 0
+8050, eosjs, v21.0.2, False, 1, 0, 0, 1, 0
+8051, eosjs, v21.0.0-rc2, False, 2, 0, 1, 1, 0
+8052, eosjs, v21.0.0-rc1, True
+8053, eosjs, 20.0.0, True
+8054, eosjs, v20.0.0-beta3, True
+8055, eosjs, v20.0.0-beta2, True
+8056, eosjs, v16.0.8, False, 1, 0, 0, 1, 0
+8057, eosjs, v16.0.7, False, 1, 0, 0, 1, 0
+8058, eosjs, v16.0.6, False, 1, 0, 0, 1, 0
+8059, eosjs, v16.0.3, False, 1, 0, 0, 1, 0
+8060, eosjs, v16.0.2, False, 1, 0, 0, 1, 0
+8061, eosjs, v16.0.1, False, 1, 0, 0, 1, 0
+8062, eosjs, v16.0.0, False, 1, 0, 0, 1, 0
+8063, eosjs, v15.0.6, False, 1, 0, 0, 1, 0
+8064, eosjs, v15.0.4, False, 1, 0, 0, 1, 0
+8065, eosjs, v15.0.3, False, 1, 0, 0, 1, 0
+8066, eosjs, v15.0.2, False, 1, 0, 0, 1, 0
+8067, eosjs, v15.0.1, False, 1, 0, 0, 1, 0
+8068, eosjs, v15.0.0, False, 1, 0, 0, 1, 0
+8069, eosjs, v14.2.0, False, 1, 0, 0, 1, 0
+8070, eosjs, v14.1.1, False, 1, 0, 0, 1, 0
+8071, eosjs, v14.1.0, False, 1, 0, 0, 1, 0
+8072, eosjs, v14.0.0, False, 1, 0, 0, 1, 0
+8073, emojilib, v3.0.0, True
+8074, emojilib, v2.4.0, True
+8075, emojilib, v2.3.0, True
+8076, emojilib, v2.2.12, True
+8077, emojilib, 2.2.9, True
+8078, emojilib, 2.2.8, True
+8079, emojilib, 2.2.0, True
+8080, emojilib, 2.1.0, True
+8081, emojilib, 2.0.3, True
+8082, emojilib, 2.0.2, True
+8083, emojilib, v1.0.0, True
+8084, ldapjs, v2.3.1, True
+8085, ldapjs, v2.3.0, True
+8086, ldapjs, v2.2.4, True
+8087, ldapjs, v2.2.3, True
+8088, ldapjs, v2.2.2, True
+8089, ldapjs, v2.2.1, True
+8090, ldapjs, v2.2.0, True
+8091, ldapjs, v2.1.1, True
+8092, ldapjs, v2.1.0, True
+8093, ldapjs, v2.0.0, True
+8094, ethereum-types, monorepo@7bf710f, error, Couldn't find the requested package or version
+8095, ethereum-types, monorepo@15f75a0, error, Couldn't find the requested package or version
+8096, ethereum-types, monorepo@7742901, error, Couldn't find the requested package or version
+8097, ethereum-types, monorepo@58ff2dc, error, Couldn't find the requested package or version
+8098, ethereum-types, monorepo@4a133ca, error, Couldn't find the requested package or version
+8099, ethereum-types, monorepo@5d603b2, error, Couldn't find the requested package or version
+8100, ethereum-types, monorepo@51ca310, error, Couldn't find the requested package or version
+8101, ethereum-types, monorepo@6b0f357, error, Couldn't find the requested package or version
+8102, ethereum-types, monorepo@761d0a0, error, Couldn't find the requested package or version
+8103, ethereum-types, monorepo@21db0e6, error, Couldn't find the requested package or version
+8104, ethereum-types, monorepo@1166b43, error, Couldn't find the requested package or version
+8105, ethereum-types, monorepo@9e9e0d6, error, Couldn't find the requested package or version
+8106, ethereum-types, monorepo@3b9d84f, error, Couldn't find the requested package or version
+8107, ethereum-types, monorepo@c60d1e5, error, Couldn't find the requested package or version
+8108, ethereum-types, monorepo@ec92cea, error, Couldn't find the requested package or version
+8109, ethereum-types, monorepo@f394d7d, error, Couldn't find the requested package or version
+8110, ethereum-types, monorepo@281c207, error, Couldn't find the requested package or version
+8111, ethereum-types, monorepo@6f3cee1, error, Couldn't find the requested package or version
+8112, ethereum-types, monorepo@ac82b26, error, Couldn't find the requested package or version
+8113, ethereum-types, monorepo@b6b618e, error, Couldn't find the requested package or version
+8114, ethereum-types, monorepo@e853555, error, Couldn't find the requested package or version
+8115, ethereum-types, monorepo@cf04062, error, Couldn't find the requested package or version
+8116, ethereum-types, monorepo@2d3fe02, error, Couldn't find the requested package or version
+8117, ethereum-types, monorepo@490aafb, error, Couldn't find the requested package or version
+8118, ethereum-types, monorepo@c78a602, error, Couldn't find the requested package or version
+8119, ethereum-types, monorepo@0f45409, error, Couldn't find the requested package or version
+8120, ethereum-types, monorepo@d4c37ec, error, Couldn't find the requested package or version
+8121, ethereum-types, monorepo@397496a, error, Couldn't find the requested package or version
+8122, ethereum-types, monorepo@e81ae05, error, Couldn't find the requested package or version
+8123, ethereum-types, monorepo@3f0db92, error, Couldn't find the requested package or version
+8124, @react-native-community/viewpager, v5.4.8, True
+8125, @react-native-community/viewpager, v5.4.7, True
+8126, @react-native-community/viewpager, v5.4.6, True
+8127, @react-native-community/viewpager, v5.4.5, True
+8128, @react-native-community/viewpager, v5.4.4, True
+8129, @react-native-community/viewpager, v5.4.3, True
+8130, @react-native-community/viewpager, v5.4.2, True
+8131, @react-native-community/viewpager, v5.4.1, True
+8132, @react-native-community/viewpager, v5.4.0, True
+8133, @react-native-community/viewpager, v5.3.4, True
+8134, @react-native-community/viewpager, v5.3.3, True
+8135, @react-native-community/viewpager, v5.3.2, True
+8136, @react-native-community/viewpager, v5.3.1, True
+8137, @react-native-community/viewpager, v5.3.0, True
+8138, @react-native-community/viewpager, v5.2.2, True
+8139, @react-native-community/viewpager, v5.2.1, True
+8140, @react-native-community/viewpager, v6.0.0-rc.0, True
+8141, @react-native-community/viewpager, v5.2.0, True
+8142, @react-native-community/viewpager, v5.1.11, True
+8143, @react-native-community/viewpager, v5.1.10, True
+8144, @react-native-community/viewpager, v5.1.9, True
+8145, @react-native-community/viewpager, v5.1.8, True
+8146, @react-native-community/viewpager, v5.1.7, True
+8147, @react-native-community/viewpager, v5.1.6, True
+8148, @react-native-community/viewpager, v5.1.5, True
+8149, @react-native-community/viewpager, v5.1.4, True
+8150, @react-native-community/viewpager, v5.1.3, True
+8151, @react-native-community/viewpager, v5.1.2, True
+8152, @react-native-community/viewpager, v5.1.1, True
+8153, @react-native-community/viewpager, v5.1.0, True
+8154, cac, v6.7.11, True
+8155, cac, v6.7.10, True
+8156, cac, v6.7.9, True
+8157, cac, v6.7.8, True
+8158, cac, v6.7.7, True
+8159, cac, v6.7.6, True
+8160, cac, v6.7.5, True
+8161, cac, v6.7.4, True
+8162, cac, v6.7.3, True
+8163, cac, v6.7.2, True
+8164, cac, v6.7.1, True
+8165, cac, v6.7.0, True
+8166, cac, v6.6.1, True
+8167, cac, v6.6.0, True
+8168, cac, v6.5.13, True
+8169, cac, v6.5.12, True
+8170, cac, v6.5.11, True
+8171, cac, v6.5.10, True
+8172, cac, v6.5.9, True
+8173, cac, v6.5.8, True
+8174, cac, v6.5.7, True
+8175, cac, v6.5.6, True
+8176, cac, v6.5.5, True
+8177, cac, v6.5.4, True
+8178, cac, v6.5.3, True
+8179, cac, v6.5.2, True
+8180, cac, v6.5.1, True
+8181, cac, v6.5.0, True
+8182, cac, v6.4.3, True
+8183, cac, v6.4.2, True
+8184, colorette, 2.0.15, True
+8185, colorette, 2.0.14, True
+8186, colorette, 2.0.12, True
+8187, colorette, 2.0.13, True
+8188, colorette, 2.0.11, True
+8189, colorette, 2.0.10, True
+8190, colorette, 2.0.9, True
+8191, colorette, 2.0.8, True
+8192, colorette, 2.0.7, True
+8193, colorette, 2.0.6, True
+8194, colorette, 2.0.5, True
+8195, colorette, 2.0.4, True
+8196, colorette, 2.0.3, True
+8197, colorette, 2.0.2, True
+8198, colorette, 2.0.1, True
+8199, colorette, 2.0.0, True
+8200, colorette, 1.4.0, True
+8201, colorette, 1.3.0, True
+8202, colorette, 1.2.2, True
+8203, colorette, 1.2.1, True
+8204, colorette, 1.2.0, True
+8205, colorette, 1.1.0, True
+8206, colorette, 1.0.0, True
+8207, clorox, 2.0.15, True
+8208, clorox, 2.0.14, True
+8209, clorox, 2.0.12, True
+8210, clorox, 2.0.13, True
+8211, clorox, 2.0.11, True
+8212, clorox, 2.0.10, True
+8213, clorox, 2.0.9, True
+8214, clorox, 2.0.8, True
+8215, clorox, 2.0.7, True
+8216, clorox, 2.0.6, True
+8217, clorox, 2.0.5, True
+8218, clorox, 2.0.4, True
+8219, clorox, 2.0.3, True
+8220, clorox, 2.0.2, True
+8221, clorox, 2.0.1, True
+8222, clorox, 2.0.0, True
+8223, clorox, 1.4.0, True
+8224, clorox, 1.3.0, True
+8225, clorox, 1.2.2, True
+8226, clorox, 1.2.1, True
+8227, clorox, 1.2.0, True
+8228, clorox, 1.1.0, True
+8229, clorox, 1.0.0, True
+8230, react-broadcast, v0.7.1, True
+8231, react-broadcast, v0.3.1, True
+8232, react-broadcast, v0.3.0, True
+8233, @deckdeckgo/utils, v5.0.1, True
+8234, @deckdeckgo/utils, v5.0.0, True
+8235, @deckdeckgo/utils, v4.10.0, error, Couldn't find the requested package or version
+8236, @deckdeckgo/utils, v4.9.0, error, Couldn't find the requested package or version
+8237, @deckdeckgo/utils, v4.8.0, error, Couldn't find the requested package or version
+8238, @deckdeckgo/utils, v4.7.0, error, Couldn't find the requested package or version
+8239, @deckdeckgo/utils, v4.6.0, error, Couldn't find the requested package or version
+8240, @deckdeckgo/utils, v4.5.0, error, Couldn't find the requested package or version
+8241, @deckdeckgo/utils, v4.4.0, error, Couldn't find the requested package or version
+8242, @deckdeckgo/utils, v4.3.0, error, Couldn't find the requested package or version
+8243, @deckdeckgo/utils, v4.2.0, error, Couldn't find the requested package or version
+8244, @deckdeckgo/utils, v4.1.0, error, Couldn't find the requested package or version
+8245, @deckdeckgo/utils, v4.0.0, error, Couldn't find the requested package or version
+8246, @deckdeckgo/utils, v3.2.1, error, Couldn't find the requested package or version
+8247, @deckdeckgo/utils, v3.2.0, error, Couldn't find the requested package or version
+8248, @deckdeckgo/utils, v3.1.0, error, Couldn't find the requested package or version
+8249, @deckdeckgo/utils, v3.0.0, error, Couldn't find the requested package or version
+8250, @deckdeckgo/utils, v2.3.0, True
+8251, @deckdeckgo/utils, v2.2.0, True
+8252, @deckdeckgo/utils, v2.1.0, True
+8253, @deckdeckgo/utils, v2.0.0, True
+8254, @deckdeckgo/utils, v1.5.0, True
+8255, @deckdeckgo/utils, v1.4.0, True
+8256, @deckdeckgo/utils, v1.3.0, True
+8257, @deckdeckgo/utils, v1.2.0, True
+8258, @deckdeckgo/utils, v1.1.0, True
+8259, @deckdeckgo/utils, v1.0.0, True
+8260, @deckdeckgo/utils, v1.0.0-rc.21-1, error, Couldn't find the requested package or version
+8261, @deckdeckgo/utils, v1.0.0-rc.21, error, Couldn't find the requested package or version
+8262, @deckdeckgo/utils, v1.0.0-rc.20, error, Couldn't find the requested package or version
+8263, babel-upgrade, v0.0.9, False, 1, 0, 0, 1, 0
+8264, memcached, 2.2.2, True
+8265, memcached, 2.2.1, True
+8266, memcached, 2.2.0, True
+8267, memcached, 2.0, True
+8268, memcached, 1.0, True
+8269, fast-xml-parser, 3.17.1, True
+8270, fast-xml-parser, 3.16.0, True
+8271, fast-xml-parser, v3.15.0, True
+8272, fast-xml-parser, 3.12.20, True
+8273, fast-xml-parser, 3.12.16, True
+8274, fast-xml-parser, 3.12.5, True
+8275, fast-xml-parser, 3.10.0, True
+8276, fast-xml-parser, 3.4.0, False, 3, 0, 1, 2, 0
+8277, fast-xml-parser, 3.2.0, True
+8278, fast-xml-parser, 3.0.0, True
+8279, fast-xml-parser, 2.9.4, True
+8280, fast-xml-parser, 2.9.3, True
+8281, humps, v2.0.0, True
+8282, what-input, v5.2.10, True
+8283, what-input, v5.2.9, True
+8284, what-input, v5.2.8, True
+8285, what-input, 5.2.7, True
+8286, what-input, v5.2.6, True
+8287, what-input, v5.2.5, True
+8288, what-input, v5.2.4, True
+8289, what-input, v5.2.3, True
+8290, what-input, v5.2.2, True
+8291, what-input, v5.2.1, True
+8292, what-input, v5.2.0, True
+8293, what-input, v5.1.4, True
+8294, what-input, v5.1.3, True
+8295, what-input, v5.1.1, True
+8296, what-input, v5.1.0, True
+8297, what-input, v5.0.7, True
+8298, what-input, v5.0.6, True
+8299, what-input, v5.0.5, True
+8300, what-input, v5.0.4, True
+8301, what-input, v5.0.3, True
+8302, what-input, v5.0.2, True
+8303, what-input, v5.0.1, True
+8304, what-input, v4.3.1, True
+8305, what-input, v4.3.0, True
+8306, what-input, v4.2.0, True
+8307, what-input, v4.1.6, True
+8308, what-input, v4.1.3, True
+8309, what-input, v4.1.2, True
+8310, what-input, v4.1.1, True
+8311, what-input, v4.1.0, True
+8312, babel-plugin-preval, v5.0.0, True
+8313, babel-plugin-preval, v4.0.0, True
+8314, babel-plugin-preval, v3.0.1, True
+8315, babel-plugin-preval, v3.0.0, True
+8316, babel-plugin-preval, v2.0.1, True
+8317, babel-plugin-preval, v2.0.0, True
+8318, babel-plugin-preval, v1.6.4, True
+8319, babel-plugin-preval, v1.6.3, True
+8320, babel-plugin-preval, v1.6.2, True
+8321, babel-plugin-preval, v1.6.1, True
+8322, babel-plugin-preval, v1.6.0, True
+8323, babel-plugin-preval, v1.5.1, True
+8324, babel-plugin-preval, v1.5.0, True
+8325, babel-plugin-preval, v1.4.5, True
+8326, babel-plugin-preval, v1.4.4, True
+8327, babel-plugin-preval, v1.4.3, True
+8328, babel-plugin-preval, v1.4.2, True
+8329, babel-plugin-preval, v1.4.1, True
+8330, babel-plugin-preval, v1.4.0, True
+8331, babel-plugin-preval, v1.3.3, True
+8332, babel-plugin-preval, v1.3.2, True
+8333, babel-plugin-preval, v1.3.1, True
+8334, babel-plugin-preval, v1.3.0, True
+8335, babel-plugin-preval, v1.2.1, True
+8336, babel-plugin-preval, v1.2.0, True
+8337, babel-plugin-preval, v1.1.1, True
+8338, babel-plugin-preval, v1.1.0, True
+8339, babel-plugin-preval, v1.0.0, True
+8340, google-auth-library, v7.10.2, True
+8341, keytar, v7.7.0, True
+8342, keytar, v7.6.0, True
+8343, keytar, v7.5.0, True
+8344, keytar, v7.4.0, True
+8345, keytar, v7.3.0, True
+8346, keytar, v7.2.0, True
+8347, keytar, v7.1.0, True
+8348, keytar, v7.0.0, True
+8349, keytar, v6.0.1, True
+8350, keytar, v6.0.0, True
+8351, keytar, v6.0.0-beta.2, True
+8352, keytar, v6.0.0-beta.1, True
+8353, keytar, v6.0.0-beta.0, True
+8354, keytar, v5.6.0, True
+8355, keytar, v5.5.0, True
+8356, keytar, v5.4.0, True
+8357, keytar, v5.3.0, True
+8358, keytar, v5.2.0, True
+8359, keytar, v5.1.0, True
+8360, keytar, v5.0.0, True
+8361, keytar, v5.0.0-beta.5, True
+8362, keytar, v5.0.0-beta.4, True
+8363, keytar, v5.0.0-beta.3, True
+8364, keytar, v5.0.0-beta.2, True
+8365, keytar, v5.0.0-beta.1, True
+8366, keytar, v5.0.0-beta.0, True
+8367, keytar, v4.13.0, True
+8368, keytar, v4.12.0, True
+8369, keytar, v4.11.0, True
+8370, keytar, v4.10.0, True
+8371, utility, 0.0.10, True
+8372, utility, 0.0.11, True
+8373, utility, 0.0.12, True
+8374, aes-js, v3.1.2, True
+8375, aes-js, v3.1.0, True
+8376, aes-js, v3.0.0, True
+8377, aes-js, v2.1.0, True
+8378, aes-js, v2.0.0, True
+8379, aes-js, v0.2.3, True
+8380, aes-js, v0.2.2, True
+8381, @lion/core, @lion/overlays@0.29.0, error, Couldn't find the requested package or version
+8382, @lion/core, @lion/input-amount@0.14.6, error, Couldn't find the requested package or version
+8383, @lion/core, @lion/input-range@0.10.7, error, Couldn't find the requested package or version
+8384, @lion/core, @lion/localize@0.21.2, error, Couldn't find the requested package or version
+8385, @lion/core, @lion/switch@0.18.1, error, Couldn't find the requested package or version
+8386, @lion/core, @lion/dialog@0.13.5, error, Couldn't find the requested package or version
+8387, @lion/core, @lion/form-integrations@0.9.8, error, Couldn't find the requested package or version
+8388, @lion/core, @lion/input-datepicker@0.23.8, error, Couldn't find the requested package or version
+8389, @lion/core, @lion/input-date@0.12.8, error, Couldn't find the requested package or version
+8390, @lion/core, @lion/tabs@0.9.4, error, Couldn't find the requested package or version
+8391, @lion/core, @lion/select-rich@0.27.6, error, Couldn't find the requested package or version
+8392, @lion/core, @lion/radio-group@0.18.6, error, Couldn't find the requested package or version
+8393, @lion/core, @lion/button@0.14.4, error, Couldn't find the requested package or version
+8394, @lion/core, @lion/listbox@0.10.6, error, Couldn't find the requested package or version
+8395, @lion/core, @lion/calendar@0.16.6, error, Couldn't find the requested package or version
+8396, @lion/core, @lion/combobox@0.8.5, error, Couldn't find the requested package or version
+8397, @lion/core, @lion/tooltip@0.21.5, error, Couldn't find the requested package or version
+8398, @lion/core, @lion/icon@0.13.4, error, Couldn't find the requested package or version
+8399, @lion/core, @lion/form@0.12.6, error, Couldn't find the requested package or version
+8400, @lion/core, @lion/select@0.14.6, error, Couldn't find the requested package or version
+8401, @lion/core, @lion/helpers@0.9.4, error, Couldn't find the requested package or version
+8402, @lion/core, @lion/validate-messages@0.7.6, error, Couldn't find the requested package or version
+8403, @lion/core, @lion/core@0.18.4, error, Couldn't find the requested package or version
+8404, @lion/core, @lion/pagination@0.6.5, error, Couldn't find the requested package or version
+8405, @lion/core, @lion/checkbox-group@0.18.6, error, Couldn't find the requested package or version
+8406, @lion/core, @lion/steps@0.9.4, error, Couldn't find the requested package or version
+8407, @lion/core, @lion/input@0.15.6, error, Couldn't find the requested package or version
+8408, @lion/core, @lion/form-core@0.15.3, error, Couldn't find the requested package or version
+8409, @lion/core, @lion/input-iban@0.16.6, error, Couldn't find the requested package or version
+8410, @lion/core, @lion/accordion@0.7.1, error, Couldn't find the requested package or version
+8411, level, v7.0.1, True
+8412, level, v7.0.0, True
+8413, level, v6.0.1, True
+8414, level, v6.0.0, True
+8415, level, v5.0.1, True
+8416, level, v5.0.0, True
+8417, level, v5.0.0-0, True
+8418, level, v4.0.0, True
+8419, level, 0.8.0, False, 1, 0, 0, 1, 0
+8420, level, 0.9.0, False, 2, 0, 0, 2, 0
+8421, level, 0.10.0, False, 2, 0, 0, 2, 0
+8422, level, 0.11.0, False, 2, 0, 0, 2, 0
+8423, level, 0.12.0, False, 2, 0, 0, 2, 0
+8424, level, 0.13.0, False, 2, 0, 0, 2, 0
+8425, level, 0.14.0, False, 2, 0, 0, 2, 0
+8426, level, 0.15.0, False, 2, 0, 0, 2, 0
+8427, level, 0.16.0, False, 2, 0, 0, 2, 0
+8428, level, 0.17.0, False, 2, 0, 0, 2, 0
+8429, level, 0.17.0-1, False, 2, 0, 0, 2, 0
+8430, level, 0.18.0, False, 3, 0, 1, 2, 0
+8431, level, v0.19.0, False, 2, 0, 1, 1, 0
+8432, level, v0.19.1, False, 2, 0, 1, 1, 0
+8433, level, v1.0.0-0, True
+8434, level, v1.0.0, True
+8435, level, v1.1.0, False, 21, 0, 11, 8, 2
+8436, level, v1.2.0, False, 21, 0, 11, 8, 2
+8437, level, v1.3.0, False, 12, 0, 10, 0, 2
+8438, level, v1.4.0, False, 12, 0, 10, 0, 2
+8439, level, v1.5.0, False, 12, 0, 10, 0, 2
+8440, level, v1.6.0, True
+8441, node-rsa, 1.1.1, True
+8442, node-rsa, 1.0.5, True
+8443, node-rsa, 1.0.3, True
+8444, node-rsa, 0.3.0, True
+8445, node-rsa, 0.2.30, False, 9, 1, 4, 4, 0
+8446, node-rsa, 0.2.24, False, 9, 1, 4, 4, 0
+8447, node-rsa, 0.2.22, False, 9, 1, 4, 4, 0
+8448, node-rsa, 0.2.13, False, 9, 1, 4, 4, 0
+8449, node-rsa, 0.2.10, False, 9, 1, 4, 4, 0
+8450, node-rsa, 0.2.0, False, 9, 1, 4, 4, 0
+8451, node-rsa, 0.1.54, False, 9, 1, 4, 4, 0
+8452, node-rsa, 0.1.53, False, 9, 1, 4, 4, 0
+8453, node-rsa, 0.1.41, False, 9, 1, 4, 4, 0
+8454, node-rsa, 0.1.31, False, 9, 1, 4, 4, 0
+8455, shifty, v2.16.0, True
+8456, shifty, v2.15.2, True
+8457, shifty, v2.15.1, True
+8458, shifty, v2.15.0, True
+8459, shifty, v2.14.2, True
+8460, shifty, v2.14.1, True
+8461, shifty, v2.14.0, True
+8462, shifty, v2.13.2, True
+8463, shifty, v2.13.1, True
+8464, shifty, v2.13.0, True
+8465, shifty, v2.12.0, True
+8466, shifty, v2.11.1, True
+8467, shifty, 2.11.0, True
+8468, shifty, v2.10.0, True
+8469, shifty, v2.9.2, True
+8470, shifty, v2.9.0, True
+8471, shifty, v2.7.1, True
+8472, shifty, v2.7.0, True
+8473, shifty, 2.6.1, True
+8474, shifty, v2.5.0, True
+8475, fast-csv, v4.3.6, True
+8476, fast-csv, v4.3.5, False, 2, 0, 0, 2, 0
+8477, fast-csv, v4.3.4, False, 2, 0, 0, 2, 0
+8478, fast-csv, v4.3.3, False, 2, 0, 0, 2, 0
+8479, fast-csv, v4.3.2, False, 2, 0, 0, 2, 0
+8480, fast-csv, v4.3.1, False, 2, 0, 0, 2, 0
+8481, fast-csv, v4.3.0, False, 2, 0, 0, 2, 0
+8482, fast-csv, v4.2.0, False, 2, 0, 0, 2, 0
+8483, fast-csv, v4.1.6, False, 2, 0, 0, 2, 0
+8484, fast-csv, v4.1.5, False, 2, 0, 0, 2, 0
+8485, fast-csv, v4.1.4, False, 2, 0, 0, 2, 0
+8486, fast-csv, v4.0.1, False, 1, 0, 0, 1, 0
+8487, fast-csv, v4.0.0, False, 1, 0, 0, 1, 0
+8488, fast-csv, v4.0.0-alpha.0, False, 1, 0, 0, 1, 0
+8489, fast-csv, v3.7.0, False, 1, 0, 0, 1, 0
+8490, fast-csv, v3.6.0, False, 1, 0, 0, 1, 0
+8491, fast-csv, v3.5.0, False, 1, 0, 0, 1, 0
+8492, fast-csv, v3.4.0, False, 1, 0, 0, 1, 0
+8493, fast-csv, v3.3.0, False, 1, 0, 0, 1, 0
+8494, fast-csv, v3.2.0, False, 1, 0, 0, 1, 0
+8495, fast-csv, v3.0.2, False, 1, 0, 0, 1, 0
+8496, fast-csv, v2.3.0, False, 1, 0, 0, 1, 0
+8497, fast-csv, v2.2.0, False, 1, 0, 0, 1, 0
+8498, fast-csv, v2.0.1, False, 1, 0, 0, 1, 0
+8499, fast-csv, v2.0.0, False, 1, 0, 0, 1, 0
+8500, fast-csv, v1.1.0, False, 1, 0, 0, 1, 0
+8501, fast-csv, v1.0.0, False, 1, 0, 0, 1, 0
+8502, fast-csv, v0.6.0, False, 1, 0, 0, 1, 0
+8503, fast-csv, v0.5.7, False, 1, 0, 0, 1, 0
+8504, fast-csv, v0.5.6, False, 1, 0, 0, 1, 0
+8505, mathjax-full, 3.2.0, True
+8506, mathjax-full, 3.1.4, True
+8507, mathjax-full, 3.1.3, True
+8508, mathjax-full, 3.1.2, True
+8509, mathjax-full, 3.1.1, True
+8510, mathjax-full, 3.1.0, True
+8511, mathjax-full, 3.0.5, True
+8512, mathjax-full, 3.0.4, True
+8513, mathjax-full, 3.0.1, True
+8514, mathjax-full, 3.0.0, True
+8515, mathjax-full, 3.0.0-beta.4, True
+8516, mathjax-full, 3.0.0-beta.3, True
+8517, mathjax-full, 3.0.0-beta.2, True
+8518, mathjax-full, 3.0.0-beta.1, True
+8519, mathjax-full, 3.0.0-alpha.6, True
+8520, mathjax-full, 3.0.0-alpha.5, False, 1, 0, 0, 1, 0
+8521, mathjax-full, 3.0.0-alpha.4, False, 1, 0, 0, 1, 0
+8522, mathjax-full, 3.0.0-alpha.3, False, 1, 0, 0, 1, 0
+8523, mathjax-full, 3.0.0-alpha.2, False, 5, 0, 0, 5, 0
+8524, mathjax-full, 3.0.0-alpha.1, False, 5, 0, 0, 5, 0
+8525, mathjax-full, 3.0.0-alpha.0, False, 5, 0, 0, 5, 0
+8526, ms-rest-azure, 2.2.1-preview-October2017, False, 198, 0, 3, 186, 9
+8527, ms-rest-azure, 2.2.0-preview-September2017, False, 196, 0, 3, 188, 5
+8528, ms-rest-azure, 2.0.0-preview-April2017, False, 170, 0, 3, 163, 4
+8529, ms-rest-azure, v1.2.0-preview-September2016, False, 743, 0, 86, 653, 4
+8530, ms-rest-azure, v0.10.5-March2015, False, 403, 0, 60, 296, 47
+8531, azure-common, 2.2.1-preview-October2017, False, 198, 0, 3, 186, 9
+8532, azure-common, 2.2.0-preview-September2017, False, 196, 0, 3, 188, 5
+8533, azure-common, 2.0.0-preview-April2017, False, 170, 0, 3, 163, 4
+8534, azure-common, v1.2.0-preview-September2016, False, 743, 0, 86, 653, 4
+8535, azure-common, v0.10.5-March2015, False, 403, 0, 60, 296, 47
+8536, node-hid, v2.1.1, True
+8537, node-hid, v2.1.0-0, True
+8538, node-hid, v2.0.0-0, True
+8539, node-hid, v1.3.2, True
+8540, node-hid, v1.3.1, True
+8541, node-hid, v1.3.0, True
+8542, node-hid, v1.2.0, True
+8543, node-hid, v1.1.0, True
+8544, node-hid, v1.0.0, True
+8545, node-hid, v0.7.9, True
+8546, node-hid, v0.7.8, True
+8547, node-hid, v0.7.7, True
+8548, node-hid, v0.7.6, True
+8549, node-hid, v0.7.5, True
+8550, node-hid, v0.7.4, True
+8551, node-hid, v0.7.3, True
+8552, node-hid, v0.7.2, True
+8553, node-hid, v0.7.1, True
+8554, node-hid, v0.7.0, True
+8555, node-hid, v0.6.0, True
+8556, node-hid, v0.5.7, True
+8557, node-hid, 0.5.4, False, 15, 0, 11, 0, 4
+8558, node-hid, 0.5.2, False, 15, 0, 11, 0, 4
+8559, csv-parser, v3.0.0, True
+8560, csv-parser, v2.3.2, True
+8561, csv-parser, v2.3.0, True
+8562, csv-parser, v2.2.1, True
+8563, csv-parser, v2.2.0, True
+8564, csv-parser, v2.1.0, True
+8565, csv-parser, v2.0.0, True
+8566, octonode, v0.4.0, False, 13, 0, 2, 8, 3
+8567, commonmark, 0.30.0, True
+8568, commonmark, 0.29.3, True
+8569, commonmark, 0.29.2, True
+8570, commonmark, 0.29.1, True
+8571, commonmark, 0.29.0, True
+8572, commonmark, 0.28.1, True
+8573, commonmark, 0.28.0, True
+8574, commonmark, 0.27.0, True
+8575, commonmark, 0.26.0, True
+8576, commonmark, 0.25.1, True
+8577, commonmark, 0.25.0, True
+8578, commonmark, 0.24.0, True
+8579, commonmark, 0.23.0, True
+8580, commonmark, 0.22.1, True
+8581, commonmark, 0.22.0, True
+8582, commonmark, 0.21.0, True
+8583, commonmark, 0.20.0, True
+8584, commonmark, 0.19.0, True
+8585, commonmark, 0.18.2, True
+8586, commonmark, 0.18.1, True
+8587, commonmark, 0.17.1, True
+8588, commonmark, 0.17, True
+8589, jsforce, 1.10.0, True
+8590, jsforce, 1.9.3, True
+8591, jsforce, 1.9.2, False, 1, 0, 0, 1, 0
+8592, jsforce, 1.9.1, False, 1, 0, 0, 1, 0
+8593, jsforce, 1.9.0, False, 1, 0, 0, 1, 0
+8594, jsforce, 1.8.3, False, 3, 1, 1, 1, 0
+8595, jsforce, 1.8.5, False, 1, 0, 0, 1, 0
+8596, jsforce, 1.8.0, False, 3, 1, 1, 1, 0
+8597, jsforce, 1.7.1, False, 3, 1, 1, 1, 0
+8598, jsforce, 1.7.0, False, 3, 1, 1, 1, 0
+8599, jsforce, 1.6.5, False, 2, 1, 1, 0, 0
+8600, jsforce, 1.6.3, False, 2, 1, 1, 0, 0
+8601, jsforce, 1.6.2, False, 2, 1, 1, 0, 0
+8602, jsforce, 1.6.1, False, 2, 1, 1, 0, 0
+8603, jsforce, 1.6.0, False, 2, 1, 1, 0, 0
+8604, jsforce, 1.5.1, False, 2, 1, 1, 0, 0
+8605, jsforce, 1.5.0, False, 2, 1, 1, 0, 0
+8606, jsforce, 1.4.1, False, 2, 1, 1, 0, 0
+8607, jsforce, 1.4.0, False, 2, 1, 1, 0, 0
+8608, jsforce, 1.3.1, False, 17, 1, 4, 9, 3
+8609, jsforce, 1.3.0, False, 17, 1, 4, 9, 3
+8610, jsforce, 0.3.0, False, 2, 0, 2, 0, 0
+8611, jsforce, 0.3.1, False, 2, 0, 2, 0, 0
+8612, jsforce, 0.3.2, False, 2, 0, 2, 0, 0
+8613, jsforce, 0.3.4, False, 2, 0, 2, 0, 0
+8614, jsforce, 0.4.0, False, 2, 0, 2, 0, 0
+8615, jsforce, 0.5.0, False, 6, 0, 2, 2, 2
+8616, jsforce, 0.5.1, False, 6, 0, 2, 2, 2
+8617, jsforce, 0.6.0, False, 6, 0, 2, 2, 2
+8618, jsforce, 0.6.2, False, 6, 0, 2, 2, 2
+8619, @aurelia/kernel, v0.6.0, True
+8620, @aurelia/kernel, v0.5.0, True
+8621, @aurelia/kernel, v0.4.0, True
+8622, @aurelia/kernel, v0.3.0, True
+8623, @aurelia/kernel, v0.2.0, True
+8624, usb, v1.8.1-libusb.6, True
+8625, usb, v1.8.1-libusb.5, True
+8626, usb, v1.8.1-libusb.4, True
+8627, usb, v1.8.1-libusb.3, True
+8628, usb, v1.8.0-libusb.2, True
+8629, usb, v1.8.0, True
+8630, usb, v1.7.2-test.1, True
+8631, usb, v2.0.0-alpha.2, True
+8632, usb, v1.7.2, True
+8633, usb, v2.0.0-alpha.1, True
+8634, usb, v1.7.1, True
+8635, usb, v1.7.1-alpha.1, True
+8636, usb, v1.7.0, True
+8637, usb, v1.7.0-alpha.1, True
+8638, usb, v1.6.5, True
+8639, usb, v1.6.4, True
+8640, usb, v1.6.3, True
+8641, usb, v1.6.2, True
+8642, usb, v1.6.1, True
+8643, usb, v1.6.0, True
+8644, usb, 1.5.0, True
+8645, usb, 1.3.3, True
+8646, usb, 1.3.2, True
+8647, usb, 1.3.1, False, 21, 0, 11, 8, 2
+8648, usb, 1.4.0, False, 21, 0, 11, 8, 2
+8649, usb, 1.3.0, False, 21, 0, 11, 8, 2
+8650, usb, 1.2.0, False, 21, 0, 11, 8, 2
+8651, tracer, v1.1.5, True
+8652, tracer, v1.1.4, True
+8653, tracer, v1.1.3, True
+8654, tracer, v1.1.0, True
+8655, tracer, v1.0.3, True
+8656, tracer, v1.0.2, True
+8657, tracer, v1.0, True
+8658, twilio, 3.71.1, True
+8659, typescript-collections, v1.1.4, True
+8660, parsimmon, v1.7.3, True
+8661, parsimmon, v1.7.1, True
+8662, parsimmon, v1.7.0, True
+8663, parsimmon, v1.6.2, True
+8664, parsimmon, v1.6.1, True
+8665, parsimmon, v1.6.0, True
+8666, parsimmon, v1.5.0, True
+8667, parsimmon, v1.4.0, True
+8668, parsimmon, v1.3.0, True
+8669, opentracing, v0.14.5, True
+8670, opentracing, v0.14.4, True
+8671, ipfs-api, v42.0.0, True
+8672, ipfs-api, v42.0.0-pre.0, True
+8673, ipfs-api, v41.0.1, True
+8674, ipfs-api, v41.0.0, True
+8675, ipfs-api, v40.2.1, True
+8676, ipfs-api, v40.2.0, True
+8677, ipfs-api, v40.1.0, True
+8678, ipfs-api, v40.0.1, True
+8679, ipfs-api, v40.0.0, True
+8680, ipfs-api, v39.0.2, True
+8681, ipfs-api, v38.2.1, True
+8682, ipfs-api, v39.0.1, True
+8683, ipfs-api, v39.0.0, True
+8684, ipfs-api, v38.2.0, True
+8685, ipfs-api, v38.1.0, True
+8686, ipfs-api, v38.0.1, True
+8687, ipfs-api, v38.0.0, True
+8688, ipfs-api, v37.0.3, True
+8689, ipfs-api, v37.0.2, True
+8690, ipfs-api, v37.0.1, True
+8691, ipfs-api, v37.0.0, True
+8692, ipfs-api, v36.1.0, True
+8693, ipfs-api, v35.1.1, True
+8694, ipfs-api, v36.0.0, True
+8695, ipfs-api, v35.1.0, True
+8696, ipfs-api, v35.0.0, True
+8697, ipfs-api, v34.0.0, True
+8698, ipfs-api, v33.1.1, True
+8699, ipfs-api, v33.1.0, True
+8700, ipfs-api, v33.0.2, True
+8701, proxy-polyfill, v0.3.2, True
+8702, proxy-polyfill, v0.3.1, True
+8703, proxy-polyfill, v0.3.0, True
+8704, proxy-polyfill, v0.2.0, True
+8705, proxy-polyfill, v0.1.7, True
+8706, proxy-polyfill, v0.1.6, True
+8707, proxy-polyfill, v0.1.5, True
+8708, proxy-polyfill, v0.1.3, True
+8709, proxy-polyfill, v0.1.2, True
+8710, proxy-polyfill, v0.1.1, True
+8711, memfs, v3.3.0, True
+8712, memfs, v3.2.4, True
+8713, memfs, v3.2.3, True
+8714, memfs, v3.2.2, True
+8715, memfs, v3.2.1, True
+8716, memfs, v3.2.0, True
+8717, memfs, v3.1.3, True
+8718, memfs, v3.1.2, True
+8719, memfs, v3.1.1, True
+8720, memfs, v3.1.0, True
+8721, memfs, v3.0.6, True
+8722, memfs, v3.0.5, True
+8723, memfs, v3.0.4, True
+8724, memfs, v3.0.3, True
+8725, memfs, v3.0.2, True
+8726, memfs, v3.0.1, True
+8727, memfs, v3.0.0, True
+8728, memfs, v2.17.1, True
+8729, memfs, v2.17.0, True
+8730, memfs, v2.15.5, True
+8731, memfs, v2.15.4, True
+8732, memfs, v2.15.3, True
+8733, memfs, v2.15.2, True
+8734, memfs, v2.15.1, True
+8735, memfs, v2.15.0, True
+8736, memfs, v2.14.2, True
+8737, memfs, v2.14.1, True
+8738, memfs, v2.14.0, True
+8739, memfs, v2.13.1, True
+8740, memfs, v2.13.0, True
+8741, rest, v2.0.0, True
+8742, rest, v1.3.2, True
+8743, rest, v1.3.1, True
+8744, rest, v1.3.0, True
+8745, rest, v1.2.0, True
+8746, rest, v1.1.1, True
+8747, rest, v1.1.0, True
+8748, hyperx, v2.5.2, True
+8749, hyperx, v2.5.1, True

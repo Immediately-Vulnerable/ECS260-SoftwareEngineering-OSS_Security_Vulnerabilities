@@ -1,0 +1,3890 @@
+id, name, version, is_ok, num_vuln, critical, high, medium, low
+39999, @lerna/prompt, v3.21.0, True
+40000, @lerna/prompt, v3.20.2, True
+40001, @lerna/prompt, v3.20.1, True
+40002, @lerna/prompt, v3.20.0, True
+40003, @lerna/prompt, v3.19.0, True
+40004, @lerna/prompt, v3.18.5, False, 2, 0, 2, 0, 0
+40005, @lerna/prompt, v3.18.4, True
+40006, @lerna/prompt, v3.18.3, True
+40007, @lerna/prompt, v3.18.2, True
+40008, @lerna/prompt, v3.18.1, True
+40009, @lerna/prompt, v3.18.0, True
+40010, @lerna/prompt, v3.17.0, True
+40011, @lerna/prompt, v3.16.5, True
+40012, @lerna/prompt, v3.16.4, True
+40013, @lerna/prompt, v3.16.3, True
+40014, @lerna/prompt, v3.16.2, True
+40015, @lerna/prompt, v3.16.1, True
+40016, @lerna/prompt, v3.16.0, True
+40017, @lerna/prompt, v3.15.0, True
+40018, @lerna/prompt, v3.14.2, True
+40019, @lerna/prompt, v3.14.1, True
+40020, @lerna/prompt, v3.14.0, True
+40021, @lerna/prompt, v3.13.4, True
+40022, @lerna/prompt, v3.13.3, True
+40023, @lerna/prompt, v3.13.2, True
+40024, @lerna/prompt, v3.13.1, True
+40025, @lerna/prompt, v3.13.0, False, 2, 0, 2, 0, 0
+40026, @lerna/publish, v4.0.0, False, 1, 0, 1, 0, 0
+40027, @lerna/publish, v3.22.1, False, 21, 0, 19, 2, 0
+40028, @lerna/publish, v3.22.0, False, 21, 0, 19, 2, 0
+40029, @lerna/publish, v3.21.0, False, 21, 0, 19, 2, 0
+40030, @lerna/publish, v3.20.2, False, 21, 0, 19, 2, 0
+40031, @lerna/publish, v3.20.1, False, 21, 0, 19, 2, 0
+40032, @lerna/publish, v3.20.0, False, 21, 0, 19, 2, 0
+40033, @lerna/publish, v3.19.0, True
+40034, @lerna/publish, v3.18.5, False, 21, 0, 19, 2, 0
+40035, @lerna/publish, v3.18.4, False, 21, 0, 19, 2, 0
+40036, @lerna/publish, v3.18.3, False, 21, 0, 19, 2, 0
+40037, @lerna/publish, v3.18.2, False, 21, 0, 19, 2, 0
+40038, @lerna/publish, v3.18.1, False, 21, 0, 19, 2, 0
+40039, @lerna/publish, v3.18.0, False, 21, 0, 19, 2, 0
+40040, @lerna/publish, v3.17.0, True
+40041, @lerna/publish, v3.16.5, False, 21, 0, 19, 2, 0
+40042, @lerna/publish, v3.16.4, False, 21, 0, 19, 2, 0
+40043, @lerna/publish, v3.16.3, False, 21, 0, 19, 2, 0
+40044, @lerna/publish, v3.16.2, False, 21, 0, 19, 2, 0
+40045, @lerna/publish, v3.16.1, False, 21, 0, 19, 2, 0
+40046, @lerna/publish, v3.16.0, False, 21, 0, 19, 2, 0
+40047, @lerna/publish, v3.15.0, False, 20, 0, 16, 4, 0
+40048, @lerna/publish, v3.14.2, False, 22, 0, 16, 6, 0
+40049, @lerna/publish, v3.14.1, False, 22, 0, 16, 6, 0
+40050, @lerna/publish, v3.14.0, False, 22, 0, 16, 6, 0
+40051, @lerna/publish, v3.13.4, False, 18, 0, 12, 6, 0
+40052, @lerna/publish, v3.13.3, False, 18, 0, 12, 6, 0
+40053, @lerna/publish, v3.13.2, False, 18, 0, 12, 6, 0
+40054, @lerna/publish, v3.13.1, False, 18, 0, 12, 6, 0
+40055, @lerna/publish, v3.13.0, False, 18, 0, 12, 6, 0
+40056, @lerna/rimraf-dir, v4.0.0, True
+40057, @lerna/rimraf-dir, v3.22.1, True
+40058, @lerna/rimraf-dir, v3.22.0, True
+40059, @lerna/rimraf-dir, v3.21.0, True
+40060, @lerna/rimraf-dir, v3.20.2, True
+40061, @lerna/rimraf-dir, v3.20.1, True
+40062, @lerna/rimraf-dir, v3.20.0, True
+40063, @lerna/rimraf-dir, v3.19.0, True
+40064, @lerna/rimraf-dir, v3.18.5, True
+40065, @lerna/rimraf-dir, v3.18.4, True
+40066, @lerna/rimraf-dir, v3.18.3, True
+40067, @lerna/rimraf-dir, v3.18.2, True
+40068, @lerna/rimraf-dir, v3.18.1, True
+40069, @lerna/rimraf-dir, v3.18.0, True
+40070, @lerna/rimraf-dir, v3.17.0, True
+40071, @lerna/rimraf-dir, v3.16.5, True
+40072, @lerna/rimraf-dir, v3.16.4, True
+40073, @lerna/rimraf-dir, v3.16.3, True
+40074, @lerna/rimraf-dir, v3.16.2, True
+40075, @lerna/rimraf-dir, v3.16.1, True
+40076, @lerna/rimraf-dir, v3.16.0, True
+40077, @lerna/rimraf-dir, v3.15.0, True
+40078, @lerna/rimraf-dir, v3.14.2, True
+40079, @lerna/rimraf-dir, v3.14.1, True
+40080, @lerna/rimraf-dir, v3.14.0, True
+40081, @lerna/rimraf-dir, v3.13.4, True
+40082, @lerna/rimraf-dir, v3.13.3, True
+40083, @lerna/rimraf-dir, v3.13.2, True
+40084, @lerna/rimraf-dir, v3.13.1, True
+40085, @lerna/rimraf-dir, v3.13.0, True
+40086, @lerna/run-lifecycle, v4.0.0, True
+40087, @lerna/run-lifecycle, v3.22.1, True
+40088, @lerna/run-lifecycle, v3.22.0, True
+40089, @lerna/run-lifecycle, v3.21.0, True
+40090, @lerna/run-lifecycle, v3.20.2, True
+40091, @lerna/run-lifecycle, v3.20.1, True
+40092, @lerna/run-lifecycle, v3.20.0, True
+40093, @lerna/run-lifecycle, v3.19.0, True
+40094, @lerna/run-lifecycle, v3.18.5, True
+40095, @lerna/run-lifecycle, v3.18.4, True
+40096, @lerna/run-lifecycle, v3.18.3, True
+40097, @lerna/run-lifecycle, v3.18.2, True
+40098, @lerna/run-lifecycle, v3.18.1, True
+40099, @lerna/run-lifecycle, v3.18.0, True
+40100, @lerna/run-lifecycle, v3.17.0, True
+40101, @lerna/run-lifecycle, v3.16.5, True
+40102, @lerna/run-lifecycle, v3.16.4, True
+40103, @lerna/run-lifecycle, v3.16.3, True
+40104, @lerna/run-lifecycle, v3.16.2, True
+40105, @lerna/run-lifecycle, v3.16.1, True
+40106, @lerna/run-lifecycle, v3.16.0, True
+40107, @lerna/run-lifecycle, v3.15.0, True
+40108, @lerna/run-lifecycle, v3.14.2, True
+40109, @lerna/run-lifecycle, v3.14.1, True
+40110, @lerna/run-lifecycle, v3.14.0, True
+40111, @lerna/run-lifecycle, v3.13.4, True
+40112, @lerna/run-lifecycle, v3.13.3, True
+40113, @lerna/run-lifecycle, v3.13.2, True
+40114, @lerna/run-lifecycle, v3.13.1, True
+40115, @lerna/run-lifecycle, v3.13.0, True
+40116, @lerna/resolve-symlink, v4.0.0, True
+40117, @lerna/resolve-symlink, v3.22.1, True
+40118, @lerna/resolve-symlink, v3.22.0, True
+40119, @lerna/resolve-symlink, v3.21.0, True
+40120, @lerna/resolve-symlink, v3.20.2, True
+40121, @lerna/resolve-symlink, v3.20.1, True
+40122, @lerna/resolve-symlink, v3.20.0, True
+40123, @lerna/resolve-symlink, v3.19.0, True
+40124, @lerna/resolve-symlink, v3.18.5, True
+40125, @lerna/resolve-symlink, v3.18.4, True
+40126, @lerna/resolve-symlink, v3.18.3, True
+40127, @lerna/resolve-symlink, v3.18.2, True
+40128, @lerna/resolve-symlink, v3.18.1, True
+40129, @lerna/resolve-symlink, v3.18.0, True
+40130, @lerna/resolve-symlink, v3.17.0, True
+40131, @lerna/resolve-symlink, v3.16.5, True
+40132, @lerna/resolve-symlink, v3.16.4, True
+40133, @lerna/resolve-symlink, v3.16.3, True
+40134, @lerna/resolve-symlink, v3.16.2, True
+40135, @lerna/resolve-symlink, v3.16.1, True
+40136, @lerna/resolve-symlink, v3.16.0, True
+40137, @lerna/resolve-symlink, v3.15.0, True
+40138, @lerna/resolve-symlink, v3.14.2, True
+40139, @lerna/resolve-symlink, v3.14.1, True
+40140, @lerna/resolve-symlink, v3.14.0, True
+40141, @lerna/resolve-symlink, v3.13.4, True
+40142, @lerna/resolve-symlink, v3.13.3, True
+40143, @lerna/resolve-symlink, v3.13.2, True
+40144, @lerna/resolve-symlink, v3.13.1, True
+40145, @lerna/resolve-symlink, v3.13.0, True
+40146, @lerna/run, v4.0.0, True
+40147, @lerna/run, v3.22.1, True
+40148, @lerna/run, v3.22.0, True
+40149, @lerna/run, v3.21.0, False, 1, 0, 0, 1, 0
+40150, @lerna/run, v3.20.2, True
+40151, @lerna/run, v3.20.1, True
+40152, @lerna/run, v3.20.0, False, 1, 0, 0, 1, 0
+40153, @lerna/run, v3.19.0, True
+40154, @lerna/run, v3.18.5, False, 1, 0, 0, 1, 0
+40155, @lerna/run, v3.18.4, False, 1, 0, 0, 1, 0
+40156, @lerna/run, v3.18.3, True
+40157, @lerna/run, v3.18.2, True
+40158, @lerna/run, v3.18.1, True
+40159, @lerna/run, v3.18.0, False, 1, 0, 0, 1, 0
+40160, @lerna/run, v3.17.0, True
+40161, @lerna/run, v3.16.5, False, 1, 0, 0, 1, 0
+40162, @lerna/run, v3.16.4, True
+40163, @lerna/run, v3.16.3, True
+40164, @lerna/run, v3.16.2, True
+40165, @lerna/run, v3.16.1, True
+40166, @lerna/run, v3.16.0, False, 1, 0, 0, 1, 0
+40167, @lerna/run, v3.15.0, False, 2, 0, 0, 2, 0
+40168, @lerna/run, v3.14.2, False, 2, 0, 0, 2, 0
+40169, @lerna/run, v3.14.1, True
+40170, @lerna/run, v3.14.0, False, 2, 0, 0, 2, 0
+40171, @lerna/run, v3.13.4, True
+40172, @lerna/run, v3.13.3, False, 2, 0, 0, 2, 0
+40173, @lerna/run, v3.13.2, True
+40174, @lerna/run, v3.13.1, False, 2, 0, 0, 2, 0
+40175, @lerna/run, v3.13.0, False, 2, 0, 0, 2, 0
+40176, @lerna/symlink-binary, v4.0.0, True
+40177, @lerna/symlink-binary, v3.22.1, True
+40178, @lerna/symlink-binary, v3.22.0, True
+40179, @lerna/symlink-binary, v3.21.0, True
+40180, @lerna/symlink-binary, v3.20.2, True
+40181, @lerna/symlink-binary, v3.20.1, True
+40182, @lerna/symlink-binary, v3.20.0, True
+40183, @lerna/symlink-binary, v3.19.0, True
+40184, @lerna/symlink-binary, v3.18.5, True
+40185, @lerna/symlink-binary, v3.18.4, True
+40186, @lerna/symlink-binary, v3.18.3, True
+40187, @lerna/symlink-binary, v3.18.2, True
+40188, @lerna/symlink-binary, v3.18.1, True
+40189, @lerna/symlink-binary, v3.18.0, True
+40190, @lerna/symlink-binary, v3.17.0, True
+40191, @lerna/symlink-binary, v3.16.5, True
+40192, @lerna/symlink-binary, v3.16.4, True
+40193, @lerna/symlink-binary, v3.16.3, True
+40194, @lerna/symlink-binary, v3.16.2, True
+40195, @lerna/symlink-binary, v3.16.1, True
+40196, @lerna/symlink-binary, v3.16.0, True
+40197, @lerna/symlink-binary, v3.15.0, True
+40198, @lerna/symlink-binary, v3.14.2, True
+40199, @lerna/symlink-binary, v3.14.1, True
+40200, @lerna/symlink-binary, v3.14.0, True
+40201, @lerna/symlink-binary, v3.13.4, True
+40202, @lerna/symlink-binary, v3.13.3, True
+40203, @lerna/symlink-binary, v3.13.2, True
+40204, @lerna/symlink-binary, v3.13.1, True
+40205, @lerna/symlink-binary, v3.13.0, True
+40206, @lerna/write-log-file, v4.0.0, True
+40207, @lerna/write-log-file, v3.22.1, True
+40208, @lerna/write-log-file, v3.22.0, True
+40209, @lerna/write-log-file, v3.21.0, True
+40210, @lerna/write-log-file, v3.20.2, True
+40211, @lerna/write-log-file, v3.20.1, True
+40212, @lerna/write-log-file, v3.20.0, True
+40213, @lerna/write-log-file, v3.19.0, True
+40214, @lerna/write-log-file, v3.18.5, True
+40215, @lerna/write-log-file, v3.18.4, True
+40216, @lerna/write-log-file, v3.18.3, True
+40217, @lerna/write-log-file, v3.18.2, True
+40218, @lerna/write-log-file, v3.18.1, True
+40219, @lerna/write-log-file, v3.18.0, True
+40220, @lerna/write-log-file, v3.17.0, True
+40221, @lerna/write-log-file, v3.16.5, True
+40222, @lerna/write-log-file, v3.16.4, True
+40223, @lerna/write-log-file, v3.16.3, True
+40224, @lerna/write-log-file, v3.16.2, True
+40225, @lerna/write-log-file, v3.16.1, True
+40226, @lerna/write-log-file, v3.16.0, True
+40227, @lerna/write-log-file, v3.15.0, True
+40228, @lerna/write-log-file, v3.14.2, True
+40229, @lerna/write-log-file, v3.14.1, True
+40230, @lerna/write-log-file, v3.14.0, True
+40231, @lerna/write-log-file, v3.13.4, True
+40232, @lerna/write-log-file, v3.13.3, True
+40233, @lerna/write-log-file, v3.13.2, True
+40234, @lerna/write-log-file, v3.13.1, True
+40235, @lerna/write-log-file, v3.13.0, True
+40236, @lerna/symlink-dependencies, v4.0.0, True
+40237, @lerna/symlink-dependencies, v3.22.1, True
+40238, @lerna/symlink-dependencies, v3.22.0, True
+40239, @lerna/symlink-dependencies, v3.21.0, True
+40240, @lerna/symlink-dependencies, v3.20.2, True
+40241, @lerna/symlink-dependencies, v3.20.1, True
+40242, @lerna/symlink-dependencies, v3.20.0, True
+40243, @lerna/symlink-dependencies, v3.19.0, True
+40244, @lerna/symlink-dependencies, v3.18.5, True
+40245, @lerna/symlink-dependencies, v3.18.4, True
+40246, @lerna/symlink-dependencies, v3.18.3, True
+40247, @lerna/symlink-dependencies, v3.18.2, True
+40248, @lerna/symlink-dependencies, v3.18.1, True
+40249, @lerna/symlink-dependencies, v3.18.0, True
+40250, @lerna/symlink-dependencies, v3.17.0, True
+40251, @lerna/symlink-dependencies, v3.16.5, True
+40252, @lerna/symlink-dependencies, v3.16.4, True
+40253, @lerna/symlink-dependencies, v3.16.3, True
+40254, @lerna/symlink-dependencies, v3.16.2, True
+40255, @lerna/symlink-dependencies, v3.16.1, True
+40256, @lerna/symlink-dependencies, v3.16.0, True
+40257, @lerna/symlink-dependencies, v3.15.0, True
+40258, @lerna/symlink-dependencies, v3.14.2, True
+40259, @lerna/symlink-dependencies, v3.14.1, True
+40260, @lerna/symlink-dependencies, v3.14.0, True
+40261, @lerna/symlink-dependencies, v3.13.4, True
+40262, @lerna/symlink-dependencies, v3.13.3, True
+40263, @lerna/symlink-dependencies, v3.13.2, True
+40264, @lerna/symlink-dependencies, v3.13.1, True
+40265, @lerna/symlink-dependencies, v3.13.0, True
+40266, bufferutil, v4.0.5, True
+40267, bufferutil, v4.0.4, True
+40268, bufferutil, v4.0.3, True
+40269, bufferutil, v4.0.2, True
+40270, bufferutil, v4.0.1, True
+40271, bufferutil, v4.0.0, True
+40272, bufferutil, v3.0.5, True
+40273, bufferutil, v3.0.4, True
+40274, bufferutil, v3.0.3, True
+40275, bufferutil, v3.0.2, True
+40276, bufferutil, v3.0.1, False, 1, 0, 0, 1, 0
+40277, bufferutil, v3.0.0, False, 1, 0, 0, 1, 0
+40278, bufferutil, v2.0.1, False, 1, 0, 0, 1, 0
+40279, @storybook/core, v6.4.0-beta.26, False, 30, 0, 15, 15, 0
+40280, @storybook/core, v6.4.0-beta.25, False, 30, 0, 15, 15, 0
+40281, @storybook/core, v6.4.0-beta.24, False, 30, 0, 15, 15, 0
+40282, @storybook/core, v6.4.0-beta.23, False, 30, 0, 15, 15, 0
+40283, @storybook/core, v6.4.0-beta.22, False, 30, 0, 15, 15, 0
+40284, @storybook/core, v6.4.0-beta.21, False, 30, 0, 15, 15, 0
+40285, @storybook/core, v6.4.0-beta.20, False, 30, 0, 15, 15, 0
+40286, @storybook/core, v6.4.0-beta.19, False, 30, 0, 15, 15, 0
+40287, @storybook/core, v6.4.0-beta.18, False, 30, 0, 15, 15, 0
+40288, @storybook/core, v6.4.0-beta.17, False, 30, 0, 15, 15, 0
+40289, @storybook/core, v6.4.0-beta.16, False, 30, 0, 15, 15, 0
+40290, @storybook/core, v6.4.0-beta.15, False, 30, 0, 15, 15, 0
+40291, @storybook/core, v6.4.0-beta.14, False, 30, 0, 15, 15, 0
+40292, @storybook/core, v6.4.0-beta.13, False, 30, 0, 15, 15, 0
+40293, @storybook/core, v6.4.0-beta.12, False, 30, 0, 15, 15, 0
+40294, @storybook/core, v6.3.12, False, 21, 0, 3, 18, 0
+40295, @storybook/core, v6.4.0-beta.11, False, 30, 0, 15, 15, 0
+40296, @storybook/core, v6.4.0-beta.10, False, 30, 0, 15, 15, 0
+40297, @storybook/core, v6.3.11, False, 21, 0, 3, 18, 0
+40298, @storybook/core, v6.4.0-beta.9, False, 30, 0, 15, 15, 0
+40299, @storybook/core, v6.4.0-beta.8, False, 30, 0, 15, 15, 0
+40300, @storybook/core, v6.4.0-beta.7, False, 18, 0, 3, 15, 0
+40301, @storybook/core, v6.4.0-beta.6, False, 18, 0, 3, 15, 0
+40302, @storybook/core, v6.3.10, False, 21, 0, 3, 18, 0
+40303, @storybook/core, v6.4.0-beta.5, False, 18, 0, 3, 15, 0
+40304, @storybook/core, v6.4.0-beta.4, False, 18, 0, 3, 15, 0
+40305, @storybook/core, v6.3.9, False, 21, 0, 3, 18, 0
+40306, @storybook/core, v6.4.0-beta.3, False, 18, 0, 3, 15, 0
+40307, @storybook/core, v6.4.0-beta.2, False, 18, 0, 3, 15, 0
+40308, @storybook/core, v6.4.0-beta.1, False, 18, 0, 3, 15, 0
+40309, @schematics/schematics, 13.0.0-rc.3, True
+40310, @schematics/schematics, 13.0.0-rc.2, True
+40311, @schematics/schematics, 12.2.12, True
+40312, @schematics/schematics, v11.2.15, True
+40313, @schematics/schematics, 13.0.0-rc.1, True
+40314, @schematics/schematics, 12.2.11, True
+40315, @schematics/schematics, 13.0.0-rc.0, True
+40316, @schematics/schematics, 12.2.10, True
+40317, @schematics/schematics, 13.0.0-next.9, True
+40318, @schematics/schematics, 12.2.9, True
+40319, @schematics/schematics, 13.0.0-next.8, True
+40320, @schematics/schematics, 12.2.8, True
+40321, @schematics/schematics, 13.0.0-next.7, True
+40322, @schematics/schematics, 12.2.7, True
+40323, @schematics/schematics, 13.0.0-next.6, True
+40324, @schematics/schematics, 13.0.0-next.5, True
+40325, @schematics/schematics, 12.2.6, True
+40326, @schematics/schematics, 13.0.0-next.4, True
+40327, @schematics/schematics, 12.2.5, True
+40328, @schematics/schematics, 13.0.0-next.3, True
+40329, @schematics/schematics, 12.2.4, True
+40330, @schematics/schematics, 13.0.0-next.2, True
+40331, @schematics/schematics, 12.2.3, True
+40332, @schematics/schematics, 13.0.0-next.1, True
+40333, @schematics/schematics, 12.2.2, True
+40334, @schematics/schematics, 13.0.0-next.0, True
+40335, @schematics/schematics, 12.2.1, True
+40336, @schematics/schematics, 12.2.0, True
+40337, @schematics/schematics, 12.2.0-rc.0, True
+40338, @schematics/schematics, 12.1.4, True
+40339, opusscript, 0.0.6, True
+40340, opusscript, 0.0.5, True
+40341, kerberos, v2.0.0-beta.0, True
+40342, kerberos, v1.1.7, True
+40343, kerberos, v1.1.6, True
+40344, kerberos, v1.1.5, True
+40345, kerberos, v1.1.4, True
+40346, kerberos, v1.1.3, True
+40347, kerberos, v1.1.2, True
+40348, kerberos, v1.1.1, True
+40349, kerberos, v1.1.0, True
+40350, kerberos, v1.0.0, True
+40351, lodash.zip, 4.0.0, True
+40352, lodash.zip, 3.0.0, True
+40353, ioredis, v4.28.0, True
+40354, ioredis, v4.27.11, True
+40355, ioredis, v4.27.10, True
+40356, ioredis, v4.27.9, True
+40357, ioredis, v4.27.8, True
+40358, ioredis, v4.27.7, False, 1, 0, 0, 1, 0
+40359, ioredis, v4.27.6, False, 1, 0, 0, 1, 0
+40360, ioredis, v4.27.5, False, 1, 0, 0, 1, 0
+40361, ioredis, v4.27.4, False, 1, 0, 0, 1, 0
+40362, ioredis, v4.27.3, False, 1, 0, 0, 1, 0
+40363, ioredis, v4.27.2, False, 1, 0, 0, 1, 0
+40364, ioredis, v4.27.1, False, 1, 0, 0, 1, 0
+40365, ioredis, v4.27.0, False, 1, 0, 0, 1, 0
+40366, ioredis, v4.26.0, False, 1, 0, 0, 1, 0
+40367, ioredis, v4.25.0, False, 1, 0, 0, 1, 0
+40368, ioredis, v4.24.6, False, 1, 0, 0, 1, 0
+40369, ioredis, v4.24.5, False, 1, 0, 0, 1, 0
+40370, ioredis, v4.24.4, False, 1, 0, 0, 1, 0
+40371, ioredis, v4.24.3, False, 1, 0, 0, 1, 0
+40372, ioredis, v4.24.2, False, 1, 0, 0, 1, 0
+40373, ioredis, v4.24.1, False, 1, 0, 0, 1, 0
+40374, ioredis, v4.24.0, False, 1, 0, 0, 1, 0
+40375, ioredis, v4.23.1, False, 1, 0, 0, 1, 0
+40376, ioredis, v4.23.0, False, 1, 0, 0, 1, 0
+40377, ioredis, v4.22.0, False, 1, 0, 0, 1, 0
+40378, ioredis, v4.21.0, False, 1, 0, 0, 1, 0
+40379, ioredis, v4.20.0, False, 1, 0, 0, 1, 0
+40380, ioredis, v4.19.4, False, 1, 0, 0, 1, 0
+40381, ioredis, v4.19.3, False, 1, 0, 0, 1, 0
+40382, ioredis, v4.19.2, False, 1, 0, 0, 1, 0
+40383, is-ip, v3.1.0, True
+40384, is-ip, v3.0.0, True
+40385, @lerna/listable, v4.0.0, True
+40386, @lerna/listable, v3.22.1, True
+40387, @lerna/listable, v3.22.0, True
+40388, @lerna/listable, v3.21.0, True
+40389, @lerna/listable, v3.20.2, True
+40390, @lerna/listable, v3.20.1, True
+40391, @lerna/listable, v3.20.0, True
+40392, @lerna/listable, v3.19.0, True
+40393, @lerna/listable, v3.18.5, True
+40394, @lerna/listable, v3.18.4, True
+40395, @lerna/listable, v3.18.3, True
+40396, @lerna/listable, v3.18.2, True
+40397, @lerna/listable, v3.18.1, True
+40398, @lerna/listable, v3.18.0, True
+40399, @lerna/listable, v3.17.0, True
+40400, @lerna/listable, v3.16.5, True
+40401, @lerna/listable, v3.16.4, True
+40402, @lerna/listable, v3.16.3, True
+40403, @lerna/listable, v3.16.2, True
+40404, @lerna/listable, v3.16.1, True
+40405, @lerna/listable, v3.16.0, True
+40406, @lerna/listable, v3.15.0, True
+40407, @lerna/listable, v3.14.2, True
+40408, @lerna/listable, v3.14.1, True
+40409, @lerna/listable, v3.14.0, True
+40410, @lerna/listable, v3.13.4, True
+40411, @lerna/listable, v3.13.3, True
+40412, @lerna/listable, v3.13.2, True
+40413, @lerna/listable, v3.13.1, True
+40414, @lerna/listable, v3.13.0, True
+40415, @lerna/log-packed, v4.0.0, True
+40416, @lerna/log-packed, v3.22.1, True
+40417, @lerna/log-packed, v3.22.0, True
+40418, @lerna/log-packed, v3.21.0, True
+40419, @lerna/log-packed, v3.20.2, True
+40420, @lerna/log-packed, v3.20.1, True
+40421, @lerna/log-packed, v3.20.0, True
+40422, @lerna/log-packed, v3.19.0, True
+40423, @lerna/log-packed, v3.18.5, True
+40424, @lerna/log-packed, v3.18.4, True
+40425, @lerna/log-packed, v3.18.3, True
+40426, @lerna/log-packed, v3.18.2, True
+40427, @lerna/log-packed, v3.18.1, True
+40428, @lerna/log-packed, v3.18.0, True
+40429, @lerna/log-packed, v3.17.0, True
+40430, @lerna/log-packed, v3.16.5, True
+40431, @lerna/log-packed, v3.16.4, True
+40432, @lerna/log-packed, v3.16.3, True
+40433, @lerna/log-packed, v3.16.2, True
+40434, @lerna/log-packed, v3.16.1, True
+40435, @lerna/log-packed, v3.16.0, True
+40436, @lerna/log-packed, v3.15.0, True
+40437, @lerna/log-packed, v3.14.2, True
+40438, @lerna/log-packed, v3.14.1, True
+40439, @lerna/log-packed, v3.14.0, True
+40440, @lerna/log-packed, v3.13.4, True
+40441, @lerna/log-packed, v3.13.3, True
+40442, @lerna/log-packed, v3.13.2, True
+40443, @lerna/log-packed, v3.13.1, True
+40444, @lerna/log-packed, v3.13.0, True
+40445, @lerna/check-working-tree, v4.0.0, True
+40446, @lerna/check-working-tree, v3.22.1, True
+40447, @lerna/check-working-tree, v3.22.0, True
+40448, @lerna/check-working-tree, v3.21.0, True
+40449, @lerna/check-working-tree, v3.20.2, True
+40450, @lerna/check-working-tree, v3.20.1, True
+40451, @lerna/check-working-tree, v3.20.0, True
+40452, @lerna/check-working-tree, v3.19.0, True
+40453, @lerna/check-working-tree, v3.18.5, True
+40454, @lerna/check-working-tree, v3.18.4, True
+40455, @lerna/check-working-tree, v3.18.3, True
+40456, @lerna/check-working-tree, v3.18.2, True
+40457, @lerna/check-working-tree, v3.18.1, True
+40458, @lerna/check-working-tree, v3.18.0, True
+40459, @lerna/check-working-tree, v3.17.0, True
+40460, @lerna/check-working-tree, v3.16.5, True
+40461, @lerna/check-working-tree, v3.16.4, True
+40462, @lerna/check-working-tree, v3.16.3, True
+40463, @lerna/check-working-tree, v3.16.2, True
+40464, @lerna/check-working-tree, v3.16.1, True
+40465, @lerna/check-working-tree, v3.16.0, True
+40466, @lerna/check-working-tree, v3.15.0, True
+40467, @lerna/check-working-tree, v3.14.2, True
+40468, @lerna/check-working-tree, v3.14.1, True
+40469, @lerna/check-working-tree, v3.14.0, True
+40470, @lerna/check-working-tree, v3.13.4, True
+40471, @lerna/check-working-tree, v3.13.3, True
+40472, @lerna/check-working-tree, v3.13.2, True
+40473, @lerna/check-working-tree, v3.13.1, True
+40474, @lerna/check-working-tree, v3.13.0, True
+40475, intl-messageformat, react-intl@5.21.0, error, Couldn't find the requested package or version
+40476, intl-messageformat, @formatjs/icu-skeleton-parser@1.3.1, error, Couldn't find the requested package or version
+40477, intl-messageformat, @formatjs/icu-messageformat-parser@2.0.14, error, Couldn't find the requested package or version
+40478, intl-messageformat, @formatjs/intl@1.15.0, error, Couldn't find the requested package or version
+40479, intl-messageformat, intl-messageformat@9.9.4, error, Couldn't find the requested package or version
+40480, intl-messageformat, babel-plugin-formatjs@10.3.11, error, Couldn't find the requested package or version
+40481, intl-messageformat, @formatjs/ts-transformer@3.6.0, error, Couldn't find the requested package or version
+40482, intl-messageformat, @formatjs/intl-getcanonicallocales@1.8.0, error, Couldn't find the requested package or version
+40483, intl-messageformat, vue-intl@6.0.14, error, Couldn't find the requested package or version
+40484, intl-messageformat, @formatjs/editor@1.1.33, error, Couldn't find the requested package or version
+40485, intl-messageformat, @formatjs/cli@4.4.0, error, Couldn't find the requested package or version
+40486, intl-messageformat, @formatjs/intl-locale@2.4.40, error, Couldn't find the requested package or version
+40487, intl-messageformat, eslint-plugin-formatjs@2.18.0, error, Couldn't find the requested package or version
+40488, intl-messageformat, @formatjs/intl-pluralrules@4.1.5, error, Couldn't find the requested package or version
+40489, intl-messageformat, @formatjs/intl@1.14.3, error, Couldn't find the requested package or version
+40490, intl-messageformat, @formatjs/intl-displaynames@5.2.5, error, Couldn't find the requested package or version
+40491, intl-messageformat, @formatjs/cli@4.3.2, error, Couldn't find the requested package or version
+40492, intl-messageformat, @formatjs/icu-skeleton-parser@1.3.0, error, Couldn't find the requested package or version
+40493, intl-messageformat, eslint-plugin-formatjs@2.17.9, error, Couldn't find the requested package or version
+40494, intl-messageformat, @formatjs/ecma402-abstract@1.10.0, error, Couldn't find the requested package or version
+40495, intl-messageformat, @formatjs/editor@1.1.32, error, Couldn't find the requested package or version
+40496, intl-messageformat, @formatjs/intl-numberformat@7.2.5, error, Couldn't find the requested package or version
+40497, intl-messageformat, intl-messageformat@9.9.3, error, Couldn't find the requested package or version
+40498, intl-messageformat, react-intl@5.20.13, error, Couldn't find the requested package or version
+40499, intl-messageformat, @formatjs/intl-listformat@6.3.5, error, Couldn't find the requested package or version
+40500, intl-messageformat, @formatjs/icu-messageformat-parser@2.0.13, error, Couldn't find the requested package or version
+40501, intl-messageformat, vue-intl@6.0.13, error, Couldn't find the requested package or version
+40502, intl-messageformat, @formatjs/intl-datetimeformat@4.2.5, error, Couldn't find the requested package or version
+40503, intl-messageformat, @formatjs/ts-transformer@3.5.1, error, Couldn't find the requested package or version
+40504, intl-messageformat, babel-plugin-formatjs@10.3.10, error, Couldn't find the requested package or version
+40505, hast-to-hyperscript, 10.0.1, True
+40506, hast-to-hyperscript, 10.0.0, True
+40507, hast-to-hyperscript, 9.0.1, True
+40508, hast-to-hyperscript, 9.0.0, True
+40509, hast-to-hyperscript, 8.1.1, True
+40510, hast-to-hyperscript, 8.1.0, True
+40511, hast-to-hyperscript, 8.0.0, True
+40512, hast-to-hyperscript, 7.0.4, True
+40513, hast-to-hyperscript, 7.0.3, True
+40514, hast-to-hyperscript, 7.0.2, True
+40515, hast-to-hyperscript, 7.0.1, True
+40516, hast-to-hyperscript, 7.0.0, True
+40517, hast-to-hyperscript, 6.0.0, True
+40518, hast-to-hyperscript, 5.0.0, True
+40519, hast-to-hyperscript, 4.0.0, False, 1, 0, 1, 0, 0
+40520, hast-to-hyperscript, 3.1.0, False, 1, 0, 1, 0, 0
+40521, hast-to-hyperscript, 3.0.2, False, 1, 0, 1, 0, 0
+40522, hast-to-hyperscript, 3.0.1, False, 1, 0, 1, 0, 0
+40523, hast-to-hyperscript, 3.0.0, False, 1, 0, 1, 0, 0
+40524, hast-to-hyperscript, 2.1.0, False, 1, 0, 1, 0, 0
+40525, hast-to-hyperscript, 2.0.4, True
+40526, hast-to-hyperscript, 2.0.3, True
+40527, hast-to-hyperscript, 2.0.2, True
+40528, hast-to-hyperscript, 2.0.1, True
+40529, hast-to-hyperscript, 2.0.0, True
+40530, hast-to-hyperscript, 1.0.0, True
+40531, @lerna/describe-ref, v4.0.0, True
+40532, @lerna/describe-ref, v3.22.1, True
+40533, @lerna/describe-ref, v3.22.0, True
+40534, @lerna/describe-ref, v3.21.0, True
+40535, @lerna/describe-ref, v3.20.2, True
+40536, @lerna/describe-ref, v3.20.1, True
+40537, @lerna/describe-ref, v3.20.0, True
+40538, @lerna/describe-ref, v3.19.0, True
+40539, @lerna/describe-ref, v3.18.5, True
+40540, @lerna/describe-ref, v3.18.4, True
+40541, @lerna/describe-ref, v3.18.3, True
+40542, @lerna/describe-ref, v3.18.2, True
+40543, @lerna/describe-ref, v3.18.1, True
+40544, @lerna/describe-ref, v3.18.0, True
+40545, @lerna/describe-ref, v3.17.0, True
+40546, @lerna/describe-ref, v3.16.5, True
+40547, @lerna/describe-ref, v3.16.4, True
+40548, @lerna/describe-ref, v3.16.3, True
+40549, @lerna/describe-ref, v3.16.2, True
+40550, @lerna/describe-ref, v3.16.1, True
+40551, @lerna/describe-ref, v3.16.0, True
+40552, @lerna/describe-ref, v3.15.0, True
+40553, @lerna/describe-ref, v3.14.2, True
+40554, @lerna/describe-ref, v3.14.1, True
+40555, @lerna/describe-ref, v3.14.0, True
+40556, @lerna/describe-ref, v3.13.4, True
+40557, @lerna/describe-ref, v3.13.3, True
+40558, @lerna/describe-ref, v3.13.2, True
+40559, @lerna/describe-ref, v3.13.1, True
+40560, @lerna/describe-ref, v3.13.0, True
+40561, @lerna/has-npm-version, v4.0.0, True
+40562, @lerna/has-npm-version, v3.22.1, True
+40563, @lerna/has-npm-version, v3.22.0, True
+40564, @lerna/has-npm-version, v3.21.0, True
+40565, @lerna/has-npm-version, v3.20.2, True
+40566, @lerna/has-npm-version, v3.20.1, True
+40567, @lerna/has-npm-version, v3.20.0, True
+40568, @lerna/has-npm-version, v3.19.0, True
+40569, @lerna/has-npm-version, v3.18.5, True
+40570, @lerna/has-npm-version, v3.18.4, True
+40571, @lerna/has-npm-version, v3.18.3, True
+40572, @lerna/has-npm-version, v3.18.2, True
+40573, @lerna/has-npm-version, v3.18.1, True
+40574, @lerna/has-npm-version, v3.18.0, True
+40575, @lerna/has-npm-version, v3.17.0, True
+40576, @lerna/has-npm-version, v3.16.5, True
+40577, @lerna/has-npm-version, v3.16.4, True
+40578, @lerna/has-npm-version, v3.16.3, True
+40579, @lerna/has-npm-version, v3.16.2, True
+40580, @lerna/has-npm-version, v3.16.1, True
+40581, @lerna/has-npm-version, v3.16.0, True
+40582, @lerna/has-npm-version, v3.15.0, True
+40583, @lerna/has-npm-version, v3.14.2, True
+40584, @lerna/has-npm-version, v3.14.1, True
+40585, @lerna/has-npm-version, v3.14.0, True
+40586, @lerna/has-npm-version, v3.13.4, True
+40587, @lerna/has-npm-version, v3.13.3, True
+40588, @lerna/has-npm-version, v3.13.2, True
+40589, @lerna/has-npm-version, v3.13.1, True
+40590, @lerna/has-npm-version, v3.13.0, True
+40591, koa-logger, 2.0.0, True
+40592, @lerna/version, v4.0.0, False, 1, 0, 1, 0, 0
+40593, @lerna/version, v3.22.1, False, 12, 0, 11, 1, 0
+40594, @lerna/version, v3.22.0, False, 12, 0, 11, 1, 0
+40595, @lerna/version, v3.21.0, False, 12, 0, 11, 1, 0
+40596, @lerna/version, v3.20.2, False, 12, 0, 11, 1, 0
+40597, @lerna/version, v3.20.1, False, 12, 0, 11, 1, 0
+40598, @lerna/version, v3.20.0, False, 12, 0, 11, 1, 0
+40599, @lerna/version, v3.19.0, True
+40600, @lerna/version, v3.18.5, False, 12, 0, 11, 1, 0
+40601, @lerna/version, v3.18.4, False, 12, 0, 11, 1, 0
+40602, @lerna/version, v3.18.3, False, 12, 0, 11, 1, 0
+40603, @lerna/version, v3.18.2, False, 12, 0, 11, 1, 0
+40604, @lerna/version, v3.18.1, True
+40605, @lerna/version, v3.18.0, False, 12, 0, 11, 1, 0
+40606, @lerna/version, v3.17.0, True
+40607, @lerna/version, v3.16.5, False, 12, 0, 11, 1, 0
+40608, @lerna/version, v3.16.4, False, 12, 0, 11, 1, 0
+40609, @lerna/version, v3.16.3, True
+40610, @lerna/version, v3.16.2, False, 12, 0, 11, 1, 0
+40611, @lerna/version, v3.16.1, False, 12, 0, 11, 1, 0
+40612, @lerna/version, v3.16.0, False, 12, 0, 11, 1, 0
+40613, @lerna/version, v3.15.0, False, 12, 0, 10, 2, 0
+40614, @lerna/version, v3.14.2, False, 12, 0, 10, 2, 0
+40615, @lerna/version, v3.14.1, False, 12, 0, 10, 2, 0
+40616, @lerna/version, v3.14.0, False, 12, 0, 10, 2, 0
+40617, @lerna/version, v3.13.4, False, 12, 0, 10, 2, 0
+40618, @lerna/version, v3.13.3, False, 12, 0, 10, 2, 0
+40619, @lerna/version, v3.13.2, False, 12, 0, 10, 2, 0
+40620, @lerna/version, v3.13.1, False, 12, 0, 10, 2, 0
+40621, @lerna/version, v3.13.0, False, 12, 0, 10, 2, 0
+40622, validate-commit-msg, v2.14.0, False, 3, 0, 2, 1, 0
+40623, validate-commit-msg, v2.13.1, False, 3, 0, 2, 1, 0
+40624, validate-commit-msg, v2.13.0, False, 3, 0, 2, 1, 0
+40625, validate-commit-msg, v2.12.2, False, 3, 0, 2, 1, 0
+40626, validate-commit-msg, v2.12.1, False, 3, 0, 2, 1, 0
+40627, validate-commit-msg, v2.12.0, False, 3, 0, 2, 1, 0
+40628, validate-commit-msg, v2.11.2, False, 3, 0, 2, 1, 0
+40629, validate-commit-msg, v2.11.1, False, 3, 0, 2, 1, 0
+40630, validate-commit-msg, v2.11.0, False, 3, 0, 2, 1, 0
+40631, validate-commit-msg, v2.10.1, False, 3, 0, 2, 1, 0
+40632, validate-commit-msg, v2.10.0, False, 3, 0, 2, 1, 0
+40633, validate-commit-msg, v2.9.0, False, 3, 0, 2, 1, 0
+40634, validate-commit-msg, v2.8.2, False, 3, 0, 2, 1, 0
+40635, validate-commit-msg, v2.8.1, False, 3, 0, 2, 1, 0
+40636, validate-commit-msg, v2.8.0, False, 3, 0, 2, 1, 0
+40637, validate-commit-msg, v2.7.0, False, 3, 0, 2, 1, 0
+40638, validate-commit-msg, v2.6.1, False, 3, 0, 2, 1, 0
+40639, validate-commit-msg, v2.6.0, False, 3, 0, 2, 1, 0
+40640, validate-commit-msg, v2.5.0, False, 3, 0, 2, 1, 0
+40641, validate-commit-msg, v2.4.1, False, 3, 0, 2, 1, 0
+40642, validate-commit-msg, v2.4.0, False, 3, 0, 2, 1, 0
+40643, validate-commit-msg, v2.3.1, False, 3, 0, 2, 1, 0
+40644, validate-commit-msg, v2.3.0, False, 3, 0, 2, 1, 0
+40645, validate-commit-msg, v2.2.0, False, 3, 0, 2, 1, 0
+40646, validate-commit-msg, v2.1.0, False, 3, 0, 2, 1, 0
+40647, validate-commit-msg, v2.0.0, False, 3, 0, 2, 1, 0
+40648, validate-commit-msg, v1.3.0, False, 3, 0, 2, 1, 0
+40649, validate-commit-msg, v1.2.0, False, 3, 0, 2, 1, 0
+40650, validate-commit-msg, v1.1.3, True
+40651, validate-commit-msg, v1.1.2, True
+40652, slick-carousel, 1.8.0, True
+40653, slick-carousel, 1.7.1, True
+40654, slick-carousel, 1.6.0, True
+40655, slick-carousel, 1.5.9, True
+40656, slick-carousel, 1.5.8, True
+40657, slick-carousel, 1.5.7, True
+40658, slick-carousel, 1.5.6, True
+40659, slick-carousel, 1.5.5, True
+40660, slick-carousel, 1.5.4, True
+40661, slick-carousel, 1.5.3, True
+40662, slick-carousel, 1.5.2, True
+40663, slick-carousel, 1.5.1, True
+40664, slick-carousel, 1.5.0, True
+40665, slick-carousel, 1.4.1, True
+40666, slick-carousel, 1.4.0, True
+40667, slick-carousel, 1.3.15, True
+40668, slick-carousel, 1.3.14, True
+40669, slick-carousel, 1.3.13, True
+40670, slick-carousel, 1.3.12, True
+40671, slick-carousel, 1.3.11, True
+40672, slick-carousel, 1.3.10, True
+40673, slick-carousel, 1.3.9, True
+40674, slick-carousel, 1.3.8, True
+40675, slick-carousel, 1.3.7, True
+40676, slick-carousel, 1.3.6, True
+40677, slick-carousel, 1.3.5, True
+40678, slick-carousel, 1.3.4, True
+40679, slick-carousel, 1.3.3, True
+40680, slick-carousel, 1.3.2, True
+40681, slick-carousel, 1.3.1, True
+40682, speed-measure-webpack-plugin, v1.5.0, True
+40683, speed-measure-webpack-plugin, v1.4.2, True
+40684, speed-measure-webpack-plugin, v1.3.0, True
+40685, speed-measure-webpack-plugin, v1.2.0, True
+40686, speed-measure-webpack-plugin, v1.1.0, True
+40687, speed-measure-webpack-plugin, v1.0.0, True
+40688, speed-measure-webpack-plugin, v0.3.0, True
+40689, speed-measure-webpack-plugin, v0.2.1, True
+40690, speed-measure-webpack-plugin, v0.1.0, True
+40691, git-url-parse, 11.6.0, True
+40692, git-url-parse, 11.5.0, True
+40693, git-url-parse, 11.4.4, True
+40694, git-url-parse, 11.4.3, True
+40695, git-url-parse, 11.4.1, True
+40696, git-url-parse, 11.4.0, True
+40697, git-url-parse, 11.3.0, True
+40698, git-url-parse, 11.2.0, True
+40699, git-url-parse, 11.1.3, True
+40700, git-url-parse, 11.1.2, True
+40701, git-url-parse, 11.1.1, True
+40702, git-url-parse, 11.1.0, True
+40703, git-url-parse, 11.0.1, True
+40704, git-url-parse, 11.0.0, True
+40705, git-url-parse, 10.1.0, True
+40706, git-url-parse, 10.0.1, True
+40707, git-url-parse, 10.0.0, True
+40708, git-url-parse, 9.0.1, False, 341, 0, 341, 0, 0
+40709, git-url-parse, 9.0.0, False, 341, 0, 341, 0, 0
+40710, git-url-parse, 8.3.1, False, 341, 0, 341, 0, 0
+40711, git-url-parse, 8.3.0, False, 341, 0, 341, 0, 0
+40712, git-url-parse, 8.2.0, True
+40713, git-url-parse, 8.1.0, True
+40714, git-url-parse, 8.0.1, True
+40715, git-url-parse, 8.0.0, True
+40716, git-url-parse, 7.2.0, True
+40717, git-url-parse, 7.1.0, True
+40718, git-url-parse, 7.0.2, True
+40719, git-url-parse, 7.0.1, True
+40720, git-url-parse, 7.0.0, True
+40721, strip-url-auth, v2.0.0, True
+40722, lodash._arraymap, 4.0.0, True
+40723, lodash._arraymap, 3.0.0, True
+40724, is-relative-url, v3.0.0, True
+40725, react-onclickoutside, v6.7.1, True
+40726, react-onclickoutside, v6.7.0, True
+40727, react-onclickoutside, v6.6.3, True
+40728, react-onclickoutside, v6.6.2, True
+40729, react-onclickoutside, v6.6.1, True
+40730, react-onclickoutside, v6.6.0, True
+40731, react-onclickoutside, v6.5.0, True
+40732, react-onclickoutside, v6.1.0, True
+40733, react-onclickoutside, v6.0.0, True
+40734, redux-devtools-instrument, v3.0.0-beta.1, True
+40735, redux-devtools-instrument, redux-devtools-cli@1.0.0-2, error, Couldn't find the requested package or version
+40736, redux-devtools-instrument, redux-devtools-core@1.0.0-2, error, Couldn't find the requested package or version
+40737, redux-devtools-instrument, redux-devtools-test-generator@0.6.0, error, Couldn't find the requested package or version
+40738, redux-devtools-instrument, redux-slider-monitor@2.0.0-3, error, Couldn't find the requested package or version
+40739, redux-devtools-instrument, devui@1.0.0-4, error, Couldn't find the requested package or version
+40740, redux-devtools-instrument, redux-devtools-inspector@0.13.0, error, Couldn't find the requested package or version
+40741, redux-devtools-instrument, redux-devtools-log-monitor@2.0.0, error, Couldn't find the requested package or version
+40742, redux-devtools-instrument, redux-devtools-inspector@0.12.1, error, Couldn't find the requested package or version
+40743, redux-devtools-instrument, redux-devtools-inspector@0.12.0, error, Couldn't find the requested package or version
+40744, redux-devtools-instrument, react-json-tree@0.12.0, error, Couldn't find the requested package or version
+40745, redux-devtools-instrument, redux-devtools@3.6.0, error, Couldn't find the requested package or version
+40746, redux-devtools-instrument, v3.5.0, True
+40747, redux-devtools-instrument, v3.4.2, True
+40748, redux-devtools-instrument, v3.4.0, True
+40749, redux-devtools-instrument, v3.3.2, True
+40750, redux-devtools-instrument, v3.3.1, True
+40751, redux-devtools-instrument, v3.3.0, True
+40752, redux-devtools-instrument, v3.2.0, True
+40753, redux-devtools-instrument, v3.1.1, True
+40754, redux-devtools-instrument, v3.1.0, True
+40755, redux-devtools-instrument, v3.0.2, False, 9, 1, 4, 4, 0
+40756, redux-devtools-instrument, v3.0.1, False, 9, 1, 4, 4, 0
+40757, redux-devtools-instrument, v3.0.0, False, 9, 1, 4, 4, 0
+40758, redux-devtools-instrument, v3.0.0-beta-3, False, 9, 1, 4, 4, 0
+40759, redux-devtools-instrument, v3.0.0-beta-2, False, 9, 1, 4, 4, 0
+40760, redux-devtools-instrument, v2.1.5, True
+40761, redux-devtools-instrument, v2.1.4, True
+40762, redux-devtools-instrument, v2.1.3, True
+40763, redux-devtools-instrument, v2.1.2, True
+40764, svg-sprite-loader, v6.0.0, False, 2, 0, 0, 2, 0
+40765, svg-sprite-loader, v5.2.1, False, 2, 0, 0, 2, 0
+40766, svg-sprite-loader, v5.1.1, False, 2, 0, 0, 2, 0
+40767, svg-sprite-loader, v5.0.0, False, 2, 0, 0, 2, 0
+40768, svg-sprite-loader, v4.3.0, False, 2, 0, 0, 2, 0
+40769, svg-sprite-loader, v4.2.7, False, 2, 0, 0, 2, 0
+40770, svg-sprite-loader, v4.2.6, False, 2, 0, 0, 2, 0
+40771, svg-sprite-loader, v4.2.5, False, 2, 0, 0, 2, 0
+40772, svg-sprite-loader, v4.2.4, False, 2, 0, 0, 2, 0
+40773, svg-sprite-loader, v4.2.3, False, 2, 0, 0, 2, 0
+40774, svg-sprite-loader, v4.2.2, False, 2, 0, 0, 2, 0
+40775, svg-sprite-loader, v4.2.1, False, 2, 0, 0, 2, 0
+40776, svg-sprite-loader, v4.2.0, False, 2, 0, 0, 2, 0
+40777, svg-sprite-loader, v4.1.6, False, 2, 0, 0, 2, 0
+40778, svg-sprite-loader, v4.1.5, False, 2, 0, 0, 2, 0
+40779, svg-sprite-loader, v4.1.0, False, 3, 0, 0, 3, 0
+40780, svg-sprite-loader, v4.1.1, False, 3, 0, 0, 3, 0
+40781, svg-sprite-loader, v4.1.2, False, 2, 0, 0, 2, 0
+40782, svg-sprite-loader, v4.1.3, False, 2, 0, 0, 2, 0
+40783, svg-sprite-loader, v4.1.4, False, 2, 0, 0, 2, 0
+40784, svg-sprite-loader, v3.8.0, False, 2, 0, 0, 2, 0
+40785, svg-sprite-loader, v3.7.3, False, 2, 0, 0, 2, 0
+40786, svg-sprite-loader, v3.7.1, False, 2, 0, 0, 2, 0
+40787, svg-sprite-loader, v3.7.0, False, 2, 0, 0, 2, 0
+40788, svg-sprite-loader, v3.6.2, False, 2, 0, 0, 2, 0
+40789, svg-sprite-loader, v3.6.1, False, 2, 0, 0, 2, 0
+40790, svg-sprite-loader, v3.6.0, False, 2, 0, 0, 2, 0
+40791, svg-sprite-loader, v3.5.4, False, 2, 0, 0, 2, 0
+40792, svg-sprite-loader, v3.5.3, False, 2, 0, 0, 2, 0
+40793, svg-sprite-loader, v3.5.2, False, 2, 0, 0, 2, 0
+40794, babel-preset-babili, babel-minify@0.5.1, error, Couldn't find the requested package or version
+40795, babel-preset-babili, gulp-babel-minify@0.5.0, error, Couldn't find the requested package or version
+40796, babel-preset-babili, gulp-babel-minify@0.4.3, error, Couldn't find the requested package or version
+40797, babel-preset-babili, gulp-babel-minify@0.4.2, error, Couldn't find the requested package or version
+40798, babel-preset-babili, gulp-babel-minify@0.4.1, error, Couldn't find the requested package or version
+40799, babel-preset-babili, gulp-babel-minify@0.4.0, error, Couldn't find the requested package or version
+40800, babel-preset-babili, gulp-babel-minify@0.3.0, error, Couldn't find the requested package or version
+40801, babel-preset-babili, babel-preset-minify@0.2.0, error, Couldn't find the requested package or version
+40802, babel-preset-babili, babili@0.1.4, error, Couldn't find the requested package or version
+40803, babel-preset-babili, babili@0.1.3, error, Couldn't find the requested package or version
+40804, babel-preset-babili, babili@0.1.2, error, Couldn't find the requested package or version
+40805, babel-preset-babili, babili@0.1.1, error, Couldn't find the requested package or version
+40806, babel-preset-babili, babili@0.0.12, error, Couldn't find the requested package or version
+40807, babel-preset-babili, babili@0.0.11, error, Couldn't find the requested package or version
+40808, babel-preset-babili, babili@0.0.10, error, Couldn't find the requested package or version
+40809, babel-preset-babili, babili@0.0.9, error, Couldn't find the requested package or version
+40810, babel-preset-babili, babili@0.0.8, error, Couldn't find the requested package or version
+40811, babel-preset-babili, babili@0.0.7, error, Couldn't find the requested package or version
+40812, command-line-usage, v6.1.0, True
+40813, command-line-usage, v6.0.0, True
+40814, command-line-usage, v5.0.0, True
+40815, command-line-usage, v4.0.0, True
+40816, command-line-usage, v3.0.0, False, 2, 0, 2, 0, 0
+40817, node-schedule, 2.0.0, True
+40818, node-schedule, 1.3.3, True
+40819, node-schedule, v1.2.0, True
+40820, node-schedule, v1.1.0, True
+40821, node-schedule, v1.0.0, True
+40822, node-schedule, v0.6.0, True
+40823, node-schedule, v0.5.1, True
+40824, node-schedule, v0.5.0, True
+40825, node-schedule, v0.3.0, True
+40826, node-schedule, 0.2.9, True
+40827, node-schedule, v0.2.6, True
+40828, node-schedule, v0.2.5, True
+40829, node-schedule, v0.2.4, True
+40830, node-schedule, v0.2.3, True
+40831, node-schedule, v0.2.2, True
+40832, node-schedule, v0.2.1, True
+40833, node-schedule, v0.1.16, True
+40834, node-schedule, v0.1.15, True
+40835, node-schedule, 0.1.14, True
+40836, convert-hrtime, v5.0.0, True
+40837, convert-hrtime, v4.0.0, True
+40838, convert-hrtime, v3.0.0, True
+40839, babel-plugin-transform-amd-system-wrapper, v0.1.1, True
+40840, babel-plugin-transform-amd-system-wrapper, v0.1.0, True
+40841, undertaker, v1.3.0, True
+40842, undertaker, v1.2.1, True
+40843, undertaker, v1.2.0, True
+40844, undertaker, v1.1.0, True
+40845, undertaker, v0.10.0, False, 18, 2, 8, 8, 0
+40846, undertaker, v0.9.0, False, 18, 2, 8, 8, 0
+40847, undertaker, v0.11.0, False, 18, 2, 8, 8, 0
+40848, undertaker, v0.15.0, True
+40849, undertaker, v0.4.0, False, 18, 2, 8, 8, 0
+40850, undertaker, v0.1.0, False, 18, 2, 8, 8, 0
+40851, undertaker, v0.8.0, False, 18, 2, 8, 8, 0
+40852, undertaker, v0.2.0, False, 18, 2, 8, 8, 0
+40853, undertaker, v0.3.0, False, 18, 2, 8, 8, 0
+40854, undertaker, v0.6.0, False, 18, 2, 8, 8, 0
+40855, undertaker, v0.12.0, False, 18, 2, 8, 8, 0
+40856, undertaker, v0.5.0, False, 18, 2, 8, 8, 0
+40857, undertaker, v0.13.2, False, 18, 2, 8, 8, 0
+40858, undertaker, v0.13.1, False, 18, 2, 8, 8, 0
+40859, undertaker, v0.11.1, False, 18, 2, 8, 8, 0
+40860, undertaker, v0.7.0, False, 18, 2, 8, 8, 0
+40861, undertaker, v0.13.0, False, 18, 2, 8, 8, 0
+40862, undertaker, v1.0.0, True
+40863, undertaker, v0.12.1, False, 18, 2, 8, 8, 0
+40864, undertaker, v0.14.0, True
+40865, react-jss, v10.8.2, True
+40866, react-jss, v10.8.1, True
+40867, react-jss, v10.8.0, True
+40868, react-jss, v10.7.1, True
+40869, react-jss, v10.7.0, True
+40870, react-jss, v10.6.0, True
+40871, react-jss, v10.5.1, True
+40872, react-jss, v10.5.0, True
+40873, react-jss, v10.4.0, True
+40874, react-jss, v10.3.0, True
+40875, react-jss, v10.2.0, True
+40876, react-jss, v10.1.1, True
+40877, react-jss, v10.1.0, True
+40878, react-jss, v10.0.4, True
+40879, react-jss, v10.0.3, True
+40880, react-jss, v10.0.2, True
+40881, react-jss, v10.0.1, True
+40882, react-jss, v10.0.0, True
+40883, react-jss, v10.0.0-alpha.27, True
+40884, react-jss, v10.0.0-alpha.26, True
+40885, react-jss, v10.0.0-alpha.25, True
+40886, react-jss, v10.0.0-alpha.24, True
+40887, react-jss, v10.0.0-alpha.23, True
+40888, react-jss, v10.0.0-alpha.22, True
+40889, react-jss, v10.0.0-alpha.21, True
+40890, react-jss, v10.0.0-alpha.20, True
+40891, react-jss, v10.0.0-alpha.18, True
+40892, react-jss, v10.0.0-alpha.17, True
+40893, react-jss, v10.0.0-alpha.16, True
+40894, react-jss, v10.0.0-alpha.14, True
+40895, release-it, 14.11.7-caret.0, True
+40896, release-it, 14.11.6, True
+40897, release-it, 14.11.5, True
+40898, release-it, 14.11.4, True
+40899, release-it, 15.0.0-esm.2, True
+40900, release-it, 14.11.3, True
+40901, release-it, 14.11.2, True
+40902, release-it, 14.11.1, True
+40903, release-it, 14.11.0, True
+40904, release-it, 15.0.0-esm.1, True
+40905, release-it, 14.10.1, True
+40906, release-it, 13.7.2, True
+40907, release-it, 15.0.0-esm.0, True
+40908, release-it, 14.11.0-next.1, True
+40909, release-it, 14.11.0-github.0, True
+40910, release-it, 14.11.0-next.0, True
+40911, release-it, 14.10.0, True
+40912, release-it, 14.9.0, True
+40913, release-it, 14.8.0, True
+40914, release-it, 14.7.0, True
+40915, release-it, 14.6.2, True
+40916, release-it, 14.6.1, True
+40917, release-it, 14.6.0, True
+40918, release-it, 14.5.1, True
+40919, release-it, 14.5.0, True
+40920, release-it, 14.4.1, False, 2, 0, 1, 1, 0
+40921, release-it, 14.4.0, False, 2, 0, 1, 1, 0
+40922, release-it, 14.4.0-next.0, False, 2, 0, 1, 1, 0
+40923, release-it, 14.3.0, False, 2, 0, 1, 1, 0
+40924, release-it, 14.3.0-next.1, False, 2, 0, 1, 1, 0
+40925, @types/handlebars, 0.1.450, True
+40926, lodash._createset, 4.0.0, True
+40927, lodash._createset, 3.0.0, True
+40928, pg-promise, 10.11.1, True
+40929, pg-promise, 10.11.0, True
+40930, pg-promise, 10.10.2, True
+40931, pg-promise, 10.10.1, True
+40932, pg-promise, 10.9.5, True
+40933, pg-promise, 10.9.4, True
+40934, pg-promise, 10.9.3, True
+40935, pg-promise, 10.9.2, True
+40936, pg-promise, 10.9.1, True
+40937, pg-promise, 10.9.0, True
+40938, pg-promise, 10.8.7, True
+40939, pg-promise, 10.8.6, True
+40940, pg-promise, 10.8.5, True
+40941, pg-promise, 10.8.4, True
+40942, pg-promise, 10.8.3, True
+40943, pg-promise, 10.8.2, True
+40944, pg-promise, 10.8.1, True
+40945, pg-promise, 10.8.0, True
+40946, pg-promise, 10.7.5, True
+40947, pg-promise, 10.7.5-beta.1, True
+40948, pg-promise, 10.7.5-beta.0, True
+40949, pg-promise, 10.7.4, True
+40950, pg-promise, 10.7.3, True
+40951, pg-promise, 10.7.2, True
+40952, pg-promise, 10.7.1, True
+40953, pg-promise, 10.7.0, True
+40954, pg-promise, 10.6.2, True
+40955, pg-promise, 10.6.1, True
+40956, pg-promise, 10.6.0, True
+40957, pg-promise, 10.5.8, True
+40958, human-signals, 3.0.1, True
+40959, human-signals, 3.0.0, True
+40960, human-signals, 2.1.0, True
+40961, human-signals, 2.0.0, True
+40962, human-signals, 1.1.1, True
+40963, human-signals, 1.1.0, True
+40964, human-signals, 1.0.1, True
+40965, human-signals, 1.0.0, True
+40966, mockjs, 1.0.1-beta3, True
+40967, mockjs, 1.0.1-beta2, True
+40968, mockjs, 1.0.1-beta1, True
+40969, mockjs, 1.0.0, True
+40970, mockjs, 1.0.0-beta2, True
+40971, mockjs, 1.0.0-beta1, True
+40972, mockjs, 0.1.11, True
+40973, mockjs, 0.1.10, True
+40974, mockjs, 0.2.0-alpha1, True
+40975, mockjs, 0.1.9, True
+40976, mockjs, 0.1.8, True
+40977, mockjs, 0.1.7, True
+40978, mockjs, 0.1.6, True
+40979, mockjs, 0.1.5, True
+40980, relay-compiler, v12.0.0, True
+40981, relay-compiler, v11.0.2, True
+40982, relay-compiler, v11.0.1, True
+40983, relay-compiler, v11.0.0, True
+40984, relay-compiler, v11.0.0-rc.0, True
+40985, relay-compiler, v10.1.3, True
+40986, relay-compiler, v10.1.2, True
+40987, relay-compiler, v10.1.1, True
+40988, relay-compiler, v10.1.0, True
+40989, relay-compiler, v10.0.1, False, 2, 0, 0, 2, 0
+40990, relay-compiler, v10.0.0, False, 2, 0, 0, 2, 0
+40991, relay-compiler, v9.1.0, False, 8, 0, 5, 3, 0
+40992, relay-compiler, v9.0.0, False, 8, 0, 5, 3, 0
+40993, relay-compiler, v8.0.0, False, 358, 0, 352, 6, 0
+40994, relay-compiler, v7.1.0, False, 6, 0, 1, 5, 0
+40995, relay-compiler, v7.0.0, False, 6, 0, 1, 5, 0
+40996, relay-compiler, v6.0.0, False, 6, 0, 1, 5, 0
+40997, relay-compiler, v5.0.0, False, 6, 0, 1, 5, 0
+40998, relay-compiler, v4.0.0, False, 6, 0, 1, 5, 0
+40999, relay-compiler, v3.0.0, False, 6, 0, 1, 5, 0
+41000, relay-compiler, v2.0.0, False, 6, 0, 1, 5, 0
+41001, relay-compiler, v2.0.0-rc.2, False, 6, 0, 1, 5, 0
+41002, relay-compiler, v2.0.0-rc.1, False, 6, 0, 1, 5, 0
+41003, relay-compiler, v1.7.0, False, 6, 0, 1, 5, 0
+41004, relay-compiler, v1.7.0-rc.1, False, 6, 0, 1, 5, 0
+41005, relay-compiler, v1.6.2, False, 6, 0, 1, 5, 0
+41006, relay-compiler, v1.6.1, False, 6, 0, 1, 5, 0
+41007, relay-compiler, v1.6.0, False, 6, 0, 1, 5, 0
+41008, relay-compiler, v1.5.0, False, 6, 0, 1, 5, 0
+41009, relay-compiler, v1.4.1, False, 6, 0, 1, 5, 0
+41010, @types/highlight.js, 0.1.450, True
+41011, expo-constants, ios/2.12.0, error, Couldn't find the requested package or version
+41012, expo-constants, android/2.10.8, error, Couldn't find the requested package or version
+41013, expo-constants, ios/2.10.6, error, Couldn't find the requested package or version
+41014, expo-constants, android/2.10.7, error, Couldn't find the requested package or version
+41015, expo-constants, ios/2.10.4, error, Couldn't find the requested package or version
+41016, expo-constants, android/2.10.6, error, Couldn't find the requested package or version
+41017, expo-constants, android/2.10.5, error, Couldn't find the requested package or version
+41018, expo-constants, ios/2.10.3, error, Couldn't find the requested package or version
+41019, expo-permissions, ios/2.12.0, error, Couldn't find the requested package or version
+41020, expo-permissions, android/2.10.8, error, Couldn't find the requested package or version
+41021, expo-permissions, ios/2.10.6, error, Couldn't find the requested package or version
+41022, expo-permissions, android/2.10.7, error, Couldn't find the requested package or version
+41023, expo-permissions, ios/2.10.4, error, Couldn't find the requested package or version
+41024, expo-permissions, android/2.10.6, error, Couldn't find the requested package or version
+41025, expo-permissions, android/2.10.5, error, Couldn't find the requested package or version
+41026, expo-permissions, ios/2.10.3, error, Couldn't find the requested package or version
+41027, prism-media, v1.3.2, True
+41028, prism-media, v2.0.0-alpha.0, True
+41029, prism-media, v1.3.1, True
+41030, prism-media, v1.3.0, True
+41031, prism-media, v1.2.9, True
+41032, prism-media, v1.2.8, True
+41033, prism-media, v1.2.7, True
+41034, prism-media, v1.2.6, True
+41035, prism-media, v1.2.5, True
+41036, prism-media, v1.2.4, True
+41037, prism-media, v1.2.3, True
+41038, prism-media, v1.2.2, True
+41039, prism-media, v1.2.1, True
+41040, prism-media, v0.0.4, True
+41041, prism-media, v1.2.0, True
+41042, prism-media, v1.1.0, True
+41043, prism-media, v1.0.2, True
+41044, prism-media, v1.0.1, True
+41045, prism-media, v1.0.0, True
+41046, prism-media, 0.0.3, True
+41047, prism-media, 0.3.1, True
+41048, prism-media, 0.3.0, True
+41049, prism-media, 0.2.1, True
+41050, prism-media, 0.2.0, True
+41051, prism-media, 0.1.0, True
+41052, prism-media, 0.0.2, True
+41053, gulp-svgstore, 8.0.0, True
+41054, gulp-svgstore, 7.0.1, False, 2, 0, 1, 1, 0
+41055, gulp-svgstore, 7.0.0, False, 2, 0, 1, 1, 0
+41056, gulp-svgstore, 6.1.1, False, 2, 0, 1, 1, 0
+41057, gulp-svgstore, 6.1.0, False, 3, 0, 2, 1, 0
+41058, gulp-svgstore, 6.0.0, False, 3, 0, 2, 1, 0
+41059, gulp-svgstore, 5.0.5, False, 3, 0, 2, 1, 0
+41060, gulp-svgstore, v5.0.0, False, 1, 0, 1, 0, 0
+41061, gulp-svgstore, v4.0.3, False, 1, 0, 1, 0, 0
+41062, whatwg-url-compat, v11.0.0, True
+41063, whatwg-url-compat, v10.0.0, True
+41064, whatwg-url-compat, v9.1.0, True
+41065, whatwg-url-compat, v9.0.0, True
+41066, whatwg-url-compat, v8.7.0, True
+41067, whatwg-url-compat, v8.6.0, True
+41068, whatwg-url-compat, v8.5.0, True
+41069, whatwg-url-compat, v8.4.0, True
+41070, whatwg-url-compat, v8.3.0, True
+41071, whatwg-url-compat, v8.2.2, True
+41072, whatwg-url-compat, v8.2.1, True
+41073, whatwg-url-compat, v8.2.0, True
+41074, whatwg-url-compat, v8.1.0, True
+41075, whatwg-url-compat, v8.0.0, True
+41076, whatwg-url-compat, v7.1.0, True
+41077, whatwg-url-compat, v7.0.0, True
+41078, whatwg-url-compat, v6.5.0, True
+41079, whatwg-url-compat, v6.4.1, True
+41080, whatwg-url-compat, v6.4.0, True
+41081, whatwg-url-compat, v6.3.0, True
+41082, whatwg-url-compat, v6.2.1, True
+41083, whatwg-url-compat, v6.2.0, True
+41084, whatwg-url-compat, v6.1.0, True
+41085, whatwg-url-compat, v6.0.1, True
+41086, whatwg-url-compat, v6.0.0, True
+41087, whatwg-url-compat, v5.0.0, True
+41088, whatwg-url-compat, v4.8.0, True
+41089, whatwg-url-compat, v4.7.1, True
+41090, whatwg-url-compat, v4.7.0, True
+41091, whatwg-url-compat, v4.6.0, True
+41092, angular2-in-memory-web-api, 0.8.0, True
+41093, angular2-in-memory-web-api, 0.6.0, True
+41094, angular2-in-memory-web-api, 0.5.4, True
+41095, ngx-bootstrap, v7.1.2, False, 1, 0, 0, 1, 0
+41096, ngx-bootstrap, v7.1.1, False, 1, 0, 0, 1, 0
+41097, ngx-bootstrap, v7.1.0, False, 1, 0, 0, 1, 0
+41098, ngx-bootstrap, v7.0.1, False, 1, 0, 0, 1, 0
+41099, ngx-bootstrap, v7.0.0, False, 1, 0, 0, 1, 0
+41100, ngx-bootstrap, v7.0.0-rc.5, False, 1, 0, 0, 1, 0
+41101, ngx-bootstrap, v7.0.0-rc.4, False, 1, 0, 0, 1, 0
+41102, ngx-bootstrap, v7.0.0-rc.3, False, 26, 0, 23, 2, 1
+41103, ngx-bootstrap, v7.0.0-rc.2, False, 1, 0, 0, 1, 0
+41104, ngx-bootstrap, v7.0.0-rc.1, False, 1, 0, 0, 1, 0
+41105, ngx-bootstrap, v3.1.0, True
+41106, ngx-bootstrap, v5.6.0, False, 1, 0, 0, 1, 0
+41107, ngx-bootstrap, v5.6.2, False, 1, 0, 0, 1, 0
+41108, ngx-bootstrap, v5.6.1, False, 1, 0, 0, 1, 0
+41109, ngx-bootstrap, v5.7.0, True
+41110, ngx-bootstrap, v6.2.0, False, 1, 0, 0, 1, 0
+41111, ngx-bootstrap, v6.1.0, False, 1, 0, 0, 1, 0
+41112, ngx-bootstrap, v6.0.0, False, 1, 0, 0, 1, 0
+41113, ngx-bootstrap, v5.5.0, False, 1, 0, 0, 1, 0
+41114, ngx-bootstrap, v5.4.0, False, 1, 0, 0, 1, 0
+41115, ngx-bootstrap, v5.3.2, False, 1, 0, 0, 1, 0
+41116, ngx-bootstrap, v5.3.1, False, 1, 0, 0, 1, 0
+41117, ngx-bootstrap, v5.3.0, False, 1, 0, 0, 1, 0
+41118, ngx-bootstrap, v5.2.0, False, 1, 0, 0, 1, 0
+41119, ngx-bootstrap, v5.1.2, False, 1, 0, 0, 1, 0
+41120, ngx-bootstrap, v5.1.1, False, 1, 0, 0, 1, 0
+41121, ngx-bootstrap, v5.1.0, False, 1, 0, 0, 1, 0
+41122, ngx-bootstrap, v5.0.0, False, 1, 0, 0, 1, 0
+41123, ngx-bootstrap, v4.3.0, False, 1, 0, 0, 1, 0
+41124, ngx-bootstrap, v4.2.0, False, 1, 0, 0, 1, 0
+41125, equal-length, 1.0.1, True
+41126, expo-asset, ios/2.12.0, error, Couldn't find the requested package or version
+41127, expo-asset, android/2.10.8, error, Couldn't find the requested package or version
+41128, expo-asset, ios/2.10.6, error, Couldn't find the requested package or version
+41129, expo-asset, android/2.10.7, error, Couldn't find the requested package or version
+41130, expo-asset, ios/2.10.4, error, Couldn't find the requested package or version
+41131, expo-asset, android/2.10.6, error, Couldn't find the requested package or version
+41132, expo-asset, android/2.10.5, error, Couldn't find the requested package or version
+41133, expo-asset, ios/2.10.3, error, Couldn't find the requested package or version
+41134, junk, v4.0.0, True
+41135, junk, v3.1.0, True
+41136, junk, v3.0.0, True
+41137, cordova-plugin-ionic-webview, v5.0.0, True
+41138, cordova-plugin-ionic-webview, v4.2.1, True
+41139, cordova-plugin-ionic-webview, v4.2.0, True
+41140, cordova-plugin-ionic-webview, v2.5.3, True
+41141, cordova-plugin-ionic-webview, v4.1.3, True
+41142, cordova-plugin-ionic-webview, v4.1.2, True
+41143, cordova-plugin-ionic-webview, v2.5.2, True
+41144, cordova-plugin-ionic-webview, v2.5.1, True
+41145, cordova-plugin-ionic-webview, v4.1.1, True
+41146, cordova-plugin-ionic-webview, v2.5.0, True
+41147, cordova-plugin-ionic-webview, v4.1.0, True
+41148, cordova-plugin-ionic-webview, v4.0.1, True
+41149, cordova-plugin-ionic-webview, v2.4.1, True
+41150, cordova-plugin-ionic-webview, v2.4.0, True
+41151, cordova-plugin-ionic-webview, v4.0.0, True
+41152, cordova-plugin-ionic-webview, v3.1.2, True
+41153, cordova-plugin-ionic-webview, v3.1.1, True
+41154, cordova-plugin-ionic-webview, v2.3.2, True
+41155, cordova-plugin-ionic-webview, v3.1.0, True
+41156, cordova-plugin-ionic-webview, v3.0.0, True
+41157, cordova-plugin-ionic-webview, v2.3.1, True
+41158, cordova-plugin-ionic-webview, v2.3.0, True
+41159, cordova-plugin-ionic-webview, v2.2.5, True
+41160, cordova-plugin-ionic-webview, v2.2.3, True
+41161, cordova-plugin-ionic-webview, v2.2.2, True
+41162, cordova-plugin-ionic-webview, v2.2.1, True
+41163, expo-file-system, ios/2.12.0, error, Couldn't find the requested package or version
+41164, expo-file-system, android/2.10.8, error, Couldn't find the requested package or version
+41165, expo-file-system, ios/2.10.6, error, Couldn't find the requested package or version
+41166, expo-file-system, android/2.10.7, error, Couldn't find the requested package or version
+41167, expo-file-system, ios/2.10.4, error, Couldn't find the requested package or version
+41168, expo-file-system, android/2.10.6, error, Couldn't find the requested package or version
+41169, expo-file-system, android/2.10.5, error, Couldn't find the requested package or version
+41170, expo-file-system, ios/2.10.3, error, Couldn't find the requested package or version
+41171, ng-packagr, v13.0.0-rc.3, True
+41172, ng-packagr, v12.2.5, True
+41173, ng-packagr, v13.0.0-rc.2, True
+41174, ng-packagr, v13.0.0-rc.1, True
+41175, ng-packagr, v12.2.4, True
+41176, ng-packagr, v13.0.0-rc.0, True
+41177, ng-packagr, v13.0.0-next.8, True
+41178, ng-packagr, v12.2.3, True
+41179, ng-packagr, v13.0.0-next.7, True
+41180, ng-packagr, v13.0.0-next.6, True
+41181, ng-packagr, v13.0.0-next.5, True
+41182, ng-packagr, v13.0.0-next.4, True
+41183, ng-packagr, v12.2.2, True
+41184, ng-packagr, v13.0.0-next.3, True
+41185, ng-packagr, v13.0.0-next.2, True
+41186, ng-packagr, v13.0.0-next.1, True
+41187, ng-packagr, v13.0.0-next.0, True
+41188, ng-packagr, v12.2.1, True
+41189, ng-packagr, v12.2.0, True
+41190, ng-packagr, v12.2.0-next.0, True
+41191, ng-packagr, v12.1.2, True
+41192, ng-packagr, v12.1.1, True
+41193, ng-packagr, v12.1.0, True
+41194, ng-packagr, v12.1.0-next.0, True
+41195, ng-packagr, v12.0.8, True
+41196, ng-packagr, v12.0.6, True
+41197, ng-packagr, v12.0.5, True
+41198, ng-packagr, v12.0.4, True
+41199, ng-packagr, v12.0.3, True
+41200, ng-packagr, v12.0.2, True
+41201, graphql-compose, v9.0.4, True
+41202, graphql-compose, v9.0.3, False, 1, 0, 1, 0, 0
+41203, graphql-compose, v9.0.2, False, 2, 0, 1, 1, 0
+41204, graphql-compose, v9.0.1, False, 2, 0, 1, 1, 0
+41205, graphql-compose, v9.0.0, False, 2, 0, 1, 1, 0
+41206, graphql-compose, v8.1.0, False, 2, 0, 1, 1, 0
+41207, graphql-compose, v8.0.1, False, 2, 0, 1, 1, 0
+41208, graphql-compose, v8.0.0, False, 2, 0, 1, 1, 0
+41209, graphql-compose, v8.0.0-alpha.2, False, 2, 0, 1, 1, 0
+41210, graphql-compose, v8.0.0-alpha.1, False, 2, 0, 1, 1, 0
+41211, graphql-compose, v7.25.1, False, 2, 0, 1, 1, 0
+41212, graphql-compose, v7.25.0, False, 2, 0, 1, 1, 0
+41213, graphql-compose, v7.24.4, False, 2, 0, 1, 1, 0
+41214, graphql-compose, v7.24.3, False, 2, 0, 1, 1, 0
+41215, graphql-compose, v7.24.2, False, 2, 0, 1, 1, 0
+41216, graphql-compose, v7.24.1, False, 2, 0, 1, 1, 0
+41217, graphql-compose, v7.24.0, True
+41218, graphql-compose, v7.23.0, True
+41219, graphql-compose, v7.22.1, True
+41220, graphql-compose, v7.22.0, True
+41221, graphql-compose, v7.21.5, True
+41222, graphql-compose, v7.21.4, True
+41223, graphql-compose, v7.21.3, True
+41224, graphql-compose, v7.21.2, True
+41225, graphql-compose, v7.21.1, True
+41226, graphql-compose, v7.21.0, True
+41227, graphql-compose, v7.20.1, True
+41228, graphql-compose, v7.20.0, True
+41229, graphql-compose, v7.19.5, True
+41230, graphql-compose, v7.19.4, True
+41231, dotenv-defaults, v3.0.0, True
+41232, dotenv-defaults, v2.0.2, True
+41233, dotenv-defaults, v2.0.1, True
+41234, dotenv-defaults, v2.0.0, True
+41235, dotenv-defaults, v1.1.1, True
+41236, dotenv-defaults, v1.1.0, True
+41237, dotenv-defaults, v1.0.3, True
+41238, dotenv-defaults, v1.0.2, True
+41239, dotenv-defaults, v1.0.1, True
+41240, dotenv-defaults, v1.0.0, True
+41241, i18next, v21.4.0, True
+41242, i18next, v21.3.3, True
+41243, i18next, v21.3.2, True
+41244, i18next, v21.3.1, True
+41245, i18next, v21.3.0, True
+41246, i18next, v21.2.6, True
+41247, i18next, v21.2.5, True
+41248, i18next, v21.2.4, True
+41249, i18next, v21.2.3, True
+41250, i18next, v21.2.2, True
+41251, i18next, v21.2.1, True
+41252, i18next, v21.2.0, True
+41253, i18next, v21.1.1, True
+41254, i18next, v21.1.0, True
+41255, i18next, v21.0.2, True
+41256, i18next, v21.0.1, True
+41257, i18next, v21.0.0, True
+41258, lodash.identity, 4.0.0, True
+41259, lodash.identity, 3.0.0, True
+41260, gulp-copy, 4.0.0, False, 2, 0, 0, 2, 0
+41261, gulp-copy, 1.0.0, False, 19, 1, 14, 4, 0
+41262, gulp-copy, 0.0.2, False, 2, 0, 2, 0, 0
+41263, gulp-copy, 0.0.1, False, 2, 0, 2, 0, 0
+41264, jss-preset-default, v10.8.2, True
+41265, jss-preset-default, v10.8.1, True
+41266, jss-preset-default, v10.8.0, True
+41267, jss-preset-default, v10.7.1, True
+41268, jss-preset-default, v10.7.0, True
+41269, jss-preset-default, v10.6.0, True
+41270, jss-preset-default, v10.5.1, True
+41271, jss-preset-default, v10.5.0, True
+41272, jss-preset-default, v10.4.0, True
+41273, jss-preset-default, v10.3.0, True
+41274, jss-preset-default, v10.2.0, True
+41275, jss-preset-default, v10.1.1, True
+41276, jss-preset-default, v10.1.0, True
+41277, jss-preset-default, v10.0.4, True
+41278, jss-preset-default, v10.0.3, True
+41279, jss-preset-default, v10.0.2, True
+41280, jss-preset-default, v10.0.1, True
+41281, jss-preset-default, v10.0.0, True
+41282, jss-preset-default, v10.0.0-alpha.27, True
+41283, jss-preset-default, v10.0.0-alpha.26, True
+41284, jss-preset-default, v10.0.0-alpha.25, True
+41285, jss-preset-default, v10.0.0-alpha.24, True
+41286, jss-preset-default, v10.0.0-alpha.23, True
+41287, jss-preset-default, v10.0.0-alpha.22, True
+41288, jss-preset-default, v10.0.0-alpha.21, True
+41289, jss-preset-default, v10.0.0-alpha.20, True
+41290, jss-preset-default, v10.0.0-alpha.18, True
+41291, jss-preset-default, v10.0.0-alpha.17, True
+41292, jss-preset-default, v10.0.0-alpha.16, True
+41293, jss-preset-default, v10.0.0-alpha.14, True
+41294, regexpu, v2.0.0, True
+41295, velocity-animate, v1.5.2, True
+41296, velocity-animate, v2.0.5, True
+41297, velocity-animate, v2.0.4, True
+41298, velocity-animate, v2.0.3, True
+41299, velocity-animate, v2.0.2, True
+41300, velocity-animate, v2.0.1, True
+41301, velocity-animate, v2.0.0, True
+41302, velocity-animate, v1.5.1, True
+41303, velocity-animate, 1.5.0, True
+41304, velocity-animate, 1.4.3, True
+41305, velocity-animate, 1.4.2, True
+41306, velocity-animate, 1.4.1, True
+41307, velocity-animate, 1.4.0, True
+41308, velocity-animate, 1.3.2, True
+41309, velocity-animate, 1.3.0, True
+41310, velocity-animate, 1.3.1, True
+41311, velocity-animate, 1.2.3, True
+41312, velocity-animate, 1.2.2, True
+41313, rollup-plugin-postcss, v4.0.1, True
+41314, rollup-plugin-postcss, v4.0.0, False, 2, 0, 1, 1, 0
+41315, rollup-plugin-postcss, v3.1.8, False, 7, 0, 1, 6, 0
+41316, rollup-plugin-postcss, v3.1.7, False, 7, 0, 1, 6, 0
+41317, rollup-plugin-postcss, v3.1.6, False, 7, 0, 1, 6, 0
+41318, rollup-plugin-postcss, v3.1.5, False, 7, 0, 1, 6, 0
+41319, rollup-plugin-postcss, v3.1.4, False, 7, 0, 1, 6, 0
+41320, rollup-plugin-postcss, v3.1.3, False, 7, 0, 1, 6, 0
+41321, rollup-plugin-postcss, v3.1.2, False, 7, 0, 1, 6, 0
+41322, rollup-plugin-postcss, v3.1.1, False, 7, 0, 1, 6, 0
+41323, rollup-plugin-postcss, v3.1.0, False, 7, 0, 1, 6, 0
+41324, rollup-plugin-postcss, v3.0.0, False, 7, 0, 1, 6, 0
+41325, rollup-plugin-postcss, v2.8.2, False, 7, 0, 1, 6, 0
+41326, rollup-plugin-postcss, v2.8.1, False, 7, 0, 1, 6, 0
+41327, rollup-plugin-postcss, v2.6.4, False, 7, 0, 1, 6, 0
+41328, rollup-plugin-postcss, v2.6.2, False, 7, 0, 1, 6, 0
+41329, rollup-plugin-postcss, v2.6.1, False, 7, 0, 1, 6, 0
+41330, rollup-plugin-postcss, v2.5.0, False, 7, 0, 1, 6, 0
+41331, rollup-plugin-postcss, v2.4.1, False, 7, 0, 1, 6, 0
+41332, rollup-plugin-postcss, v2.4.0, False, 7, 0, 1, 6, 0
+41333, rollup-plugin-postcss, v2.3.0, False, 7, 0, 1, 6, 0
+41334, rollup-plugin-postcss, v2.2.0, False, 7, 0, 1, 6, 0
+41335, rollup-plugin-postcss, v2.1.1, False, 7, 0, 1, 6, 0
+41336, rollup-plugin-postcss, v2.0.6, False, 7, 0, 1, 6, 0
+41337, rollup-plugin-postcss, v2.0.5, False, 7, 0, 1, 6, 0
+41338, rollup-plugin-postcss, v2.0.4, False, 7, 0, 1, 6, 0
+41339, rollup-plugin-postcss, v0.5.6, False, 1, 0, 0, 1, 0
+41340, rollup-plugin-postcss, v0.5.5, False, 1, 0, 0, 1, 0
+41341, inversify, v6.0.1, True
+41342, inversify, 5.1.1, True
+41343, inversify, 5.1.0, True
+41344, inversify, 5.0.5, True
+41345, inversify, 5.0.4, True
+41346, inversify, 5.0.3, True
+41347, inversify, 5.0.1, True
+41348, inversify, 5.0.0, True
+41349, inversify, 4.14.0, True
+41350, inversify, 4.13.0, True
+41351, inversify, 4.12.0, True
+41352, inversify, 4.11.1, True
+41353, inversify, 4.11.0, True
+41354, inversify, 4.10.0, True
+41355, inversify, 4.9.0, True
+41356, inversify, 4.8.0, True
+41357, inversify, 4.7.0, True
+41358, inversify, 4.6.1, True
+41359, inversify, 4.6.0, True
+41360, inversify, 4.5.2, True
+41361, inversify, 4.5.1, True
+41362, inversify, 4.5.0, True
+41363, inversify, 4.4.0, True
+41364, inversify, 4.3.0, True
+41365, inversify, 4.2.0, True
+41366, inversify, 4.1.1, True
+41367, inversify, 4.1.0, True
+41368, inversify, 4.0.0, True
+41369, inversify, 3.3.0, True
+41370, inversify, 3.2.0, True
+41371, denque, v2.0.1, True
+41372, denque, v2.0.0, True
+41373, denque, v1.5.1, True
+41374, denque, v1.2.0, True
+41375, attempt-x, v2.1.2, True
+41376, attempt-x, v2.1.1, True
+41377, attempt-x, v2.1.0, True
+41378, attempt-x, v2.0.23, True
+41379, attempt-x, v2.0.22, True
+41380, attempt-x, v2.0.21, True
+41381, attempt-x, v2.0.20, True
+41382, attempt-x, v2.0.19, True
+41383, attempt-x, v2.0.18, True
+41384, attempt-x, v2.0.17, True
+41385, attempt-x, v2.0.16, True
+41386, attempt-x, v2.0.15, True
+41387, attempt-x, v2.0.14, True
+41388, attempt-x, v2.0.13, True
+41389, attempt-x, v2.0.12, True
+41390, attempt-x, v2.0.11, True
+41391, attempt-x, v2.0.10, True
+41392, attempt-x, v2.0.9, True
+41393, attempt-x, v2.0.8, True
+41394, attempt-x, v2.0.7, True
+41395, attempt-x, v2.0.6, True
+41396, attempt-x, v2.0.5, True
+41397, attempt-x, v2.0.4, True
+41398, attempt-x, v2.0.3, True
+41399, attempt-x, v2.0.2, True
+41400, attempt-x, v2.0.1, True
+41401, attempt-x, v2.0.0, True
+41402, generator-jhipster, v7.3.1, False, 2, 0, 2, 0, 0
+41403, generator-jhipster, v7.3.0, False, 2, 0, 2, 0, 0
+41404, generator-jhipster, v7.2.0, False, 2, 0, 2, 0, 0
+41405, generator-jhipster, v7.1.0, False, 3, 0, 3, 0, 0
+41406, generator-jhipster, v7.0.1, False, 3, 0, 3, 0, 0
+41407, generator-jhipster, v7.0.0, False, 3, 0, 3, 0, 0
+41408, generator-jhipster, v7.0.0-beta.1, False, 28, 0, 9, 19, 0
+41409, generator-jhipster, v7.0.0-beta.0, False, 30, 0, 10, 20, 0
+41410, generator-jhipster, v6.10.5, False, 38, 2, 13, 23, 0
+41411, generator-jhipster, v6.10.3, False, 38, 2, 13, 23, 0
+41412, generator-jhipster, v6.10.1, False, 42, 3, 14, 25, 0
+41413, generator-jhipster, v6.10.4, False, 38, 2, 13, 23, 0
+41414, generator-jhipster, v6.10.0, False, 42, 3, 14, 25, 0
+41415, generator-jhipster, v6.9.1, False, 43, 3, 14, 26, 0
+41416, generator-jhipster, v6.9.0, False, 43, 3, 14, 26, 0
+41417, twitter, v1.7.1, True
+41418, twitter, v1.7.0, False, 1, 0, 1, 0, 0
+41419, twitter, v1.6.0, False, 1, 0, 1, 0, 0
+41420, twitter, v1.5.0, False, 1, 0, 1, 0, 0
+41421, twitter, v1.4.0, False, 1, 0, 1, 0, 0
+41422, twitter, v1.3.0, False, 1, 0, 1, 0, 0
+41423, twitter, v1.2.5, False, 1, 0, 1, 0, 0
+41424, twitter, v1.2.4, False, 1, 0, 1, 0, 0
+41425, twitter, v1.2.3, False, 1, 0, 1, 0, 0
+41426, twitter, v1.2.1, False, 1, 0, 1, 0, 0
+41427, twitter, v1.2.0, False, 1, 0, 1, 0, 0
+41428, twitter, v1.1.0, True
+41429, twitter, v1.0.3, True
+41430, twitter, v1.0.2, True
+41431, expo-location, ios/2.12.0, error, Couldn't find the requested package or version
+41432, expo-location, android/2.10.8, error, Couldn't find the requested package or version
+41433, expo-location, ios/2.10.6, error, Couldn't find the requested package or version
+41434, expo-location, android/2.10.7, error, Couldn't find the requested package or version
+41435, expo-location, ios/2.10.4, error, Couldn't find the requested package or version
+41436, expo-location, android/2.10.6, error, Couldn't find the requested package or version
+41437, expo-location, android/2.10.5, error, Couldn't find the requested package or version
+41438, expo-location, ios/2.10.3, error, Couldn't find the requested package or version
+41439, raven-js, 6.13.3, True
+41440, raven-js, 6.13.2, True
+41441, raven-js, 6.13.1, True
+41442, raven-js, 6.13.0, True
+41443, raven-js, 6.13.0-beta.3, True
+41444, raven-js, 6.13.0-beta.2, True
+41445, raven-js, 6.13.0-beta.1, True
+41446, raven-js, 6.13.0-beta.0, True
+41447, raven-js, 6.12.0, True
+41448, raven-js, 6.12.0-beta.2, True
+41449, raven-js, 6.12.0-beta.1, True
+41450, raven-js, 6.11.0, True
+41451, raven-js, 6.10.0, True
+41452, raven-js, 6.10.0-beta.3, True
+41453, raven-js, 6.10.0-beta.2, True
+41454, raven-js, 6.10.0-beta, True
+41455, raven-js, 6.9.0, True
+41456, raven-js, 6.8.0, True
+41457, raven-js, 6.7.2, True
+41458, raven-js, 6.7.1, True
+41459, raven-js, 6.7.0, True
+41460, raven-js, 6.6.0, True
+41461, raven-js, 6.5.1, True
+41462, raven-js, 6.5.0, True
+41463, raven-js, 6.4.1, True
+41464, raven-js, 6.4.0, True
+41465, raven-js, 6.3.6, True
+41466, raven-js, 6.3.5, True
+41467, raven-js, 6.3.4, True
+41468, raven-js, 6.3.3, True
+41469, grunt-modernizr, 3.0.2, True
+41470, grunt-modernizr, 3.0.1, True
+41471, grunt-modernizr, 3.0.0, True
+41472, grunt-modernizr, 2.1.1, False, 1, 0, 0, 1, 0
+41473, grunt-modernizr, 2.1.0, False, 1, 0, 0, 1, 0
+41474, grunt-modernizr, 2.0.1, False, 1, 0, 0, 1, 0
+41475, grunt-modernizr, 2.0.0, False, 1, 0, 0, 1, 0
+41476, retext-english, 8.1.0, True
+41477, retext-english, 8.0.0, True
+41478, retext-english, retext-dutch@3.0.4, error, Couldn't find the requested package or version
+41479, retext-english, retext-english@3.0.4, error, Couldn't find the requested package or version
+41480, retext-english, retext-latin@2.0.4, error, Couldn't find the requested package or version
+41481, retext-english, retext-stringify@2.0.4, error, Couldn't find the requested package or version
+41482, retext-english, 7.0.1, True
+41483, retext-english, 7.0.0, True
+41484, retext-english, 6.0.2, True
+41485, retext-english, retext-stringify@2.0.3, error, Couldn't find the requested package or version
+41486, retext-english, retext-latin@2.0.3, error, Couldn't find the requested package or version
+41487, retext-english, retext-english@3.0.3, error, Couldn't find the requested package or version
+41488, retext-english, retext-dutch@3.0.3, error, Couldn't find the requested package or version
+41489, retext-english, 6.0.1, True
+41490, retext-english, retext-stringify@2.0.2, error, Couldn't find the requested package or version
+41491, retext-english, retext-latin@2.0.2, error, Couldn't find the requested package or version
+41492, retext-english, retext-english@3.0.2, error, Couldn't find the requested package or version
+41493, retext-english, retext-dutch@3.0.2, error, Couldn't find the requested package or version
+41494, retext-english, retext-dutch@3.0.1, error, Couldn't find the requested package or version
+41495, retext-english, retext-english@3.0.1, error, Couldn't find the requested package or version
+41496, retext-english, retext-latin@2.0.1, error, Couldn't find the requested package or version
+41497, retext-english, retext@6.0.0, error, Couldn't find the requested package or version
+41498, retext-english, retext-stringify@2.0.1, error, Couldn't find the requested package or version
+41499, retext-english, 5.0.0, True
+41500, retext-english, 4.0.0, True
+41501, retext-english, 3.0.0, True
+41502, retext-english, 2.0.0, True
+41503, git-up, 4.0.5, True
+41504, git-up, 5.0.0, True
+41505, git-up, 4.0.2, True
+41506, git-up, 4.0.1, True
+41507, git-up, 4.0.0, True
+41508, git-up, 3.0.0, True
+41509, git-up, 2.1.0, True
+41510, git-up, 2.0.10, True
+41511, git-up, 2.0.9, True
+41512, git-up, 2.0.8, True
+41513, git-up, 2.0.7, True
+41514, git-up, 2.0.6, True
+41515, git-up, 2.0.5, True
+41516, git-up, 2.0.4, True
+41517, git-up, 2.0.3, True
+41518, git-up, 2.0.2, True
+41519, git-up, 2.0.1, True
+41520, git-up, 2.0.0, True
+41521, git-up, 1.2.1, True
+41522, git-up, 1.2.0, True
+41523, git-up, 1.1.0, True
+41524, git-up, 1.0.0, True
+41525, broccoli-plugin, v4.0.7, False, 1, 0, 1, 0, 0
+41526, broccoli-plugin, v4.0.6, False, 1, 0, 1, 0, 0
+41527, broccoli-plugin, v4.0.5, False, 1, 0, 1, 0, 0
+41528, broccoli-plugin, v4.0.4, False, 1, 0, 1, 0, 0
+41529, broccoli-plugin, 3.0.0, False, 1, 0, 1, 0, 0
+41530, broccoli-plugin, 2.1.0, False, 1, 0, 1, 0, 0
+41531, expo-font, ios/2.12.0, error, Couldn't find the requested package or version
+41532, expo-font, android/2.10.8, error, Couldn't find the requested package or version
+41533, expo-font, ios/2.10.6, error, Couldn't find the requested package or version
+41534, expo-font, android/2.10.7, error, Couldn't find the requested package or version
+41535, expo-font, ios/2.10.4, error, Couldn't find the requested package or version
+41536, expo-font, android/2.10.6, error, Couldn't find the requested package or version
+41537, expo-font, android/2.10.5, error, Couldn't find the requested package or version
+41538, expo-font, ios/2.10.3, error, Couldn't find the requested package or version
+41539, vinyl-paths, v4.0.0, True
+41540, vinyl-paths, v3.0.1, True
+41541, vinyl-paths, v3.0.0, True
+41542, posthtml-render, v3.0.0, True
+41543, posthtml-render, v2.0.6, True
+41544, posthtml-render, v2.0.5, True
+41545, posthtml-render, v2.0.4, True
+41546, posthtml-render, v2.0.3, True
+41547, posthtml-render, v2.0.2, True
+41548, posthtml-render, v2.0.1, True
+41549, posthtml-render, v2.0.0, True
+41550, posthtml-render, v1.3.1, True
+41551, posthtml-render, v1.4.0, True
+41552, posthtml-render, v1.3.0, True
+41553, posthtml-render, v1.2.3, True
+41554, posthtml-render, v1.2.0, True
+41555, posthtml-render, v1.1.5, True
+41556, posthtml-render, v1.1.4, True
+41557, posthtml-render, v1.1.3, True
+41558, posthtml-render, v1.1.2, True
+41559, posthtml-render, v1.1.0, True
+41560, posthtml-render, v1.0.7, True
+41561, posthtml-render, v1.1.1, True
+41562, posthtml-render, v1.0.6, True
+41563, posthtml-render, v1.0.5, True
+41564, posthtml-render, v1.0.4, True
+41565, posthtml-render, v1.0.3, True
+41566, posthtml-render, v1.0.2, True
+41567, posthtml-render, v1.0.1, True
+41568, posthtml-render, v1.0.0, True
+41569, vue-meta, v3.0.0-alpha.8, True
+41570, vue-meta, v3.0.0-alpha.3, True
+41571, vue-meta, v3.0.0-alpha.2, True
+41572, vue-meta, v3.0.0-alpha.1, True
+41573, vue-meta, v3.0.0-alpha.0, True
+41574, vue-meta, v2.4.0, True
+41575, vue-meta, v2.3.4, True
+41576, vue-meta, v2.3.3, True
+41577, vue-meta, v2.3.2, True
+41578, vue-meta, v2.3.1, True
+41579, vue-meta, v2.3.0, True
+41580, vue-meta, v2.2.2, True
+41581, vue-meta, v2.2.1, True
+41582, vue-meta, v2.2.0, True
+41583, vue-meta, v2.1.1, True
+41584, vue-meta, v2.1.0, True
+41585, vue-meta, v2.0.5, True
+41586, vue-meta, v2.0.4, True
+41587, vue-meta, v2.0.3, True
+41588, vue-meta, v2.0.2, True
+41589, vue-meta, v2.0.1, True
+41590, vue-meta, v2.0.0, True
+41591, vue-meta, v2.0.0-rc.2, True
+41592, vue-meta, v2.0.0-rc.1, True
+41593, vue-meta, v2.0.0-rc.0, True
+41594, vue-meta, v1.6.0, True
+41595, vue-meta, v1.5.8, True
+41596, vue-meta, v1.5.7, True
+41597, vue-meta, v1.5.6, True
+41598, vue-meta, v1.5.5, True
+41599, bootstrap-vue, v2.21.2, True
+41600, bootstrap-vue, v2.21.1, True
+41601, bootstrap-vue, v2.21.0, True
+41602, bootstrap-vue, v2.20.1, True
+41603, bootstrap-vue, v2.20.0, True
+41604, bootstrap-vue, v2.19.0, True
+41605, bootstrap-vue, v2.18.1, True
+41606, bootstrap-vue, v2.18.0, True
+41607, bootstrap-vue, v2.17.3, True
+41608, bootstrap-vue, v2.17.2, True
+41609, bootstrap-vue, v2.17.1, True
+41610, bootstrap-vue, v2.17.0, True
+41611, bootstrap-vue, v2.16.0, True
+41612, bootstrap-vue, v2.15.0, True
+41613, bootstrap-vue, v2.14.0, True
+41614, bootstrap-vue, v2.13.1, True
+41615, bootstrap-vue, v2.13.0, True
+41616, bootstrap-vue, v2.12.0, True
+41617, bootstrap-vue, v2.11.0, True
+41618, bootstrap-vue, v2.10.1, True
+41619, bootstrap-vue, v2.10.0, True
+41620, bootstrap-vue, v2.9.0, True
+41621, bootstrap-vue, v2.8.0, True
+41622, bootstrap-vue, v2.7.0, True
+41623, bootstrap-vue, v2.6.1, True
+41624, bootstrap-vue, v2.6.0, True
+41625, bootstrap-vue, v2.5.0, True
+41626, bootstrap-vue, v2.4.2, True
+41627, bootstrap-vue, v2.4.1, True
+41628, bootstrap-vue, v2.4.0, True
+41629, @types/sinon-chai, 0.1.450, True
+41630, @types/async, 0.1.450, True
+41631, css-mqpacker, v9.0.0, True
+41632, css-mqpacker, v8.0.1, True
+41633, css-mqpacker, v7.0.0, True
+41634, css-mqpacker, v6.0.2, False, 1, 0, 0, 1, 0
+41635, css-mqpacker, v6.0.1, False, 1, 0, 0, 1, 0
+41636, css-mqpacker, v6.0.0, False, 1, 0, 0, 1, 0
+41637, css-mqpacker, v5.0.1, False, 1, 0, 0, 1, 0
+41638, css-mqpacker, v5.0.0, False, 1, 0, 0, 1, 0
+41639, css-mqpacker, v4.0.1, False, 1, 0, 0, 1, 0
+41640, css-mqpacker, v4.0.0, False, 1, 0, 0, 1, 0
+41641, css-mqpacker, v3.1.0, False, 1, 0, 0, 1, 0
+41642, toastr, 2.1.1, True
+41643, sha3, v2.1.4, True
+41644, sha3, v2.1.3, True
+41645, sha3, v2.1.1, True
+41646, sha3, v1.2.6, True
+41647, sha3, v1.2.5, True
+41648, sha3, v2.1.0, True
+41649, sha3, v1.2.4, True
+41650, sha3, v2.0.6, True
+41651, sha3, v2.0.5, True
+41652, sha3, v2.0.4, True
+41653, sha3, v2.0.3, True
+41654, sha3, v1.2.3, True
+41655, sha3, v2.0.2, True
+41656, sha3, v2.0.1, True
+41657, sha3, v1.2.2, True
+41658, sha3, v1.2.1, True
+41659, sha3, release-1.2.0, True
+41660, sha3, release-1.1.0, True
+41661, tsd, v0.18.0, True
+41662, tsd, v0.17.0, True
+41663, tsd, v0.16.0, True
+41664, tsd, v0.15.1, True
+41665, tsd, v0.15.0, True
+41666, tsd, v0.14.0, True
+41667, tsd, v0.13.1, True
+41668, tsd, v0.13.0, True
+41669, tsd, v0.12.1, True
+41670, tsd, v0.12.0, True
+41671, tsd, v0.11.0, False, 7, 0, 5, 2, 0
+41672, tsd, v0.10.0, False, 7, 0, 5, 2, 0
+41673, tsd, v0.9.0, False, 7, 0, 5, 2, 0
+41674, tsd, v0.8.0, False, 7, 0, 5, 2, 0
+41675, tsd, v0.7.4, False, 7, 0, 5, 2, 0
+41676, tsd, v0.7.3, False, 7, 0, 5, 2, 0
+41677, tsd, v0.7.2, False, 7, 0, 5, 2, 0
+41678, tsd, v0.7.1, False, 7, 0, 5, 2, 0
+41679, tsd, v0.7.0, False, 7, 0, 5, 2, 0
+41680, tsd, v0.6.0, False, 14, 1, 6, 7, 0
+41681, tsd, v0.5.0, False, 6, 0, 5, 1, 0
+41682, @firebase/installations-types, firebase@4.5.2, error, Couldn't find the requested package or version
+41683, @firebase/installations-types, v4.5.1, True
+41684, @firebase/installations-types, v4.5.0, False, 2, 0, 0, 2, 0
+41685, @firebase/installations-types, v4.4.0, False, 2, 0, 0, 2, 0
+41686, @firebase/installations-types, v4.3.0, False, 2, 0, 0, 2, 0
+41687, @firebase/installations-types, v4.2.0, False, 2, 0, 0, 2, 0
+41688, @firebase/installations-types, v4.1.4, False, 2, 0, 0, 2, 0
+41689, @firebase/installations-types, v4.1.3, False, 2, 0, 0, 2, 0
+41690, @firebase/installations-types, v4.1.2, False, 2, 0, 0, 2, 0
+41691, @firebase/installations-types, v4.1.0, False, 2, 0, 0, 2, 0
+41692, @firebase/installations-types, v4.1.1, False, 2, 0, 0, 2, 0
+41693, @firebase/installations-types, v4.1.0-rc.1, False, 2, 0, 0, 2, 0
+41694, @firebase/installations-types, v4.0.0, False, 2, 0, 0, 2, 0
+41695, @firebase/performance-types, firebase@4.5.2, error, Couldn't find the requested package or version
+41696, @firebase/performance-types, v4.5.1, True
+41697, @firebase/performance-types, v4.5.0, False, 2, 0, 0, 2, 0
+41698, @firebase/performance-types, v4.4.0, False, 2, 0, 0, 2, 0
+41699, @firebase/performance-types, v4.3.0, False, 2, 0, 0, 2, 0
+41700, @firebase/performance-types, v4.2.0, False, 2, 0, 0, 2, 0
+41701, @firebase/performance-types, v4.1.4, False, 2, 0, 0, 2, 0
+41702, @firebase/performance-types, v4.1.3, False, 2, 0, 0, 2, 0
+41703, @firebase/performance-types, v4.1.2, False, 2, 0, 0, 2, 0
+41704, @firebase/performance-types, v4.1.0, False, 2, 0, 0, 2, 0
+41705, @firebase/performance-types, v4.1.1, False, 2, 0, 0, 2, 0
+41706, @firebase/performance-types, v4.1.0-rc.1, False, 2, 0, 0, 2, 0
+41707, @firebase/performance-types, v4.0.0, False, 2, 0, 0, 2, 0
+41708, doiuse, v.4.3.1, True
+41709, doiuse, v4.3.0, False, 1, 0, 0, 1, 0
+41710, doiuse, v4.2.0, False, 5, 0, 3, 2, 0
+41711, doiuse, v4.1.0, False, 5, 0, 1, 4, 0
+41712, @firebase/performance, firebase@4.5.2, error, Couldn't find the requested package or version
+41713, @firebase/performance, v4.5.1, True
+41714, @firebase/performance, v4.5.0, False, 2, 0, 0, 2, 0
+41715, @firebase/performance, v4.4.0, False, 2, 0, 0, 2, 0
+41716, @firebase/performance, v4.3.0, False, 2, 0, 0, 2, 0
+41717, @firebase/performance, v4.2.0, False, 2, 0, 0, 2, 0
+41718, @firebase/performance, v4.1.4, False, 2, 0, 0, 2, 0
+41719, @firebase/performance, v4.1.3, False, 2, 0, 0, 2, 0
+41720, @firebase/performance, v4.1.2, False, 2, 0, 0, 2, 0
+41721, @firebase/performance, v4.1.0, False, 2, 0, 0, 2, 0
+41722, @firebase/performance, v4.1.1, False, 2, 0, 0, 2, 0
+41723, @firebase/performance, v4.1.0-rc.1, False, 2, 0, 0, 2, 0
+41724, @firebase/performance, v4.0.0, False, 2, 0, 0, 2, 0
+41725, firebase-functions, v3.16.0, True
+41726, firebase-functions, v3.15.7, True
+41727, firebase-functions, v3.15.6, True
+41728, firebase-functions, v3.15.5, True
+41729, firebase-functions, v3.15.4, True
+41730, firebase-functions, v3.15.3, True
+41731, firebase-functions, v3.15.2, True
+41732, firebase-functions, v3.15.1, True
+41733, firebase-functions, v3.15.0, True
+41734, firebase-functions, v3.14.1, True
+41735, firebase-functions, v3.13.3, True
+41736, firebase-functions, v3.14.0, True
+41737, firebase-functions, v3.13.2, True
+41738, firebase-functions, v3.13.1, True
+41739, firebase-functions, v3.13.0, True
+41740, firebase-functions, v3.12.0, True
+41741, firebase-functions, v3.11.0, True
+41742, firebase-functions, v3.10.0, True
+41743, firebase-functions, v3.9.1, True
+41744, firebase-functions, v3.9.0, True
+41745, firebase-functions, v3.8.0, True
+41746, firebase-functions, v3.7.0, True
+41747, firebase-functions, v3.6.2, True
+41748, firebase-functions, v3.6.1, True
+41749, firebase-functions, v3.6.0, True
+41750, firebase-functions, v3.5.0, True
+41751, firebase-functions, v3.4.0, True
+41752, firebase-functions, v3.3.0, True
+41753, firebase-functions, v3.2.0, True
+41754, firebase-functions, v3.1.0, True
+41755, lodash._createwrapper, 4.0.0, True
+41756, lodash._createwrapper, 3.0.0, True
+41757, grunt-dom-munger, v4.0.0, True
+41758, react-native-reanimated, 2.2.4, True
+41759, react-native-reanimated, 2.3.0-beta.3, True
+41760, react-native-reanimated, 2.2.3, True
+41761, react-native-reanimated, 2.3.0-beta.2, True
+41762, react-native-reanimated, 2.3.0-beta.1, True
+41763, react-native-reanimated, 2.2.2, True
+41764, react-native-reanimated, 2.2.1, True
+41765, react-native-reanimated, 2.3.0-alpha.3, True
+41766, react-native-reanimated, 2.3.0-alpha.2, True
+41767, react-native-reanimated, 2.3.0-alpha.1, True
+41768, react-native-reanimated, 2.2.0, True
+41769, react-native-reanimated, 2.1.0, True
+41770, react-native-reanimated, 2.0.1, True
+41771, react-native-reanimated, 1.13.3, False, 1, 0, 0, 1, 0
+41772, react-native-reanimated, 2.0.0, True
+41773, react-native-reanimated, 2.0.0-rc.3, True
+41774, react-native-reanimated, 2.0.0-rc.2, True
+41775, react-native-reanimated, 2.0.0-rc.1, True
+41776, react-native-reanimated, 2.0.0-rc.0, True
+41777, react-native-reanimated, 2.0.0-alpha.9, True
+41778, react-native-reanimated, 2.0.0-alpha.8, True
+41779, react-native-reanimated, 2.0.0-alpha.7, False, 1, 0, 0, 1, 0
+41780, react-native-reanimated, 2.0.0-alpha.6, False, 1, 0, 0, 1, 0
+41781, react-native-reanimated, 1.13.1, False, 1, 0, 0, 1, 0
+41782, react-native-reanimated, 1.13.0, False, 1, 0, 0, 1, 0
+41783, react-native-reanimated, 1.12.0, False, 1, 0, 0, 1, 0
+41784, react-native-reanimated, 1.11.0, False, 1, 0, 0, 1, 0
+41785, react-native-reanimated, 1.10.2, False, 1, 0, 0, 1, 0
+41786, react-native-reanimated, 2.0.0-alpha.5, False, 1, 0, 0, 1, 0
+41787, react-native-reanimated, 1.10.1, False, 1, 0, 0, 1, 0
+41788, direction, 2.0.0, True
+41789, direction, 1.0.4, True
+41790, direction, 1.0.3, True
+41791, direction, 1.0.2, True
+41792, direction, 1.0.1, True
+41793, direction, 1.0.0, True
+41794, grunt-html2js, 0.8.0, True
+41795, grunt-html2js, v0.7.1, False, 2, 0, 1, 1, 0
+41796, grunt-html2js, 0.7.0, False, 2, 0, 1, 1, 0
+41797, grunt-html2js, 0.6.0, False, 2, 0, 1, 1, 0
+41798, grunt-html2js, 0.5.1, False, 5, 0, 1, 2, 2
+41799, grunt-html2js, 0.5.0, False, 5, 0, 1, 2, 2
+41800, grunt-html2js, 0.4.2, False, 9, 1, 2, 3, 3
+41801, grunt-html2js, 0.4.1, False, 9, 1, 2, 3, 3
+41802, grunt-html2js, 0.4.0, False, 9, 1, 2, 3, 3
+41803, grunt-html2js, 0.3.8, False, 8, 1, 1, 3, 3
+41804, grunt-html2js, 0.3.7, False, 4, 0, 0, 2, 2
+41805, keccak, v3.0.2, True
+41806, keccak, v3.0.1, True
+41807, keccak, v3.0.0, True
+41808, keccak, v2.1.0, True
+41809, keccak, v2.0.0, True
+41810, keccak, v1.4.0, True
+41811, keccak, v1.3.0, True
+41812, keccak, v1.2.0, True
+41813, keccak, v1.1.0, True
+41814, keccak, v1.0.2, True
+41815, ember-welcome-page, v6.0.0, False, 11, 0, 11, 0, 0
+41816, ember-welcome-page, v5.0.0, False, 10, 0, 10, 0, 0
+41817, ember-welcome-page, v4.1.0, False, 10, 0, 10, 0, 0
+41818, d3-drag, v3.0.0, True
+41819, d3-drag, v2.0.0, True
+41820, d3-drag, v1.2.5, True
+41821, d3-drag, v1.2.4, True
+41822, d3-drag, v1.2.3, True
+41823, d3-drag, v1.2.2, True
+41824, d3-drag, v1.2.1, True
+41825, d3-drag, v1.2.0, True
+41826, d3-drag, v1.1.1, True
+41827, d3-drag, v1.1.0, True
+41828, d3-drag, v1.0.4, True
+41829, d3-drag, v1.0.3, True
+41830, d3-drag, v1.0.2, True
+41831, d3-drag, v1.0.1, True
+41832, d3-drag, v1.0.0, True
+41833, d3-drag, v0.3.1, True
+41834, d3-drag, v0.3.0, True
+41835, d3-drag, v0.2.2, True
+41836, d3-drag, v0.2.1, True
+41837, d3-drag, v0.2.0, True
+41838, d3-drag, v0.1.5, True
+41839, d3-drag, v0.1.4, True
+41840, d3-drag, v0.1.3, True
+41841, d3-drag, v0.1.2, True
+41842, d3-drag, v0.1.1, True
+41843, d3-drag, v0.1.0, True
+41844, d3-drag, v0.0.1, True
+41845, @types/source-map, 0.1.450, True
+41846, gatsby-telemetry, gatsby@4.1.0, error, Couldn't find the requested package or version
+41847, gatsby-telemetry, gatsby@4.0.0, error, Couldn't find the requested package or version
+41848, gatsby-telemetry, gatsby@3.14.0, error, Couldn't find the requested package or version
+41849, gatsby-telemetry, gatsby@3.13.0, error, Couldn't find the requested package or version
+41850, gatsby-telemetry, gatsby@3.12.0, error, Couldn't find the requested package or version
+41851, gatsby-telemetry, gatsby@3.11.0, error, Couldn't find the requested package or version
+41852, gatsby-telemetry, gatsby@3.10.0, error, Couldn't find the requested package or version
+41853, gatsby-telemetry, gatsby@3.9.0, error, Couldn't find the requested package or version
+41854, gatsby-telemetry, gatsby@3.8.0, error, Couldn't find the requested package or version
+41855, gatsby-telemetry, gatsby@3.7.0, error, Couldn't find the requested package or version
+41856, gatsby-telemetry, gatsby@3.6.0, error, Couldn't find the requested package or version
+41857, gatsby-telemetry, gatsby@3.5.0, error, Couldn't find the requested package or version
+41858, gatsby-telemetry, gatsby@3.4.0, error, Couldn't find the requested package or version
+41859, gatsby-telemetry, gatsby@3.3.0, error, Couldn't find the requested package or version
+41860, gatsby-telemetry, gatsby@3.2.0, error, Couldn't find the requested package or version
+41861, gatsby-telemetry, gatsby@3.1.0, error, Couldn't find the requested package or version
+41862, gatsby-telemetry, gatsby@3.0.0, error, Couldn't find the requested package or version
+41863, gatsby-telemetry, gatsby@2.32.0, error, Couldn't find the requested package or version
+41864, gatsby-telemetry, gatsby@2.31.0, error, Couldn't find the requested package or version
+41865, gatsby-telemetry, gatsby@2.30.0, error, Couldn't find the requested package or version
+41866, gatsby-telemetry, gatsby@2.29.0, error, Couldn't find the requested package or version
+41867, gatsby-telemetry, gatsby@2.28.0, error, Couldn't find the requested package or version
+41868, gatsby-telemetry, gatsby@2.27.0, error, Couldn't find the requested package or version
+41869, gatsby-telemetry, gatsby@2.26.0, error, Couldn't find the requested package or version
+41870, gatsby-telemetry, v1.5.2, False, 181, 0, 47, 81, 53
+41871, gatsby-telemetry, v1.4.0, True
+41872, gatsby-telemetry, v1.3.0, False, 1, 0, 0, 1, 0
+41873, gatsby-telemetry, v1.2.0, False, 1, 0, 0, 1, 0
+41874, gatsby-telemetry, v1.1.0, False, 3, 0, 2, 1, 0
+41875, gatsby-telemetry, v1.0.1, False, 1, 0, 0, 1, 0
+41876, node-sass-middleware, v0.11.0, False, 28, 0, 15, 12, 1
+41877, node-sass-middleware, v0.10.1, False, 28, 0, 15, 12, 1
+41878, node-sass-middleware, v0.10.0, False, 40, 0, 22, 17, 1
+41879, node-sass-middleware, v0.9.8, False, 40, 0, 22, 17, 1
+41880, node-sass-middleware, v0.9.7, False, 40, 0, 22, 17, 1
+41881, node-sass-middleware, v0.9.6, False, 40, 0, 22, 17, 1
+41882, node-sass-middleware, v0.9.5, False, 40, 0, 22, 17, 1
+41883, node-sass-middleware, v0.9.0, False, 40, 0, 22, 17, 1
+41884, node-sass-middleware, v0.8.0, False, 40, 0, 22, 17, 1
+41885, node-sass-middleware, v0.7.0, False, 40, 0, 22, 17, 1
+41886, node-sass-middleware, v0.6.0, False, 40, 0, 22, 17, 1
+41887, node-sass-middleware, v0.3.1, True
+41888, node-sass-middleware, v0.2.0, False, 38, 1, 19, 17, 1
+41889, react-syntax-highlighter, v15.4.3, True
+41890, react-syntax-highlighter, v15.4.2, True
+41891, react-syntax-highlighter, v15.4.1, True
+41892, react-syntax-highlighter, v15.4.0, True
+41893, react-syntax-highlighter, v15.3.1, True
+41894, react-syntax-highlighter, v15.3.0, True
+41895, react-syntax-highlighter, v15.2.1, True
+41896, react-syntax-highlighter, v15.2.0, True
+41897, react-syntax-highlighter, v15.1.0, True
+41898, react-syntax-highlighter, v15.0.1, True
+41899, react-syntax-highlighter, v15.0.0, True
+41900, react-syntax-highlighter, v14.0.2, True
+41901, react-syntax-highlighter, v14.0.0, True
+41902, react-syntax-highlighter, v13.5.3, True
+41903, react-syntax-highlighter, v13.5.2, True
+41904, react-syntax-highlighter, v13.5.1, True
+41905, react-syntax-highlighter, v13.5.0, True
+41906, react-syntax-highlighter, v13.4.0, True
+41907, react-syntax-highlighter, v13.3.1, True
+41908, react-syntax-highlighter, 13.2.1, True
+41909, react-syntax-highlighter, 13.2.0, True
+41910, react-syntax-highlighter, 13.1.1, True
+41911, react-syntax-highlighter, 13.1.0, True
+41912, react-syntax-highlighter, 13.0.0, True
+41913, lodash._basedifference, 4.0.0, True
+41914, lodash._basedifference, 3.0.0, True
+41915, indx, v0.2.2, True
+41916, indx, v0.1.2, True
+41917, indx, v0.1.1, True
+41918, indx, v0.1.0, True
+41919, rc-drawer, v4.4.2, True
+41920, rc-drawer, v4.4.1, True
+41921, rc-drawer, v4.4.0, True
+41922, rc-drawer, v4.3.1, True
+41923, rc-drawer, v4.3.0, True
+41924, rc-drawer, v4.2.2, True
+41925, rc-drawer, v4.2.1, True
+41926, rc-drawer, v4.2.0, True
+41927, rc-drawer, v4.0.1, True
+41928, rc-drawer, v4.0.0, True
+41929, rc-drawer, v3.2.0, True
+41930, rc-drawer, v3.1.3, True
+41931, rc-drawer, v3.1.2, True
+41932, rc-drawer, v3.1.1, True
+41933, rc-drawer, v3.0.0, True
+41934, rc-drawer, v2.1.1, True
+41935, rc-drawer, 1.0.0, True
+41936, algoliasearch, 4.11.0, True
+41937, algoliasearch, 4.10.5, True
+41938, algoliasearch, 4.10.4, True
+41939, algoliasearch, 4.10.3, True
+41940, algoliasearch, 4.10.2, True
+41941, algoliasearch, 4.10.0, True
+41942, algoliasearch, 4.9.3, True
+41943, algoliasearch, 4.9.2, True
+41944, algoliasearch, 4.9.1, True
+41945, algoliasearch, 4.9.0, True
+41946, algoliasearch, 4.8.6, True
+41947, algoliasearch, 4.8.5, True
+41948, algoliasearch, 4.8.4, True
+41949, algoliasearch, 4.8.3, True
+41950, algoliasearch, 4.8.2, True
+41951, algoliasearch, 4.8.1, True
+41952, algoliasearch, 4.8.0, True
+41953, algoliasearch, 4.7.0, True
+41954, algoliasearch, 4.6.0, True
+41955, @types/color-name, 0.1.450, True
+41956, @types/enzyme, 0.1.450, True
+41957, cpy, v8.1.2, False, 1, 0, 0, 1, 0
+41958, cpy, v8.1.1, False, 1, 0, 0, 1, 0
+41959, cpy, v8.1.0, False, 1, 0, 0, 1, 0
+41960, cpy, v8.0.1, False, 1, 0, 0, 1, 0
+41961, cpy, v8.0.0, False, 1, 0, 0, 1, 0
+41962, cpy, v7.3.0, False, 1, 0, 0, 1, 0
+41963, cpy, v7.2.0, False, 1, 0, 0, 1, 0
+41964, cpy, v7.1.0, False, 1, 0, 0, 1, 0
+41965, cpy, v7.0.0, False, 1, 0, 0, 1, 0
+41966, @google-cloud/firestore, v4.15.1, True
+41967, @google-cloud/firestore, v4.15.0, True
+41968, @google-cloud/firestore, v4.14.2, True
+41969, @google-cloud/firestore, v4.14.1, True
+41970, @google-cloud/firestore, v4.14.0, True
+41971, @google-cloud/firestore, v4.13.2, True
+41972, @google-cloud/firestore, v4.13.1, True
+41973, @google-cloud/firestore, v4.13.0, True
+41974, @google-cloud/firestore, v4.12.3, True
+41975, @google-cloud/firestore, v4.12.2, True
+41976, @google-cloud/firestore, v4.12.1, True
+41977, @google-cloud/firestore, v4.12.0, True
+41978, @google-cloud/firestore, v4.11.1, True
+41979, @google-cloud/firestore, v4.11.0, True
+41980, @google-cloud/firestore, v4.10.1, True
+41981, @google-cloud/firestore, v4.10.0, True
+41982, @google-cloud/firestore, v4.9.9, True
+41983, @google-cloud/firestore, v4.9.8, True
+41984, @google-cloud/firestore, v4.9.7, True
+41985, @google-cloud/firestore, v4.9.6, True
+41986, @google-cloud/firestore, v4.9.5, True
+41987, @google-cloud/firestore, v4.9.4, True
+41988, @google-cloud/firestore, v4.9.3, True
+41989, @google-cloud/firestore, v4.9.2, True
+41990, @google-cloud/firestore, v4.9.1, True
+41991, @google-cloud/firestore, v4.9.0, True
+41992, @google-cloud/firestore, v4.8.1, True
+41993, @google-cloud/firestore, v4.8.0, True
+41994, @google-cloud/firestore, v4.7.2, True
+41995, @google-cloud/firestore, v4.7.1, True
+41996, ember-cli-eslint, v5.1.0, False, 9, 0, 9, 0, 0
+41997, ember-cli-eslint, v4.2.3, False, 11, 0, 11, 0, 0
+41998, ember-cli-eslint, v5.0.0, False, 9, 0, 9, 0, 0
+41999, ember-cli-eslint, v4.2.1, False, 11, 0, 11, 0, 0
+42000, ember-cli-eslint, v4.2.2, False, 11, 0, 11, 0, 0
+42001, ember-cli-eslint, v4.1.0, False, 11, 0, 11, 0, 0
+42002, ember-cli-eslint, v4.2.0, False, 11, 0, 11, 0, 0
+42003, ember-cli-eslint, v4.0.0, False, 11, 0, 11, 0, 0
+42004, ember-cli-eslint, v3.1.0, False, 9, 0, 7, 1, 1
+42005, ember-cli-eslint, v3.0.0, False, 33, 2, 21, 9, 1
+42006, ember-cli-eslint, v2.0.0, False, 29, 2, 17, 9, 1
+42007, ember-cli-eslint, v1.4.0, False, 29, 2, 17, 9, 1
+42008, ember-cli-eslint, v1.4.1, False, 29, 2, 17, 9, 1
+42009, ember-cli-eslint, v1.5.0, False, 29, 2, 17, 9, 1
+42010, ember-cli-eslint, v1.7.0, False, 29, 2, 17, 9, 1
+42011, ember-cli-eslint, v1.8.0, False, 29, 2, 17, 9, 1
+42012, ember-cli-eslint, v1.6.0, False, 29, 2, 17, 9, 1
+42013, ember-cli-eslint, v1.3.0, False, 29, 2, 17, 9, 1
+42014, ember-cli-eslint, v1.2.1, False, 6, 0, 4, 1, 1
+42015, ember-cli-eslint, v1.1.0, False, 6, 0, 4, 1, 1
+42016, ember-cli-eslint, v1.0.0, False, 6, 0, 4, 1, 1
+42017, ember-cli-eslint, v0.1.3, False, 4, 0, 4, 0, 0
+42018, @lerna/timer, v4.0.0, True
+42019, @lerna/timer, v3.22.1, True
+42020, @lerna/timer, v3.22.0, True
+42021, @lerna/timer, v3.21.0, True
+42022, @lerna/timer, v3.20.2, True
+42023, @lerna/timer, v3.20.1, True
+42024, @lerna/timer, v3.20.0, True
+42025, @lerna/timer, v3.19.0, True
+42026, @lerna/timer, v3.18.5, True
+42027, @lerna/timer, v3.18.4, True
+42028, @lerna/timer, v3.18.3, True
+42029, @lerna/timer, v3.18.2, True
+42030, @lerna/timer, v3.18.1, True
+42031, @lerna/timer, v3.18.0, True
+42032, @lerna/timer, v3.17.0, True
+42033, @lerna/timer, v3.16.5, True
+42034, @lerna/timer, v3.16.4, True
+42035, @lerna/timer, v3.16.3, True
+42036, @lerna/timer, v3.16.2, True
+42037, @lerna/timer, v3.16.1, True
+42038, @lerna/timer, v3.16.0, True
+42039, @lerna/timer, v3.15.0, True
+42040, @lerna/timer, v3.14.2, True
+42041, @lerna/timer, v3.14.1, True
+42042, @lerna/timer, v3.14.0, True
+42043, @lerna/timer, v3.13.4, True
+42044, @lerna/timer, v3.13.3, True
+42045, @lerna/timer, v3.13.2, True
+42046, @lerna/timer, v3.13.1, True
+42047, @lerna/timer, v3.13.0, True
+42048, knox, 0.9.3, True
+42049, sync-exec, 0.6.1, False, 1, 0, 0, 1, 0
+42050, sync-exec, 0.6.0, False, 1, 0, 0, 1, 0
+42051, insight, v0.11.1, False, 2, 0, 2, 0, 0
+42052, insight, v0.11.0, False, 2, 0, 2, 0, 0
+42053, insight, v0.9.0, False, 2, 0, 2, 0, 0
+42054, insight, v0.8.4, False, 9, 1, 4, 4, 0
+42055, insight, v0.8.3, False, 9, 1, 4, 4, 0
+42056, insight, v0.8.2, False, 9, 1, 4, 4, 0
+42057, insight, v0.8.1, False, 9, 1, 4, 4, 0
+42058, insight, v0.8.0, False, 9, 1, 4, 4, 0
+42059, insight, v0.5.2, False, 11, 1, 5, 5, 0
+42060, insight, v0.4.3, False, 11, 1, 5, 5, 0
+42061, insight, v0.4.0, False, 24, 1, 6, 14, 3
+42062, insight, v0.4.2, False, 13, 1, 5, 7, 0
+42063, echint, v4.0.2, True
+42064, echint, v4.0.1, False, 4, 0, 3, 0, 1
+42065, echint, v4.0.0, False, 4, 0, 3, 0, 1
+42066, echint, v3.0.0, False, 4, 0, 3, 0, 1
+42067, echint, v2.1.3, False, 4, 0, 3, 0, 1
+42068, echint, v2.1.2, False, 4, 0, 3, 0, 1
+42069, echint, v2.1.1, False, 4, 0, 3, 0, 1
+42070, echint, v2.1.0, False, 4, 0, 3, 0, 1
+42071, echint, v2.0.0, False, 4, 0, 3, 0, 1
+42072, echint, v1.5.3, False, 4, 0, 3, 0, 1
+42073, newrelic, v8.5.0, True
+42074, newrelic, v8.4.0, True
+42075, newrelic, v8.3.0, True
+42076, newrelic, v8.2.0, True
+42077, newrelic, v8.1.0, True
+42078, newrelic, v8.0.0, True
+42079, newrelic, v7.5.2, True
+42080, newrelic, v7.5.1, True
+42081, newrelic, v7.5.0, True
+42082, newrelic, v7.4.0, True
+42083, newrelic, v7.3.1, True
+42084, newrelic, v7.3.0, True
+42085, newrelic, v7.2.1, True
+42086, newrelic, v7.2.0, True
+42087, newrelic, v7.1.3, True
+42088, newrelic, v7.1.2, True
+42089, newrelic, v7.1.1, True
+42090, newrelic, v7.1.0, True
+42091, newrelic, v7.0.2, True
+42092, newrelic, v7.0.1, True
+42093, newrelic, v7.0.0, False, 1, 0, 1, 0, 0
+42094, newrelic, v6.14.0, False, 1, 0, 1, 0, 0
+42095, newrelic, v6.13.2, False, 1, 0, 1, 0, 0
+42096, newrelic, v6.13.1, False, 1, 0, 1, 0, 0
+42097, newrelic, v6.13.0, False, 1, 0, 1, 0, 0
+42098, newrelic, v6.12.1, False, 1, 0, 1, 0, 0
+42099, newrelic, v6.12.0, False, 1, 0, 1, 0, 0
+42100, newrelic, v6.11.0, False, 1, 0, 1, 0, 0
+42101, newrelic, v6.10.0, False, 1, 0, 1, 0, 0
+42102, newrelic, v6.9.0, False, 1, 0, 1, 0, 0
+42103, eslint-formatter-pretty, v4.1.0, True
+42104, eslint-formatter-pretty, v4.0.0, True
+42105, eslint-formatter-pretty, v3.0.1, True
+42106, eslint-formatter-pretty, v3.0.0, True
+42107, eslint-formatter-pretty, v2.1.0, False, 1, 0, 1, 0, 0
+42108, eslint-formatter-pretty, v2.0.0, False, 1, 0, 1, 0, 0
+42109, @types/react-native, 0.1.450, True
+42110, rc-dropdown, v3.2.0, True
+42111, rc-dropdown, v3.1.3, True
+42112, rc-dropdown, v3.1.2, True
+42113, rc-dropdown, v3.1.1, True
+42114, rc-dropdown, v3.1.0, True
+42115, rc-dropdown, v3.0.2, True
+42116, rc-dropdown, v3.0.1, True
+42117, rc-dropdown, v3.0.0, True
+42118, rc-dropdown, v3.0.0-alpha.0, True
+42119, lodash.indexof, 4.0.0, True
+42120, lodash.indexof, 3.0.0, True
+42121, accept, v2.1.3, True
+42122, accept, v2.1.1, True
+42123, accept, v2.1.0, False, 1, 0, 0, 1, 0
+42124, documentation, v13.2.5, False, 2, 0, 1, 1, 0
+42125, documentation, v13.2.4, False, 2, 0, 1, 1, 0
+42126, documentation, v13.2.3, False, 2, 0, 1, 1, 0
+42127, documentation, v6.2.0, False, 351, 1, 345, 5, 0
+42128, documentation, v6.1.0, False, 351, 1, 345, 5, 0
+42129, documentation, v6.0.0, False, 351, 1, 345, 5, 0
+42130, documentation, v5.5.0, False, 351, 1, 345, 5, 0
+42131, documentation, v4.0.0-beta.18, False, 13, 1, 3, 6, 3
+42132, documentation, v4.0.0-beta15, False, 40, 2, 18, 13, 7
+42133, documentation, v4.0.0-beta14, False, 19, 1, 5, 6, 7
+42134, documentation, v4.0.0-beta5, False, 22, 1, 5, 8, 8
+42135, documentation, v4.0.0-beta4, False, 22, 1, 5, 8, 8
+42136, documentation, v4.0.0-beta3, False, 22, 1, 5, 8, 8
+42137, documentation, v4.0.0-beta2, False, 37, 1, 8, 18, 10
+42138, documentation, v4.0.0-beta1, False, 37, 1, 8, 18, 10
+42139, documentation, v4.0.0-beta, False, 91, 6, 40, 36, 9
+42140, documentation, v3.0.4, False, 72, 5, 36, 29, 2
+42141, documentation, v3.0.0, False, 72, 5, 36, 29, 2
+42142, @types/websql, 0.1.450, True
+42143, monk, v7.3.2, True
+42144, monk, v7.3.1, True
+42145, monk, v7.3.0, True
+42146, monk, v7.2.0, True
+42147, monk, v7.1.1, True
+42148, monk, v7.1.0, True
+42149, monk, v7.0.0, True
+42150, monk, v6.0.0, False, 2, 0, 2, 0, 0
+42151, monk, v5.0.2, False, 2, 0, 2, 0, 0
+42152, monk, v5.0.1, False, 2, 0, 2, 0, 0
+42153, monk, v5.0.0, False, 2, 0, 2, 0, 0
+42154, monk, v4.1.0, False, 2, 0, 2, 0, 0
+42155, monk, v4.0.0, False, 2, 0, 2, 0, 0
+42156, monk, v3.1.4, False, 2, 0, 2, 0, 0
+42157, monk, v3.1.2, False, 2, 0, 2, 0, 0
+42158, monk, v3.1.1, False, 2, 0, 2, 0, 0
+42159, monk, v3.1.0, False, 2, 0, 2, 0, 0
+42160, monk, v3.0.7, False, 2, 0, 2, 0, 0
+42161, monk, v3.0.6, False, 2, 0, 2, 0, 0
+42162, monk, v3.0.5, False, 2, 0, 2, 0, 0
+42163, monk, v3.0.4, False, 2, 0, 2, 0, 0
+42164, monk, v3.0.3, False, 2, 0, 2, 0, 0
+42165, monk, v3.0.2, False, 2, 0, 2, 0, 0
+42166, monk, v3.0.1, False, 2, 0, 2, 0, 0
+42167, monk, v3.0.0, False, 2, 0, 2, 0, 0
+42168, monk, v2.1.0, False, 2, 0, 2, 0, 0
+42169, monk, v2.0.0, False, 2, 0, 2, 0, 0
+42170, immutability-helper, v3.1.1, True
+42171, immutability-helper, v3.0.2, True
+42172, immutability-helper, v3.0.1, True
+42173, immutability-helper, v3.0.0, True
+42174, immutability-helper, v2.9.1, True
+42175, immutability-helper, v2.9.0, True
+42176, immutability-helper, v2.8.1, True
+42177, immutability-helper, v2.8.0, True
+42178, immutability-helper, v2.7.2, True
+42179, immutability-helper, v2.7.1, True
+42180, immutability-helper, v2.7.0, True
+42181, immutability-helper, v2.6.6, True
+42182, immutability-helper, v2.6.5, True
+42183, immutability-helper, v2.6.3, True
+42184, immutability-helper, v2.6.1, True
+42185, immutability-helper, v2.6.0, True
+42186, immutability-helper, v2.5.1, True
+42187, immutability-helper, v2.5.0, True
+42188, immutability-helper, v2.4.0, True
+42189, immutability-helper, v2.3.1, True
+42190, immutability-helper, v2.3.0, True
+42191, immutability-helper, v2.2.3, True
+42192, immutability-helper, v2.2.2, True
+42193, immutability-helper, v2.2.1, True
+42194, immutability-helper, v2.2.0, True
+42195, immutability-helper, v2.1.2, True
+42196, immutability-helper, v2.1.1, True
+42197, immutability-helper, v2.0.0, True
+42198, immutability-helper, v2.1.0, True
+42199, immutability-helper, v1.0.0, True
+42200, lodash._baseeach, 4.0.0, True
+42201, lodash._baseeach, 3.0.0, True
+42202, async-settle, v0.2.1, True
+42203, async-settle, v0.1.0, True
+42204, async-settle, v1.0.0, True
+42205, async-settle, v0.2.0, True
+42206, @babel/runtime-corejs3, v7.16.2, True
+42207, @babel/runtime-corejs3, v7.16.1, True
+42208, @babel/runtime-corejs3, v7.16.0, True
+42209, @babel/runtime-corejs3, v7.15.8, True
+42210, @babel/runtime-corejs3, v7.15.7, True
+42211, @babel/runtime-corejs3, v7.15.6, True
+42212, @babel/runtime-corejs3, v7.15.5, True
+42213, @babel/runtime-corejs3, v7.15.4, True
+42214, @babel/runtime-corejs3, v7.15.3, True
+42215, @babel/runtime-corejs3, v7.15.2, True
+42216, @babel/runtime-corejs3, v7.15.1, True
+42217, @babel/runtime-corejs3, v7.15.0, True
+42218, @babel/runtime-corejs3, v7.14.9, True
+42219, @babel/runtime-corejs3, v7.14.8, True
+42220, @babel/runtime-corejs3, v7.14.7, True
+42221, @babel/runtime-corejs3, v7.14.6, True
+42222, @babel/runtime-corejs3, v7.14.5, True
+42223, @babel/runtime-corejs3, v7.14.4, True
+42224, @babel/runtime-corejs3, v7.14.3, True
+42225, @babel/runtime-corejs3, v7.14.2, True
+42226, @babel/runtime-corejs3, v7.14.1, True
+42227, @babel/runtime-corejs3, v7.14.0, True
+42228, @babel/runtime-corejs3, v7.13.17, True
+42229, @babel/runtime-corejs3, v7.13.16, True
+42230, @babel/runtime-corejs3, v7.13.15, True
+42231, @babel/runtime-corejs3, v7.13.14, True
+42232, @babel/runtime-corejs3, v7.13.13, True
+42233, @babel/runtime-corejs3, v7.13.12, True
+42234, @babel/runtime-corejs3, v7.13.11, True
+42235, @babel/runtime-corejs3, v7.13.10, True
+42236, @types/uuid-js, 0.1.450, True
+42237, @types/lodash.zipobject, 0.1.450, True
+42238, xmlcreate, v2.0.4, True
+42239, xmlcreate, v2.0.3, True
+42240, xmlcreate, v2.0.2, True
+42241, xmlcreate, v2.0.1, True
+42242, xmlcreate, v2.0.0, True
+42243, xmlcreate, v1.0.2, True
+42244, xmlcreate, v1.0.1, True
+42245, xmlcreate, v1.0.0, True
+42246, xmlcreate, v0.1.1, True
+42247, xmlcreate, v0.1.0, True
+42248, google-proto-files, v2.5.0, True
+42249, google-proto-files, v2.4.1, True
+42250, google-proto-files, v2.4.0, True
+42251, google-proto-files, v2.3.0, True
+42252, google-proto-files, v2.2.0, True
+42253, google-proto-files, v2.1.1, True
+42254, google-proto-files, v2.1.0, True
+42255, google-proto-files, v2.0.0, True
+42256, google-proto-files, v1.1.2, True
+42257, google-proto-files, v1.1.1, True
+42258, google-proto-files, v1.1.0, True
+42259, google-proto-files, v1.0.3, True
+42260, google-proto-files, v1.0.2, True
+42261, google-proto-files, v1.0.1, True
+42262, google-proto-files, v1.0.0, True
+42263, google-proto-files, v0.20.0, True
+42264, google-proto-files, v0.19.0, True
+42265, google-proto-files, v0.18.0, True
+42266, google-proto-files, v0.17.0, False, 1, 0, 0, 1, 0
+42267, google-proto-files, v0.16.1, False, 1, 0, 0, 1, 0
+42268, google-proto-files, v0.16.0, False, 1, 0, 0, 1, 0
+42269, google-proto-files, v0.15.1, True
+42270, google-proto-files, v0.15.0, True
+42271, google-proto-files, v0.14.2, True
+42272, graphql-anywhere, v3.4.0, True
+42273, graphql-anywhere, v3.3.0, True
+42274, graphql-anywhere, v3.2.0, True
+42275, graphql-anywhere, v3.1.0, True
+42276, graphql-anywhere, v3.0.0, True
+42277, graphql-anywhere, v3.0.0-rc.0, True
+42278, graphql-anywhere, v2.6.8, True
+42279, native-base, v3.2.2-rc.3, True
+42280, native-base, v3.2.2-rc.2, True
+42281, native-base, v3.2.2-rc.1, True
+42282, native-base, v3.2.1, True
+42283, native-base, v3.2.1-rc.5, True
+42284, native-base, v3.2.1-rc.4, True
+42285, native-base, v3.2.1-rc.3, True
+42286, native-base, v3.2.1-rc.2, True
+42287, native-base, v3.2.1-rc.1, True
+42288, native-base, v3.2.1-rc.0, True
+42289, native-base, v3.2.0, True
+42290, native-base, v3.2.0-alpha.4, True
+42291, native-base, v3.2.0-rc.0, True
+42292, native-base, v3.2.0-alpha.3, True
+42293, native-base, v3.2.0-alpha.2, True
+42294, native-base, v3.2.0-alpha.1, True
+42295, native-base, v3.2.0-alpha.0, True
+42296, native-base, v3.1.0, True
+42297, native-base, v3.1.0-rc.1, True
+42298, native-base, v3.0.7, True
+42299, native-base, v3.0.6, True
+42300, native-base, v3.0.5, True
+42301, native-base, v3.0.4, True
+42302, native-base, v3.0.3, True
+42303, native-base, v3.0.2, True
+42304, native-base, v3.0.1, True
+42305, native-base, v3.0.0, True
+42306, native-base, v3.0.0-next.40, True
+42307, native-base, v3.0.0-next.38, True
+42308, native-base, v3.0.0-next.37, True
+42309, ghooks, v1.3.2, True
+42310, ghooks, v1.3.1, True
+42311, ghooks, v1.3.0, False, 1, 0, 0, 0, 1
+42312, ghooks, v1.2.4, False, 1, 0, 0, 0, 1
+42313, ghooks, v1.2.3, False, 1, 0, 0, 0, 1
+42314, ghooks, v1.2.2, False, 1, 0, 0, 0, 1
+42315, ghooks, v1.2.1, False, 1, 0, 0, 0, 1
+42316, ghooks, v1.2.0, False, 1, 0, 0, 0, 1
+42317, ghooks, v1.1.1, False, 1, 0, 0, 0, 1
+42318, ghooks, v1.1.0, False, 1, 0, 0, 0, 1
+42319, ghooks, v1.0.3, True
+42320, ghooks, v1.0.2, True
+42321, should-equal, 2.0.0, True
+42322, lodash._pickbyarray, 4.0.0, True
+42323, lodash._pickbyarray, 3.0.0, True
+42324, karma-browserstack-launcher, v1.6.0, True
+42325, karma-browserstack-launcher, v1.5.0, True
+42326, karma-browserstack-launcher, v1.5.1, True
+42327, karma-browserstack-launcher, v1.3.0, False, 2, 0, 1, 1, 0
+42328, karma-browserstack-launcher, v1.2.0, False, 3, 0, 2, 1, 0
+42329, karma-browserstack-launcher, v1.1.0, False, 3, 0, 2, 1, 0
+42330, karma-browserstack-launcher, v1.0.1, False, 3, 0, 2, 1, 0
+42331, karma-browserstack-launcher, v1.0.0, False, 1, 0, 1, 0, 0
+42332, karma-browserstack-launcher, v0.1.10, False, 1, 0, 1, 0, 0
+42333, karma-browserstack-launcher, v0.1.9, False, 1, 0, 1, 0, 0
+42334, karma-browserstack-launcher, v0.1.8, False, 1, 0, 1, 0, 0
+42335, karma-browserstack-launcher, v0.1.7, False, 1, 0, 1, 0, 0
+42336, karma-browserstack-launcher, v0.1.6, False, 1, 0, 1, 0, 0
+42337, karma-browserstack-launcher, v0.1.5, False, 1, 0, 1, 0, 0
+42338, karma-browserstack-launcher, v0.0.2, False, 1, 0, 1, 0, 0
+42339, karma-browserstack-launcher, v0.0.5, False, 1, 0, 1, 0, 0
+42340, karma-browserstack-launcher, v0.0.6, True
+42341, karma-browserstack-launcher, v0.0.4, False, 1, 0, 1, 0, 0
+42342, karma-browserstack-launcher, v0.0.8, True
+42343, karma-browserstack-launcher, v0.1.2, False, 1, 0, 1, 0, 0
+42344, karma-browserstack-launcher, v0.1.0, False, 1, 0, 1, 0, 0
+42345, karma-browserstack-launcher, v0.0.3, False, 1, 0, 1, 0, 0
+42346, karma-browserstack-launcher, v0.1.1, False, 1, 0, 1, 0, 0
+42347, karma-browserstack-launcher, v0.0.7, True
+42348, karma-browserstack-launcher, v0.1.3, False, 1, 0, 1, 0, 0
+42349, rw, v1.3.3, True
+42350, rw, v1.3.2, True
+42351, rw, v1.3.1, True
+42352, rw, v1.3.0, True
+42353, rw, v1.1.1, True
+42354, rw, v1.0.0, True
+42355, rw, v1.1.0, True
+42356, lodash._pickbycallback, 4.0.0, True
+42357, lodash._pickbycallback, 3.0.0, True
+42358, d3-dsv, v3.0.1, True
+42359, d3-dsv, v3.0.0, True
+42360, d3-dsv, v2.0.0, True
+42361, d3-dsv, v1.2.0, True
+42362, d3-dsv, v1.1.2, True
+42363, d3-dsv, v1.1.1, True
+42364, d3-dsv, v1.1.0, True
+42365, d3-dsv, v1.0.10, True
+42366, d3-dsv, v1.0.9, True
+42367, d3-dsv, v1.0.8, True
+42368, d3-dsv, v1.0.7, True
+42369, d3-dsv, v1.0.6, True
+42370, d3-dsv, v1.0.5, True
+42371, d3-dsv, v1.0.4, True
+42372, d3-dsv, v1.0.3, True
+42373, d3-dsv, v1.0.2, True
+42374, d3-dsv, v1.0.1, True
+42375, d3-dsv, v1.0.0, True
+42376, d3-dsv, v0.4.0, True
+42377, d3-dsv, v0.3.2, True
+42378, d3-dsv, v0.3.1, True
+42379, d3-dsv, v0.3.0, True
+42380, d3-dsv, v0.2.0, True
+42381, d3-dsv, v0.1.14, True
+42382, d3-dsv, v0.1.13, True
+42383, d3-dsv, v0.1.12, True
+42384, d3-dsv, v0.1.11, True
+42385, d3-dsv, v0.1.10, True
+42386, d3-dsv, v0.1.9, True
+42387, d3-dsv, v0.1.8, True
+42388, @types/accepts, 0.1.450, True
+42389, ethereumjs-tx, v2.1.2, True
+42390, ethereumjs-tx, v2.1.1, True
+42391, ethereumjs-tx, v2.1.0, True
+42392, ethereumjs-tx, v2.0.0, True
+42393, ethereumjs-tx, v1.3.7, True
+42394, ethereumjs-tx, v1.3.6, True
+42395, ethereumjs-tx, v1.3.5, True
+42396, ethereumjs-tx, v1.3.4, True
+42397, ethereumjs-tx, v1.3.3, True
+42398, string.prototype.repeat, v1.0.0, True
+42399, karma-tap, v4.2.0, True
+42400, karma-tap, v4.1.4, True
+42401, karma-tap, v3.2.1, True
+42402, karma-tap, v4.1.3, True
+42403, karma-tap, v4.1.0, True
+42404, karma-tap, v4.0.0, True
+42405, karma-tap, v3.1.1, True
+42406, karma-tap, v3.0.1, True
+42407, karma-tap, v2.1.4, True
+42408, gulp-csscomb, v3.1.0, False, 5, 0, 4, 1, 0
+42409, gulp-csscomb, v3.0.3, False, 6, 0, 5, 1, 0
+42410, gulp-csscomb, v3.0.0-2, False, 7, 0, 6, 1, 0
+42411, gulp-csscomb, v3.0.0, False, 7, 0, 6, 1, 0
+42412, gulp-csscomb, v3.0.0-1, False, 7, 0, 6, 1, 0
+42413, gulp-csscomb, v0.2.0, False, 7, 0, 6, 1, 0
+42414, intl-messageformat-parser, react-intl@5.21.0, error, Couldn't find the requested package or version
+42415, intl-messageformat-parser, @formatjs/icu-skeleton-parser@1.3.1, error, Couldn't find the requested package or version
+42416, intl-messageformat-parser, @formatjs/icu-messageformat-parser@2.0.14, error, Couldn't find the requested package or version
+42417, intl-messageformat-parser, @formatjs/intl@1.15.0, error, Couldn't find the requested package or version
+42418, intl-messageformat-parser, intl-messageformat@9.9.4, error, Couldn't find the requested package or version
+42419, intl-messageformat-parser, babel-plugin-formatjs@10.3.11, error, Couldn't find the requested package or version
+42420, intl-messageformat-parser, @formatjs/ts-transformer@3.6.0, error, Couldn't find the requested package or version
+42421, intl-messageformat-parser, @formatjs/intl-getcanonicallocales@1.8.0, error, Couldn't find the requested package or version
+42422, intl-messageformat-parser, vue-intl@6.0.14, error, Couldn't find the requested package or version
+42423, intl-messageformat-parser, @formatjs/editor@1.1.33, error, Couldn't find the requested package or version
+42424, intl-messageformat-parser, @formatjs/cli@4.4.0, error, Couldn't find the requested package or version
+42425, intl-messageformat-parser, @formatjs/intl-locale@2.4.40, error, Couldn't find the requested package or version
+42426, intl-messageformat-parser, eslint-plugin-formatjs@2.18.0, error, Couldn't find the requested package or version
+42427, intl-messageformat-parser, @formatjs/intl-pluralrules@4.1.5, error, Couldn't find the requested package or version
+42428, intl-messageformat-parser, @formatjs/intl@1.14.3, error, Couldn't find the requested package or version
+42429, intl-messageformat-parser, @formatjs/intl-displaynames@5.2.5, error, Couldn't find the requested package or version
+42430, intl-messageformat-parser, @formatjs/cli@4.3.2, error, Couldn't find the requested package or version
+42431, intl-messageformat-parser, @formatjs/icu-skeleton-parser@1.3.0, error, Couldn't find the requested package or version
+42432, intl-messageformat-parser, eslint-plugin-formatjs@2.17.9, error, Couldn't find the requested package or version
+42433, intl-messageformat-parser, @formatjs/ecma402-abstract@1.10.0, error, Couldn't find the requested package or version
+42434, intl-messageformat-parser, @formatjs/editor@1.1.32, error, Couldn't find the requested package or version
+42435, intl-messageformat-parser, @formatjs/intl-numberformat@7.2.5, error, Couldn't find the requested package or version
+42436, intl-messageformat-parser, intl-messageformat@9.9.3, error, Couldn't find the requested package or version
+42437, intl-messageformat-parser, react-intl@5.20.13, error, Couldn't find the requested package or version
+42438, intl-messageformat-parser, @formatjs/intl-listformat@6.3.5, error, Couldn't find the requested package or version
+42439, intl-messageformat-parser, @formatjs/icu-messageformat-parser@2.0.13, error, Couldn't find the requested package or version
+42440, intl-messageformat-parser, vue-intl@6.0.13, error, Couldn't find the requested package or version
+42441, intl-messageformat-parser, @formatjs/intl-datetimeformat@4.2.5, error, Couldn't find the requested package or version
+42442, intl-messageformat-parser, @formatjs/ts-transformer@3.5.1, error, Couldn't find the requested package or version
+42443, intl-messageformat-parser, babel-plugin-formatjs@10.3.10, error, Couldn't find the requested package or version
+42444, angular-ui-bootstrap, 2.5.6, True
+42445, angular-ui-bootstrap, 2.5.4, True
+42446, angular-ui-bootstrap, 2.5.3, True
+42447, angular-ui-bootstrap, 2.5.2, True
+42448, angular-ui-bootstrap, 2.5.1, True
+42449, lodash._basecallback, 4.0.0, True
+42450, lodash._basecallback, 3.0.0, True
+42451, d3-voronoi, v1.1.4, True
+42452, d3-voronoi, v1.1.3, True
+42453, d3-voronoi, v1.1.2, True
+42454, d3-voronoi, v1.1.1, True
+42455, d3-voronoi, v1.1.0, True
+42456, d3-voronoi, v1.0.2, True
+42457, d3-voronoi, v1.0.1, True
+42458, d3-voronoi, v1.0.0, True
+42459, d3-voronoi, v0.4.0, True
+42460, d3-voronoi, v0.3.3, True
+42461, d3-voronoi, v0.3.2, True
+42462, d3-voronoi, v0.3.0, True
+42463, d3-voronoi, v0.3.1, True
+42464, d3-voronoi, v0.2.1, True
+42465, d3-voronoi, v0.2.0, True
+42466, d3-voronoi, v0.1.0, True
+42467, d3-voronoi, v0.0.3, True
+42468, d3-voronoi, v0.0.2, True
+42469, d3-voronoi, v0.0.1, True
+42470, eslint-plugin-ava, v13.1.0, True
+42471, eslint-plugin-ava, v13.0.0, True
+42472, eslint-plugin-ava, v12.0.0, True
+42473, eslint-plugin-ava, v11.0.0, True
+42474, eslint-plugin-ava, v10.5.0, True
+42475, eslint-plugin-ava, v10.4.0, True
+42476, eslint-plugin-ava, v10.3.1, True
+42477, eslint-plugin-ava, v10.3.0, True
+42478, eslint-plugin-ava, v10.2.0, True
+42479, eslint-plugin-ava, v10.1.0, True
+42480, eslint-plugin-ava, v10.0.1, True
+42481, eslint-plugin-ava, v10.0.0, True
+42482, eslint-plugin-ava, v9.0.0, True
+42483, eslint-plugin-ava, v8.0.0, True
+42484, eslint-plugin-ava, v7.1.0, True
+42485, eslint-plugin-ava, v7.0.0, True
+42486, eslint-plugin-ava, v7.0.0-rc.1, True
+42487, gaxios, v4.3.2, True
+42488, gaxios, v4.3.1, True
+42489, gaxios, v4.3.0, True
+42490, gaxios, v4.2.1, True
+42491, gaxios, v4.2.0, True
+42492, gaxios, v4.1.0, True
+42493, gaxios, v4.0.1, True
+42494, gaxios, v4.0.0, True
+42495, gaxios, v3.2.0, True
+42496, gaxios, v3.1.0, True
+42497, gaxios, v3.0.4, True
+42498, gaxios, v3.0.3, True
+42499, gaxios, v3.0.2, True
+42500, gaxios, v3.0.1, True
+42501, gaxios, v3.0.0, True
+42502, gaxios, v2.3.2, True
+42503, gaxios, v2.3.1, True
+42504, gaxios, v2.3.0, True
+42505, gaxios, v2.2.2, True
+42506, gaxios, v2.2.1, True
+42507, gaxios, v2.2.0, True
+42508, gaxios, v2.1.1, True
+42509, gaxios, v2.1.0, True
+42510, gaxios, v2.0.3, True
+42511, gaxios, v2.0.2, True
+42512, gaxios, v2.0.1, True
+42513, gaxios, v2.0.0, True
+42514, gaxios, v1.8.4, True
+42515, gaxios, v1.8.3, True
+42516, gaxios, v1.8.2, True
+42517, angular-material, v1.2.3, True
+42518, angular-material, v1.2.2, True
+42519, angular-material, v1.2.1, True
+42520, angular-material, v1.1.26, True
+42521, angular-material, v1.1.25, True
+42522, angular-material, v1.2.0, True
+42523, angular-material, v1.2.0-rc.2, True
+42524, angular-material, v1.2.0-rc.1, True
+42525, angular-material, v1.1.24, True
+42526, angular-material, v1.1.23, True
+42527, angular-material, v1.1.22, True
+42528, angular-material, v1.1.22-rc.0, True
+42529, angular-material, v0.6.0, True
+42530, angular-material, v0.4, True
+42531, @lerna/get-packed, v4.0.0, True
+42532, @lerna/get-packed, v3.22.1, True
+42533, @lerna/get-packed, v3.22.0, True
+42534, @lerna/get-packed, v3.21.0, True
+42535, @lerna/get-packed, v3.20.2, True
+42536, @lerna/get-packed, v3.20.1, True
+42537, @lerna/get-packed, v3.20.0, True
+42538, @lerna/get-packed, v3.19.0, True
+42539, @lerna/get-packed, v3.18.5, True
+42540, @lerna/get-packed, v3.18.4, True
+42541, @lerna/get-packed, v3.18.3, True
+42542, @lerna/get-packed, v3.18.2, True
+42543, @lerna/get-packed, v3.18.1, True
+42544, @lerna/get-packed, v3.18.0, True
+42545, @lerna/get-packed, v3.17.0, True
+42546, @lerna/get-packed, v3.16.5, True
+42547, @lerna/get-packed, v3.16.4, True
+42548, @lerna/get-packed, v3.16.3, True
+42549, @lerna/get-packed, v3.16.2, True
+42550, @lerna/get-packed, v3.16.1, True
+42551, @lerna/get-packed, v3.16.0, True
+42552, @lerna/get-packed, v3.15.0, True
+42553, @lerna/get-packed, v3.14.2, True
+42554, @lerna/get-packed, v3.14.1, True
+42555, @lerna/get-packed, v3.14.0, True
+42556, @lerna/get-packed, v3.13.4, True
+42557, @lerna/get-packed, v3.13.3, True
+42558, @lerna/get-packed, v3.13.2, True
+42559, @lerna/get-packed, v3.13.1, True
+42560, @lerna/get-packed, v3.13.0, True
+42561, @lerna/pack-directory, v4.0.0, True
+42562, @lerna/pack-directory, v3.22.1, True
+42563, @lerna/pack-directory, v3.22.0, True
+42564, @lerna/pack-directory, v3.21.0, True
+42565, @lerna/pack-directory, v3.20.2, True
+42566, @lerna/pack-directory, v3.20.1, True
+42567, @lerna/pack-directory, v3.20.0, True
+42568, @lerna/pack-directory, v3.19.0, True
+42569, @lerna/pack-directory, v3.18.5, True
+42570, @lerna/pack-directory, v3.18.4, True
+42571, @lerna/pack-directory, v3.18.3, True
+42572, @lerna/pack-directory, v3.18.2, True
+42573, @lerna/pack-directory, v3.18.1, True
+42574, @lerna/pack-directory, v3.18.0, True
+42575, @lerna/pack-directory, v3.17.0, True
+42576, @lerna/pack-directory, v3.16.5, True
+42577, @lerna/pack-directory, v3.16.4, True
+42578, @lerna/pack-directory, v3.16.3, True
+42579, @lerna/pack-directory, v3.16.2, True
+42580, @lerna/pack-directory, v3.16.1, True
+42581, @lerna/pack-directory, v3.16.0, True
+42582, @lerna/pack-directory, v3.15.0, True
+42583, @lerna/pack-directory, v3.14.2, True
+42584, @lerna/pack-directory, v3.14.1, True
+42585, @lerna/pack-directory, v3.14.0, True
+42586, @lerna/pack-directory, v3.13.4, True
+42587, @lerna/pack-directory, v3.13.3, True
+42588, @lerna/pack-directory, v3.13.2, True
+42589, @lerna/pack-directory, v3.13.1, True
+42590, @lerna/pack-directory, v3.13.0, True
+42591, @lerna/pulse-till-done, v4.0.0, True
+42592, @lerna/pulse-till-done, v3.22.1, True
+42593, @lerna/pulse-till-done, v3.22.0, True
+42594, @lerna/pulse-till-done, v3.21.0, True
+42595, @lerna/pulse-till-done, v3.20.2, True
+42596, @lerna/pulse-till-done, v3.20.1, True
+42597, @lerna/pulse-till-done, v3.20.0, True
+42598, @lerna/pulse-till-done, v3.19.0, True
+42599, @lerna/pulse-till-done, v3.18.5, True
+42600, @lerna/pulse-till-done, v3.18.4, True
+42601, @lerna/pulse-till-done, v3.18.3, True
+42602, @lerna/pulse-till-done, v3.18.2, True
+42603, @lerna/pulse-till-done, v3.18.1, True
+42604, @lerna/pulse-till-done, v3.18.0, True
+42605, @lerna/pulse-till-done, v3.17.0, True
+42606, @lerna/pulse-till-done, v3.16.5, True
+42607, @lerna/pulse-till-done, v3.16.4, True
+42608, @lerna/pulse-till-done, v3.16.3, True
+42609, @lerna/pulse-till-done, v3.16.2, True
+42610, @lerna/pulse-till-done, v3.16.1, True
+42611, @lerna/pulse-till-done, v3.16.0, True
+42612, @lerna/pulse-till-done, v3.15.0, True
+42613, @lerna/pulse-till-done, v3.14.2, True
+42614, @lerna/pulse-till-done, v3.14.1, True
+42615, @lerna/pulse-till-done, v3.14.0, True
+42616, @lerna/pulse-till-done, v3.13.4, True
+42617, @lerna/pulse-till-done, v3.13.3, True
+42618, @lerna/pulse-till-done, v3.13.2, True
+42619, @lerna/pulse-till-done, v3.13.1, True
+42620, @lerna/pulse-till-done, v3.13.0, True
+42621, bmp-js, 0.1.0, True
+42622, bmp-js, 0.0.3, True
+42623, auth0, v2.37.0, True
+42624, auth0, v2.36.2, True
+42625, auth0, v2.36.1, True
+42626, auth0, v2.36.0, True
+42627, auth0, v2.35.1, True
+42628, auth0, v2.35.0, True
+42629, auth0, v2.34.2, True
+42630, auth0, v2.34.1, True
+42631, auth0, v2.34.0, True
+42632, auth0, v2.33.0, True
+42633, auth0, v2.32.0, True
+42634, auth0, v2.31.1, True
+42635, auth0, v2.31.0, False, 2, 0, 1, 1, 0
+42636, auth0, v2.30.0, False, 2, 0, 1, 1, 0
+42637, auth0, v2.29.0, False, 2, 0, 1, 1, 0
+42638, auth0, v2.28.0, False, 2, 0, 1, 1, 0
+42639, auth0, v2.27.1, False, 2, 0, 1, 1, 0
+42640, auth0, v2.27.0, False, 3, 0, 1, 2, 0
+42641, auth0, v2.26.0, False, 3, 0, 1, 2, 0
+42642, auth0, v2.25.0, False, 3, 0, 1, 2, 0
+42643, auth0, v2.24.0, False, 1, 0, 0, 1, 0
+42644, auth0, v2.23.0, False, 1, 0, 0, 1, 0
+42645, auth0, v2.22.0, False, 1, 0, 0, 1, 0
+42646, auth0, v2.21.0, False, 1, 0, 0, 1, 0
+42647, auth0, v2.20.0, False, 1, 0, 0, 1, 0
+42648, auth0, v2.19.0, False, 1, 0, 0, 1, 0
+42649, auth0, v2.18.1, False, 1, 0, 0, 1, 0
+42650, auth0, v2.18.0, False, 1, 0, 0, 1, 0
+42651, auth0, v2.17.1, False, 1, 0, 0, 1, 0
+42652, auth0, v2.16.0, False, 1, 0, 0, 1, 0
+42653, postcss-normalize, 10.0.0, True
+42654, postcss-normalize, 9.0.0, True
+42655, rc-checkbox, v2.3.2, True
+42656, rc-checkbox, v2.3.1, True
+42657, rc-checkbox, v2.3.0, True
+42658, jest-serializer-vue, v2.0.2, True
+42659, jest-serializer-vue, v2.0.1, True
+42660, jest-serializer-vue, v2.0.0, True
+42661, jest-serializer-vue, v1.0.0, True
+42662, lodash.pairs, 4.0.0, True
+42663, lodash.pairs, 3.0.0, True
+42664, prettier-eslint, v13.0.0, False, 1, 0, 1, 0, 0
+42665, prettier-eslint, v12.0.0, False, 1, 0, 1, 0, 0
+42666, prettier-eslint, v11.0.0, False, 3, 0, 3, 0, 0
+42667, prettier-eslint, v10.1.1, False, 3, 0, 3, 0, 0
+42668, prettier-eslint, v10.1.0, False, 3, 0, 3, 0, 0
+42669, prettier-eslint, v10.0.0, False, 5, 0, 5, 0, 0
+42670, prettier-eslint, v9.0.2, False, 5, 0, 5, 0, 0
+42671, prettier-eslint, v9.0.1, False, 5, 0, 5, 0, 0
+42672, prettier-eslint, v9.0.0, False, 5, 0, 5, 0, 0
+42673, prettier-eslint, v8.8.2, False, 7, 0, 7, 0, 0
+42674, prettier-eslint, v8.8.1, False, 7, 0, 7, 0, 0
+42675, prettier-eslint, v8.8.0, False, 7, 0, 7, 0, 0
+42676, prettier-eslint, v8.7.6, False, 7, 0, 7, 0, 0
+42677, prettier-eslint, v8.7.5, False, 7, 0, 7, 0, 0
+42678, prettier-eslint, v8.7.4, False, 7, 0, 7, 0, 0
+42679, prettier-eslint, v8.7.3, False, 7, 0, 7, 0, 0
+42680, prettier-eslint, v8.7.2, False, 7, 0, 7, 0, 0
+42681, prettier-eslint, v8.7.1, False, 7, 0, 7, 0, 0
+42682, prettier-eslint, v8.7.0, False, 7, 0, 7, 0, 0
+42683, prettier-eslint, v8.6.2, False, 7, 0, 7, 0, 0
+42684, prettier-eslint, v8.6.1, False, 7, 0, 7, 0, 0
+42685, prettier-eslint, v8.6.0, False, 7, 0, 7, 0, 0
+42686, prettier-eslint, v8.5.0, False, 7, 0, 7, 0, 0
+42687, prettier-eslint, v8.4.0, False, 7, 0, 7, 0, 0
+42688, prettier-eslint, v8.3.1, False, 7, 0, 7, 0, 0
+42689, prettier-eslint, v8.3.0, False, 7, 0, 7, 0, 0
+42690, prettier-eslint, v8.2.6, False, 7, 0, 7, 0, 0
+42691, prettier-eslint, v8.2.5, False, 7, 0, 7, 0, 0
+42692, prettier-eslint, v8.2.4, False, 7, 0, 7, 0, 0
+42693, prettier-eslint, v8.2.3, False, 7, 0, 7, 0, 0
+42694, babel-plugin-react-intl, react-intl@5.21.0, error, Couldn't find the requested package or version
+42695, babel-plugin-react-intl, @formatjs/icu-skeleton-parser@1.3.1, error, Couldn't find the requested package or version
+42696, babel-plugin-react-intl, @formatjs/icu-messageformat-parser@2.0.14, error, Couldn't find the requested package or version
+42697, babel-plugin-react-intl, @formatjs/intl@1.15.0, error, Couldn't find the requested package or version
+42698, babel-plugin-react-intl, intl-messageformat@9.9.4, error, Couldn't find the requested package or version
+42699, babel-plugin-react-intl, babel-plugin-formatjs@10.3.11, error, Couldn't find the requested package or version
+42700, babel-plugin-react-intl, @formatjs/ts-transformer@3.6.0, error, Couldn't find the requested package or version
+42701, babel-plugin-react-intl, @formatjs/intl-getcanonicallocales@1.8.0, error, Couldn't find the requested package or version
+42702, babel-plugin-react-intl, vue-intl@6.0.14, error, Couldn't find the requested package or version
+42703, babel-plugin-react-intl, @formatjs/editor@1.1.33, error, Couldn't find the requested package or version
+42704, babel-plugin-react-intl, @formatjs/cli@4.4.0, error, Couldn't find the requested package or version
+42705, babel-plugin-react-intl, @formatjs/intl-locale@2.4.40, error, Couldn't find the requested package or version
+42706, babel-plugin-react-intl, eslint-plugin-formatjs@2.18.0, error, Couldn't find the requested package or version
+42707, babel-plugin-react-intl, @formatjs/intl-pluralrules@4.1.5, error, Couldn't find the requested package or version
+42708, babel-plugin-react-intl, @formatjs/intl@1.14.3, error, Couldn't find the requested package or version
+42709, babel-plugin-react-intl, @formatjs/intl-displaynames@5.2.5, error, Couldn't find the requested package or version
+42710, babel-plugin-react-intl, @formatjs/cli@4.3.2, error, Couldn't find the requested package or version
+42711, babel-plugin-react-intl, @formatjs/icu-skeleton-parser@1.3.0, error, Couldn't find the requested package or version
+42712, babel-plugin-react-intl, eslint-plugin-formatjs@2.17.9, error, Couldn't find the requested package or version
+42713, babel-plugin-react-intl, @formatjs/ecma402-abstract@1.10.0, error, Couldn't find the requested package or version
+42714, babel-plugin-react-intl, @formatjs/editor@1.1.32, error, Couldn't find the requested package or version
+42715, babel-plugin-react-intl, @formatjs/intl-numberformat@7.2.5, error, Couldn't find the requested package or version
+42716, babel-plugin-react-intl, intl-messageformat@9.9.3, error, Couldn't find the requested package or version
+42717, babel-plugin-react-intl, react-intl@5.20.13, error, Couldn't find the requested package or version
+42718, babel-plugin-react-intl, @formatjs/intl-listformat@6.3.5, error, Couldn't find the requested package or version
+42719, babel-plugin-react-intl, @formatjs/icu-messageformat-parser@2.0.13, error, Couldn't find the requested package or version
+42720, babel-plugin-react-intl, vue-intl@6.0.13, error, Couldn't find the requested package or version
+42721, babel-plugin-react-intl, @formatjs/intl-datetimeformat@4.2.5, error, Couldn't find the requested package or version
+42722, babel-plugin-react-intl, @formatjs/ts-transformer@3.5.1, error, Couldn't find the requested package or version
+42723, babel-plugin-react-intl, babel-plugin-formatjs@10.3.10, error, Couldn't find the requested package or version
+42724, @ngx-translate/core, v13.0.0, True
+42725, @ngx-translate/core, v12.1.2, True
+42726, @ngx-translate/core, v12.1.1, False, 16, 0, 11, 5, 0
+42727, @ngx-translate/core, v12.1.0, False, 16, 0, 11, 5, 0
+42728, @ngx-translate/core, v12.0.0, True
+42729, @ngx-translate/core, v11.0.1, True
+42730, @ngx-translate/core, v11.0.0, True
+42731, @ngx-translate/core, v10.0.2, True
+42732, @ngx-translate/core, v10.0.1, True
+42733, @ngx-translate/core, v10.0.0, True
+42734, @ngx-translate/core, v9.1.1, True
+42735, @ngx-translate/core, v9.1.0, True
+42736, @ngx-translate/core, v9.0.2, True
+42737, @ngx-translate/core, 9.0.1, True
+42738, @ngx-translate/core, v9.0.0, True
+42739, @ngx-translate/core, v8.0.0, True
+42740, @ngx-translate/core, v7.2.2, True
+42741, @ngx-translate/core, v7.2.1, True
+42742, @ngx-translate/core, v7.2.0, True
+42743, @ngx-translate/core, v7.1.0, True
+42744, @ngx-translate/core, v7.0.0, True
+42745, @ngx-translate/core, v6.0.1, True
+42746, @ngx-translate/core, v6.0.0, True
+42747, @ngx-translate/core, 6.0.0-beta.1, True
+42748, @ngx-translate/core, v5.0.0, True
+42749, @ngx-translate/core, v4.2.0, True
+42750, @ngx-translate/core, v4.1.0, True
+42751, @ngx-translate/core, v4.0.1, True
+42752, @ngx-translate/core, v4.0.0, True
+42753, @ngx-translate/core, v3.2.1, True
+42754, karma-opera-launcher, v1.0.0, True
+42755, karma-opera-launcher, v0.3.0, True
+42756, karma-opera-launcher, v0.0.2, True
+42757, karma-opera-launcher, v0.1.0, True
+42758, karma-opera-launcher, v0.2.0, True
+42759, @parcel/logger, v2.0.0, True
+42760, @parcel/logger, v2.0.0-rc.0, True
+42761, @parcel/logger, v2.0.0-beta.3.1, True
+42762, @parcel/logger, v2.0.0-beta.3, True
+42763, @parcel/logger, v2.0.0-beta.2, True
+42764, @parcel/logger, v2.0.0-beta.1, True
+42765, grunt-mocha-cli, v7.0.0, False, 1, 0, 1, 0, 0
+42766, grunt-mocha-cli, v6.0.0, False, 11, 0, 11, 0, 0
+42767, grunt-mocha-cli, v5.0.0, False, 11, 0, 11, 0, 0
+42768, grunt-mocha-cli, v4.0.0, False, 3, 0, 2, 1, 0
+42769, grunt-mocha-cli, v3.0.0, False, 5, 1, 2, 1, 1
+42770, grunt-mocha-cli, v2.1.0, False, 7, 1, 3, 1, 2
+42771, grunt-mocha-cli, v2.0.0, False, 7, 1, 3, 1, 2
+42772, grunt-mocha-cli, v1.14.0, False, 7, 1, 3, 2, 1
+42773, grunt-mocha-cli, v1.13.0, False, 7, 1, 3, 2, 1
+42774, grunt-mocha-cli, v1.13.1, False, 7, 1, 3, 2, 1
+42775, grunt-mocha-cli, v1.12.0, False, 7, 1, 3, 2, 1
+42776, grunt-mocha-cli, v1.11.0, False, 7, 1, 3, 2, 1
+42777, grunt-mocha-cli, v1.10.0, False, 7, 1, 3, 2, 1
+42778, grunt-mocha-cli, v1.9.0, False, 4, 1, 3, 0, 0
+42779, grunt-mocha-cli, v1.8.0, False, 4, 1, 3, 0, 0
+42780, grunt-mocha-cli, v1.7.0, False, 4, 1, 3, 0, 0
+42781, grunt-mocha-cli, v1.6.0, False, 4, 1, 3, 0, 0
+42782, grunt-mocha-cli, v1.5.0, False, 4, 1, 3, 0, 0
+42783, grunt-mocha-cli, v1.4.0, False, 4, 1, 3, 0, 0
+42784, grunt-mocha-cli, v1.3.0, False, 4, 1, 3, 0, 0
+42785, grunt-mocha-cli, v1.2.1, False, 4, 1, 3, 0, 0
+42786, grunt-mocha-cli, v1.2.0, False, 4, 1, 3, 0, 0
+42787, grunt-mocha-cli, v1.1.0, False, 4, 1, 3, 0, 0
+42788, grunt-mocha-cli, v1.0.7, False, 4, 1, 3, 0, 0
+42789, grunt-mocha-cli, v1.0.0, False, 3, 1, 1, 1, 0
+42790, grunt-mocha-cli, v1.0.1, False, 3, 1, 1, 1, 0
+42791, grunt-mocha-cli, v1.0.2, False, 3, 1, 1, 1, 0
+42792, grunt-mocha-cli, v1.0.3, False, 3, 1, 1, 1, 0
+42793, grunt-mocha-cli, v1.0.4, False, 3, 1, 1, 1, 0
+42794, grunt-mocha-cli, v1.0.5, False, 3, 1, 1, 1, 0
+42795, @parcel/fs, v2.0.0, True
+42796, @parcel/fs, v2.0.0-rc.0, False, 14, 0, 14, 0, 0
+42797, @parcel/fs, v2.0.0-beta.3.1, False, 2, 0, 2, 0, 0
+42798, @parcel/fs, v2.0.0-beta.3, False, 2, 0, 2, 0, 0
+42799, @parcel/fs, v2.0.0-beta.2, False, 2, 0, 2, 0, 0
+42800, @parcel/fs, v2.0.0-beta.1, False, 12, 0, 4, 8, 0
+42801, @parcel/utils, v2.0.0, True
+42802, @parcel/utils, v2.0.0-rc.0, False, 1, 0, 1, 0, 0
+42803, @parcel/utils, v2.0.0-beta.3.1, False, 1, 0, 1, 0, 0
+42804, @parcel/utils, v2.0.0-beta.3, False, 1, 0, 1, 0, 0
+42805, @parcel/utils, v2.0.0-beta.2, False, 1, 0, 1, 0, 0
+42806, @parcel/utils, v2.0.0-beta.1, False, 6, 0, 2, 4, 0
+42807, @parcel/workers, v2.0.0, True
+42808, @parcel/workers, v2.0.0-rc.0, False, 9, 0, 9, 0, 0
+42809, @parcel/workers, v2.0.0-beta.3.1, False, 1, 0, 1, 0, 0
+42810, @parcel/workers, v2.0.0-beta.3, False, 1, 0, 1, 0, 0
+42811, @parcel/workers, v2.0.0-beta.2, False, 1, 0, 1, 0, 0
+42812, @parcel/workers, v2.0.0-beta.1, False, 6, 0, 2, 4, 0
+42813, rebound, v0.0.7, True
+42814, steno, v2.1.0, True
+42815, steno, v2.0.0, True
+42816, babel-preset-es2015-loose, v6.1.4, True
+42817, babel-preset-es2015-loose, v7.0.0, True
+42818, babel-preset-es2015-loose, v8.0.0, True
+42819, jquery.easing, 1.4.2, True
+42820, react-native-elements, v3.4.2, True
+42821, react-native-elements, v3.4.1, True
+42822, react-native-elements, v3.4.0, True
+42823, react-native-elements, v3.3.2, True
+42824, react-native-elements, v3.3.1, True
+42825, react-native-elements, v3.3.0, True
+42826, react-native-elements, v3.2.0, True
+42827, react-native-elements, v3.1.0, True
+42828, react-native-elements, v3.0.1, True
+42829, react-native-elements, v3.0.0, True
+42830, react-native-elements, 3.0.0-alpha.1, True
+42831, react-native-elements, v2.3.2, True
+42832, react-native-elements, v2.3.1, True
+42833, react-native-elements, v2.3.0, True
+42834, react-native-elements, v2.2.1, True
+42835, react-native-elements, v2.2.0, True
+42836, react-native-elements, v2.1.0, True
+42837, react-native-elements, v2.0.4, True
+42838, react-native-elements, v2.0.3, True
+42839, react-native-elements, v2.0.2, True
+42840, react-native-elements, v2.0.1, True
+42841, react-native-elements, v2.0.0, True
+42842, react-native-elements, v1.2.7, True
+42843, react-native-elements, v1.2.6, True
+42844, react-native-elements, v1.2.5, True
+42845, react-native-elements, v1.2.4, True
+42846, react-native-elements, v1.2.3, True
+42847, react-native-elements, v1.2.2, True
+42848, react-native-elements, v1.2.1, True
+42849, react-native-elements, v1.2.0, True
+42850, serialport, @serialport/bindings@9.2.4, error, Couldn't find the requested package or version
+42851, serialport, @serialport/bindings@9.2.1, error, Couldn't find the requested package or version
+42852, serialport, @serialport/bindings@9.2.0, error, Couldn't find the requested package or version
+42853, serialport, @serialport/bindings@9.1.0, error, Couldn't find the requested package or version
+42854, serialport, @serialport/bindings@9.0.8, error, Couldn't find the requested package or version
+42855, serialport, @serialport/bindings@9.0.7, error, Couldn't find the requested package or version
+42856, serialport, @serialport/bindings@9.0.4, error, Couldn't find the requested package or version
+42857, serialport, @serialport/bindings@9.0.3, error, Couldn't find the requested package or version
+42858, serialport, @serialport/bindings@9.0.2, error, Couldn't find the requested package or version
+42859, serialport, @serialport/bindings@9.0.1, error, Couldn't find the requested package or version
+42860, serialport, @serialport/bindings@9.0.0, error, Couldn't find the requested package or version
+42861, serialport, @serialport/bindings@8.0.8, error, Couldn't find the requested package or version
+42862, serialport, @serialport/bindings@8.0.7, error, Couldn't find the requested package or version
+42863, serialport, @serialport/bindings@8.0.6, error, Couldn't find the requested package or version
+42864, serialport, @serialport/bindings@8.0.4, error, Couldn't find the requested package or version
+42865, serialport, @serialport/bindings@8.0.3, error, Couldn't find the requested package or version
+42866, serialport, @serialport/bindings@8.0.2, error, Couldn't find the requested package or version
+42867, serialport, @serialport/bindings@8.0.1, error, Couldn't find the requested package or version
+42868, serialport, @serialport/bindings@2.0.8, error, Couldn't find the requested package or version
+42869, serialport, @serialport/bindings@2.0.7, error, Couldn't find the requested package or version
+42870, serialport, @serialport/bindings@2.0.6, error, Couldn't find the requested package or version
+42871, serialport, @serialport/bindings@2.0.5, error, Couldn't find the requested package or version
+42872, serialport, @serialport/bindings@2.0.4, error, Couldn't find the requested package or version
+42873, serialport, @serialport/bindings@2.0.3, error, Couldn't find the requested package or version
+42874, serialport, @serialport/bindings@2.0.2, error, Couldn't find the requested package or version
+42875, serialport, v6.2.2, False, 5, 0, 2, 3, 0
+42876, serialport, v6.2.1, False, 5, 0, 2, 3, 0
+42877, serialport, v6.2.0, False, 5, 0, 2, 3, 0
+42878, serialport, v6.1.1, False, 5, 0, 2, 3, 0
+42879, serialport, v6.1.0, False, 5, 0, 2, 3, 0
+42880, replacestream, 4.0.2, True
+42881, replacestream, 2.1.0, True
+42882, pretty-quick, v3.1.1, True
+42883, pretty-quick, v3.1.0, True
+42884, pretty-quick, v3.0.2, True
+42885, pretty-quick, v3.0.1, True
+42886, pretty-quick, v3.0.0, True
+42887, pretty-quick, v2.0.2, True
+42888, pretty-quick, v2.0.1, True
+42889, pretty-quick, v2.0.0, True
+42890, pretty-quick, v1.11.1, True
+42891, pretty-quick, v1.11.0, True
+42892, pretty-quick, v1.10.0, True
+42893, pretty-quick, v1.9.0, True
+42894, pretty-quick, v1.8.1, True
+42895, pretty-quick, v1.8.0, True
+42896, pretty-quick, v1.7.0, True
+42897, pretty-quick, v1.6.0, True
+42898, pretty-quick, v1.5.1, True
+42899, pretty-quick, v1.5.0, True
+42900, pretty-quick, v1.4.1, True
+42901, pretty-quick, v1.4.0, True
+42902, pretty-quick, v1.3.0, True
+42903, pretty-quick, v1.2.3, True
+42904, pretty-quick, v1.2.2, True
+42905, pretty-quick, v1.2.1, True
+42906, pretty-quick, v1.2.0, True
+42907, pretty-quick, v1.1.0, True
+42908, pretty-quick, v1.0.0, True
+42909, bach, v1.2.0, True
+42910, bach, v1.1.0, True
+42911, bach, v0.4.1, False, 9, 1, 4, 4, 0
+42912, bach, v0.2.0, False, 9, 1, 4, 4, 0
+42913, bach, v0.3.0, False, 9, 1, 4, 4, 0
+42914, bach, v0.4.2, False, 9, 1, 4, 4, 0
+42915, bach, v0.5.0, True
+42916, bach, v1.0.0, True
+42917, bach, v0.1.0, False, 9, 1, 4, 4, 0
+42918, bach, v0.4.0, False, 9, 1, 4, 4, 0
+42919, bach, v0.0.1, False, 9, 1, 4, 4, 0
+42920, buffer-peek-stream, v0.2.0, True
+42921, buffer-peek-stream, v0.1.1, True
+42922, zrender, 5.2.1, True
+42923, zrender, 5.2.0, False, 1, 0, 0, 1, 0
+42924, zrender, 5.1.1, False, 1, 0, 0, 1, 0
+42925, zrender, 5.1.0, False, 1, 0, 0, 1, 0
+42926, zrender, 5.0.4, False, 1, 0, 0, 1, 0
+42927, zrender, 5.0.3, False, 1, 0, 0, 1, 0
+42928, zrender, 5.0.1, False, 1, 0, 0, 1, 0
+42929, zrender, 5.0.0, False, 1, 0, 0, 1, 0
+42930, zrender, 5.0.0-beta.2, False, 1, 0, 0, 1, 0
+42931, zrender, 5.0.0-beta.1, False, 1, 0, 0, 1, 0
+42932, zrender, 5.0.0-alpha.2, False, 1, 0, 0, 1, 0
+42933, zrender, 4.3.2, False, 1, 0, 0, 1, 0
+42934, zrender, 5.0.0-alpha.1, False, 1, 0, 0, 1, 0
+42935, zrender, 4.3.1, False, 1, 0, 0, 1, 0
+42936, zrender, 4.3.0, False, 1, 0, 0, 1, 0
+42937, zrender, 4.2.0, False, 1, 0, 0, 1, 0
+42938, zrender, 4.1.2, False, 1, 0, 0, 1, 0
+42939, zrender, 4.1.1, False, 1, 0, 0, 1, 0
+42940, zrender, 4.1.0, False, 1, 0, 0, 1, 0
+42941, zrender, 4.0.7, False, 1, 0, 0, 1, 0
+42942, zrender, 4.0.6, False, 1, 0, 0, 1, 0
+42943, zrender, 4.0.5, False, 1, 0, 0, 1, 0
+42944, zrender, 4.0.4, False, 1, 0, 0, 1, 0
+42945, zrender, 4.0.3, False, 1, 0, 0, 1, 0
+42946, zrender, 4.0.2, False, 1, 0, 0, 1, 0
+42947, zrender, 4.0.1, False, 1, 0, 0, 1, 0
+42948, zrender, 4.0.0, False, 1, 0, 0, 1, 0
+42949, zrender, 3.7.4, False, 1, 0, 0, 1, 0
+42950, zrender, 3.7.3, False, 1, 0, 0, 1, 0
+42951, zrender, 3.7.2, False, 1, 0, 0, 1, 0
+42952, perfect-scrollbar, 1.5.3, True
+42953, perfect-scrollbar, 1.5.2, True
+42954, perfect-scrollbar, 1.5.1, True
+42955, perfect-scrollbar, 1.5.0, True
+42956, perfect-scrollbar, 1.4.0, True
+42957, perfect-scrollbar, 1.3.0, True
+42958, perfect-scrollbar, 1.2.0, True
+42959, perfect-scrollbar, 1.1.0, True
+42960, perfect-scrollbar, 1.0.3, True
+42961, perfect-scrollbar, 1.0.2, True
+42962, perfect-scrollbar, 1.0.1, True
+42963, perfect-scrollbar, 1.0.0, True
+42964, perfect-scrollbar, 0.8.1, True
+42965, perfect-scrollbar, 0.8.0, True
+42966, perfect-scrollbar, 0.7.1, True
+42967, perfect-scrollbar, 0.7.0, True
+42968, perfect-scrollbar, 0.6.16, True
+42969, perfect-scrollbar, 0.6.15, True
+42970, perfect-scrollbar, 0.6.14, True
+42971, perfect-scrollbar, 0.6.13, True
+42972, perfect-scrollbar, 0.6.12, True
+42973, perfect-scrollbar, 0.6.11, True
+42974, perfect-scrollbar, 0.6.10, True
+42975, perfect-scrollbar, 0.6.9, True
+42976, perfect-scrollbar, 0.6.8, True
+42977, perfect-scrollbar, 0.6.7, True
+42978, perfect-scrollbar, 0.6.6, True
+42979, perfect-scrollbar, 0.6.5, True
+42980, perfect-scrollbar, 0.6.4, True
+42981, perfect-scrollbar, 0.6.3, True
+42982, tslint-config-standard, v9.0.0, True
+42983, tslint-config-standard, v8.0.1, True
+42984, tslint-config-standard, v8.0.0, True
+42985, tslint-config-standard, v7.1.0, True
+42986, tslint-config-standard, v7.0.0, True
+42987, tslint-config-standard, v6.0.1, True
+42988, tslint-config-standard, v6.0.0, True
+42989, tslint-config-standard, v5.0.2, True
+42990, tslint-config-standard, v5.0.1, True
+42991, tslint-config-standard, v5.0.0, True
+42992, tslint-config-standard, v4.0.0, True
+42993, tslint-config-standard, v3.0.0, True
+42994, tslint-config-standard, v2.0.0, True
+42995, tslint-config-standard, v1.5.0, False, 2, 0, 1, 1, 0
+42996, tslint-config-standard, v1.4.2, False, 2, 0, 1, 1, 0
+42997, tslint-config-standard, v1.4.1, False, 2, 0, 1, 1, 0
+42998, tslint-config-standard, v1.4.0, False, 2, 0, 1, 1, 0
+42999, tslint-config-standard, v1.3.0, False, 2, 0, 1, 1, 0
+43000, tslint-config-standard, v1.2.2, False, 2, 0, 1, 1, 0
+43001, tslint-config-standard, v1.2.1, False, 2, 0, 1, 1, 0
+43002, tslint-config-standard, v1.2.0, False, 2, 0, 1, 1, 0
+43003, tslint-config-standard, v1.1.0, False, 2, 0, 1, 1, 0
+43004, tslint-config-standard, v1.0.1, False, 2, 0, 1, 1, 0
+43005, tslint-config-standard, v1.0.0, False, 2, 0, 1, 1, 0
+43006, @angular/flex-layout, 12.0.0-beta.35, True
+43007, @angular/flex-layout, 12.0.0-beta.34, True
+43008, @angular/flex-layout, 11.0.0-beta.33, True
+43009, @angular/flex-layout, 10.0.0-beta.32, True
+43010, @angular/flex-layout, 9.0.0-beta.31, True
+43011, @angular/flex-layout, 9.0.0-beta.30, True
+43012, @angular/flex-layout, 9.0.0-beta.29, True
+43013, @angular/flex-layout, 9.0.0-beta.28, True
+43014, @angular/flex-layout, 8.0.0-beta.27, True
+43015, @angular/flex-layout, 8.0.0-beta.26, True
+43016, @angular/flex-layout, 8.0.0-beta.25, True
+43017, @angular/flex-layout, 7.0.0-beta.24, True
+43018, @angular/flex-layout, 7.0.0-beta.23, True
+43019, @angular/flex-layout, 7.0.0-beta.22, True
+43020, @angular/flex-layout, 7.0.0-beta.20, True
+43021, @angular/flex-layout, 7.0.0-beta.21, True
+43022, @angular/flex-layout, 7.0.0-beta.19, True
+43023, @angular/flex-layout, 6.0.0-beta.18, True
+43024, @angular/flex-layout, 6.0.0-beta.17, True
+43025, @angular/flex-layout, 5.0.0-beta.15, True
+43026, @angular/flex-layout, 6.0.0-beta.16, True
+43027, micro, v9.3.5-canary.3, True
+43028, micro, v9.3.5-canary.2, True
+43029, micro, v9.3.5-canary.1, True
+43030, micro, v9.3.5-canary.0, True
+43031, micro, 9.3.4, True
+43032, micro, 9.3.3, True
+43033, micro, 9.3.2, True
+43034, micro, 9.3.1, True
+43035, micro, 9.3.0, True
+43036, micro, 9.2.0, True
+43037, micro, 9.1.4, True
+43038, micro, 9.1.3, True
+43039, micro, 9.1.2, True
+43040, micro, 9.1.1, True
+43041, micro, 9.1.0, True
+43042, micro, 9.0.2, True
+43043, micro, 9.0.1, True
+43044, micro, 9.0.0, True
+43045, micro, 8.0.4, True
+43046, micro, 8.0.3, True
+43047, micro, 8.0.2, True
+43048, micro, 8.0.1, True
+43049, micro, 8.0.0, True
+43050, micro, 7.3.3, False, 6, 0, 5, 1, 0
+43051, micro, 7.3.2, False, 5, 0, 4, 1, 0
+43052, micro, 7.3.1, False, 5, 0, 4, 1, 0
+43053, micro, 7.3.0, False, 5, 0, 4, 1, 0
+43054, micro, 7.2.2, False, 5, 0, 4, 1, 0
+43055, micro, 7.2.1, False, 5, 0, 4, 1, 0
+43056, micro, 7.2.0, False, 5, 0, 4, 1, 0
+43057, react-native-safe-area-view, v0.14.6, True
+43058, react-native-safe-area-view, v0.9.0, True
+43059, react-native-safe-area-view, v0.2.0, True
+43060, lowlight, 2.4.0, True
+43061, lowlight, 2.3.0, True
+43062, lowlight, 2.2.1, True
+43063, lowlight, 2.2.0, True
+43064, lowlight, 2.1.0, True
+43065, lowlight, 2.0.1, True
+43066, lowlight, 2.0.0, True
+43067, lowlight, 1.20.0, True
+43068, lowlight, 1.19.0, True
+43069, lowlight, 1.18.0, True
+43070, lowlight, 1.17.0, True
+43071, lowlight, 1.16.0, False, 1, 0, 0, 1, 0
+43072, lowlight, 1.15.0, False, 1, 0, 0, 1, 0
+43073, lowlight, 1.14.0, False, 1, 0, 0, 1, 0
+43074, lowlight, 1.13.1, False, 2, 0, 0, 2, 0
+43075, lowlight, 1.13.0, False, 2, 0, 0, 2, 0
+43076, lowlight, 1.12.1, False, 2, 0, 0, 2, 0
+43077, lowlight, 1.12.0, False, 2, 0, 0, 2, 0
+43078, lowlight, 1.11.0, False, 2, 0, 0, 2, 0
+43079, lowlight, 1.10.0, False, 2, 0, 0, 2, 0
+43080, lowlight, 1.9.2, False, 2, 0, 0, 2, 0
+43081, lowlight, 1.9.1, False, 2, 0, 0, 2, 0
+43082, lowlight, 1.9.0, False, 2, 0, 0, 2, 0
+43083, lowlight, 1.8.0, False, 2, 0, 0, 2, 0
+43084, lowlight, 1.7.0, False, 2, 0, 0, 2, 0
+43085, lowlight, 1.6.0, False, 2, 0, 0, 2, 0
+43086, lowlight, 1.5.0, False, 2, 0, 0, 2, 0
+43087, lowlight, 1.4.0, False, 2, 0, 0, 2, 0
+43088, lowlight, 1.3.0, False, 2, 0, 0, 2, 0
+43089, lowlight, 1.2.0, False, 2, 0, 0, 2, 0
+43090, gatsby-remark-images, gatsby@4.1.0, error, Couldn't find the requested package or version
+43091, gatsby-remark-images, gatsby@4.0.0, error, Couldn't find the requested package or version
+43092, gatsby-remark-images, gatsby@3.14.0, error, Couldn't find the requested package or version
+43093, gatsby-remark-images, gatsby@3.13.0, error, Couldn't find the requested package or version
+43094, gatsby-remark-images, gatsby@3.12.0, error, Couldn't find the requested package or version
+43095, gatsby-remark-images, gatsby@3.11.0, error, Couldn't find the requested package or version
+43096, gatsby-remark-images, gatsby@3.10.0, error, Couldn't find the requested package or version
+43097, gatsby-remark-images, gatsby@3.9.0, error, Couldn't find the requested package or version
+43098, gatsby-remark-images, gatsby@3.8.0, error, Couldn't find the requested package or version
+43099, gatsby-remark-images, gatsby@3.7.0, error, Couldn't find the requested package or version
+43100, gatsby-remark-images, gatsby@3.6.0, error, Couldn't find the requested package or version
+43101, gatsby-remark-images, gatsby@3.5.0, error, Couldn't find the requested package or version
+43102, gatsby-remark-images, gatsby@3.4.0, error, Couldn't find the requested package or version
+43103, gatsby-remark-images, gatsby@3.3.0, error, Couldn't find the requested package or version
+43104, gatsby-remark-images, gatsby@3.2.0, error, Couldn't find the requested package or version
+43105, gatsby-remark-images, gatsby@3.1.0, error, Couldn't find the requested package or version
+43106, gatsby-remark-images, gatsby@3.0.0, error, Couldn't find the requested package or version
+43107, gatsby-remark-images, gatsby@2.32.0, error, Couldn't find the requested package or version
+43108, gatsby-remark-images, gatsby@2.31.0, error, Couldn't find the requested package or version
+43109, gatsby-remark-images, gatsby@2.30.0, error, Couldn't find the requested package or version
+43110, gatsby-remark-images, gatsby@2.29.0, error, Couldn't find the requested package or version
+43111, gatsby-remark-images, gatsby@2.28.0, error, Couldn't find the requested package or version
+43112, gatsby-remark-images, gatsby@2.27.0, error, Couldn't find the requested package or version
+43113, gatsby-remark-images, gatsby@2.26.0, error, Couldn't find the requested package or version
+43114, gatsby-remark-images, v1.5.2, False, 1, 0, 1, 0, 0
+43115, gatsby-remark-images, v1.4.0, False, 181, 0, 47, 81, 53
+43116, gatsby-remark-images, v1.3.0, False, 1, 0, 1, 0, 0
+43117, gatsby-remark-images, v1.2.0, False, 1, 0, 1, 0, 0
+43118, gatsby-remark-images, v1.1.0, False, 1, 0, 1, 0, 0
+43119, gatsby-remark-images, v1.0.1, False, 1, 0, 1, 0, 0
+43120, require-precompiled, v1.0.0, True
+43121, loopback-datasource-juggler, v2.54.1, False, 3, 0, 1, 2, 0
+43122, loopback-datasource-juggler, v3.1.1, False, 3, 0, 1, 2, 0
+43123, loopback-datasource-juggler, v3.0.0, False, 3, 0, 1, 2, 0
+43124, acorn-es7-plugin, 1.1.7, True
+43125, acorn-es7-plugin, 1.1.5, True
+43126, acorn-es7-plugin, 1.1.1, True
+43127, acorn-es7-plugin, 1.1.0, True
+43128, acorn-es7-plugin, 1.0.18, True
+43129, acorn-es7-plugin, 1.0.16, True
+43130, acorn-es7-plugin, 1.0.15, True
+43131, acorn-es7-plugin, 1.0.14, True
+43132, acorn-es7-plugin, 1.0.13, True
+43133, acorn-es7-plugin, 1.0.12, True
+43134, acorn-es7-plugin, 1.0.11, True
+43135, acorn-es7-plugin, 1.0.10, True
+43136, acorn-es7-plugin, 1.0.9, True
+43137, @storybook/core-events, v6.4.0-beta.26, True
+43138, @storybook/core-events, v6.4.0-beta.25, True
+43139, @storybook/core-events, v6.4.0-beta.24, True
+43140, @storybook/core-events, v6.4.0-beta.23, True
+43141, @storybook/core-events, v6.4.0-beta.22, True
+43142, @storybook/core-events, v6.4.0-beta.21, True
+43143, @storybook/core-events, v6.4.0-beta.20, True
+43144, @storybook/core-events, v6.4.0-beta.19, True
+43145, @storybook/core-events, v6.4.0-beta.18, True
+43146, @storybook/core-events, v6.4.0-beta.17, True
+43147, @storybook/core-events, v6.4.0-beta.16, True
+43148, @storybook/core-events, v6.4.0-beta.15, True
+43149, @storybook/core-events, v6.4.0-beta.14, True
+43150, @storybook/core-events, v6.4.0-beta.13, True
+43151, @storybook/core-events, v6.4.0-beta.12, True
+43152, @storybook/core-events, v6.3.12, True
+43153, @storybook/core-events, v6.4.0-beta.11, True
+43154, @storybook/core-events, v6.4.0-beta.10, True
+43155, @storybook/core-events, v6.3.11, True
+43156, @storybook/core-events, v6.4.0-beta.9, True
+43157, @storybook/core-events, v6.4.0-beta.8, True
+43158, @storybook/core-events, v6.4.0-beta.7, True
+43159, @storybook/core-events, v6.4.0-beta.6, True
+43160, @storybook/core-events, v6.3.10, True
+43161, @storybook/core-events, v6.4.0-beta.5, True
+43162, @storybook/core-events, v6.4.0-beta.4, True
+43163, @storybook/core-events, v6.3.9, True
+43164, @storybook/core-events, v6.4.0-beta.3, True
+43165, @storybook/core-events, v6.4.0-beta.2, True
+43166, @storybook/core-events, v6.4.0-beta.1, True
+43167, d3-force, v3.0.0, True
+43168, d3-force, v2.1.1, True
+43169, d3-force, v2.1.0, True
+43170, d3-force, v1.2.1, True
+43171, d3-force, v2.0.1, True
+43172, d3-force, v1.2.0, True
+43173, d3-force, v2.0.0, True
+43174, d3-force, v1.1.2, True
+43175, d3-force, v1.1.1, True
+43176, d3-force, v1.1.0, True
+43177, d3-force, v1.0.6, True
+43178, d3-force, v1.0.5, True
+43179, d3-force, v1.0.4, True
+43180, d3-force, v1.0.3, True
+43181, d3-force, v1.0.2, True
+43182, d3-force, v1.0.1, True
+43183, d3-force, v1.0.0, True
+43184, d3-force, v0.7.1, True
+43185, d3-force, v0.7.0, True
+43186, d3-force, v0.6.3, True
+43187, d3-force, v0.6.2, True
+43188, d3-force, v0.6.1, True
+43189, d3-force, v0.6.0, True
+43190, d3-force, v0.5.0, True
+43191, d3-force, v0.4.1, True
+43192, d3-force, v0.4.0, True
+43193, d3-force, v0.3.0, True
+43194, d3-force, v0.2.2, True
+43195, d3-force, v0.2.1, True
+43196, d3-force, v0.2.0, True
+43197, @jimp/core, v0.16.1, True
+43198, @jimp/core, v0.16.0, True
+43199, @jimp/core, v0.15.0, True
+43200, @jimp/core, v0.14.0, True
+43201, @jimp/core, v0.13.0, True
+43202, @jimp/core, v0.12.1, True
+43203, @jimp/core, v0.12.0, True
+43204, @jimp/core, v0.11.0, True
+43205, @jimp/core, v0.10.3, True
+43206, @jimp/core, v0.10.2, True
+43207, @jimp/core, v0.10.1, True
+43208, @jimp/core, v0.10.0, True
+43209, @jimp/core, v0.9.8, True
+43210, @jimp/core, v0.9.7, True
+43211, @jimp/core, v0.9.6, True
+43212, @jimp/core, v0.9.5, False, 1, 0, 0, 1, 0
+43213, @jimp/core, v0.9.4, False, 1, 0, 0, 1, 0
+43214, @jimp/core, v0.9.3, False, 1, 0, 0, 1, 0
+43215, @jimp/core, v0.9.1, False, 1, 0, 0, 1, 0
+43216, @jimp/core, v0.9.0, False, 1, 0, 0, 1, 0
+43217, @jimp/core, v0.8.5, False, 1, 0, 0, 1, 0
+43218, @jimp/core, v0.8.4, False, 1, 0, 0, 1, 0
+43219, @jimp/core, v0.8.3, False, 1, 0, 0, 1, 0
+43220, @jimp/core, v0.8.2, False, 1, 0, 0, 1, 0
+43221, @jimp/core, v0.8.1, False, 1, 0, 0, 1, 0
+43222, @jimp/core, v0.8.0, False, 1, 0, 0, 1, 0
+43223, @jimp/core, v0.7.0, False, 1, 0, 0, 1, 0
+43224, @jimp/core, v0.6.8, False, 1, 0, 0, 1, 0
+43225, @jimp/core, v0.6.7, False, 1, 0, 0, 1, 0
+43226, @jimp/core, v0.6.6, False, 1, 0, 0, 1, 0
+43227, glob-promise, v4.2.2, True
+43228, glob-promise, v4.2.1, True
+43229, glob-promise, v4.2.0, True
+43230, glob-promise, v4.1.0, True
+43231, glob-promise, v4.0.1, True
+43232, glob-promise, v4.0.0, True
+43233, glob-promise, v3.4.0, True
+43234, glob-promise, v3.3.0, True
+43235, glob-promise, v3.2.0, False, 16, 0, 11, 5, 0
+43236, glob-promise, v3.1.0, True
+43237, glob-promise, v3.0.0, True
+43238, glob-promise, v2.0.0, True
+43239, glob-promise, v1.0.3, True
+43240, glob-promise, v1.0.2, True
+43241, glob-promise, v1.0.1, True
+43242, glob-promise, v1.0.0, True
+43243, cypress, v8.7.0, False, 1, 0, 0, 1, 0
+43244, cypress, v8.6.0, False, 1, 0, 0, 1, 0
+43245, cypress, v8.5.0, False, 1, 0, 0, 1, 0
+43246, cypress, v8.4.1, False, 1, 0, 0, 1, 0
+43247, cypress, v8.4.0, False, 1, 0, 0, 1, 0
+43248, cypress, v8.3.1, False, 1, 0, 0, 1, 0
+43249, cypress, v8.3.0, False, 1, 0, 0, 1, 0
+43250, cypress, v8.2.0, False, 1, 0, 0, 1, 0
+43251, cypress, v8.1.0, False, 1, 0, 0, 1, 0
+43252, cypress, v8.0.0, False, 1, 0, 0, 1, 0
+43253, cypress, v7.7.0, False, 1, 0, 0, 1, 0
+43254, cypress, v7.6.0, False, 1, 0, 0, 1, 0
+43255, cypress, v7.5.0, False, 1, 0, 0, 1, 0
+43256, cypress, v7.4.0, False, 3, 0, 2, 1, 0
+43257, cypress, v7.3.0, False, 3, 0, 2, 1, 0
+43258, cypress, v7.2.0, False, 3, 0, 2, 1, 0
+43259, cypress, v7.1.0, False, 4, 0, 2, 2, 0
+43260, cypress, v7.0.1, False, 4, 0, 2, 2, 0
+43261, cypress, v7.0.0, False, 4, 0, 2, 2, 0
+43262, cypress, v6.8.0, False, 4, 0, 2, 2, 0
+43263, cypress, v6.7.1, False, 4, 0, 2, 2, 0
+43264, cypress, v6.7.0, False, 4, 0, 2, 2, 0
+43265, cypress, v6.6.0, False, 4, 0, 2, 2, 0
+43266, cypress, v6.5.0, False, 4, 0, 2, 2, 0
+43267, cypress, v6.4.0, False, 4, 0, 2, 2, 0
+43268, cypress, v6.3.0, False, 4, 0, 2, 2, 0
+43269, cypress, v6.2.1, False, 4, 0, 2, 2, 0
+43270, cypress, v6.2.0, False, 4, 0, 2, 2, 0
+43271, cypress, v6.1.0, False, 4, 0, 2, 2, 0
+43272, cypress, v6.0.1, False, 4, 0, 2, 2, 0
+43273, vue-class-component, v7.2.6, True
+43274, vue-class-component, v7.2.5, True
+43275, vue-class-component, v7.2.4, True
+43276, vue-class-component, v7.2.3, True
+43277, vue-class-component, v7.2.2, True
+43278, vue-class-component, v7.2.1, True
+43279, vue-class-component, v7.1.0, True
+43280, vue-class-component, v7.2.0, True
+43281, vue-class-component, v7.0.2, True
+43282, vue-class-component, v7.0.1, True
+43283, vue-class-component, v6.3.2, True
+43284, vue-class-component, v6.3.1, True
+43285, vue-class-component, v6.3.0, True
+43286, vue-class-component, v6.2.0, True
+43287, vue-class-component, v6.1.2, True
+43288, vue-class-component, v6.1.1, True
+43289, vue-class-component, v6.1.0, True
+43290, vue-class-component, v6.0.0, True
+43291, vue-class-component, v5.0.2, True
+43292, vue-class-component, v5.0.1, True
+43293, vue-class-component, v5.0.0, True
+43294, vue-class-component, v4.4.0, True
+43295, vue-class-component, v4.3.0, True
+43296, vue-class-component, v4.3.1, True
+43297, cached-constructors-x, v2.2.1, True
+43298, cached-constructors-x, v2.2.0, True
+43299, cached-constructors-x, v2.1.0, True
+43300, cached-constructors-x, v2.0.25, True
+43301, cached-constructors-x, v2.0.24, True
+43302, cached-constructors-x, v2.0.23, True
+43303, cached-constructors-x, v2.0.22, True
+43304, cached-constructors-x, v2.0.21, True
+43305, cached-constructors-x, v2.0.20, True
+43306, cached-constructors-x, v2.0.19, True
+43307, cached-constructors-x, v2.0.18, True
+43308, cached-constructors-x, v2.0.17, True
+43309, cached-constructors-x, v2.0.16, True
+43310, cached-constructors-x, v2.0.15, True
+43311, cached-constructors-x, v2.0.14, True
+43312, cached-constructors-x, v2.0.13, True
+43313, cached-constructors-x, v2.0.12, True
+43314, cached-constructors-x, v2.0.11, True
+43315, cached-constructors-x, v2.0.10, True
+43316, cached-constructors-x, v2.0.9, True
+43317, cached-constructors-x, v2.0.8, True
+43318, cached-constructors-x, v2.0.7, True
+43319, cached-constructors-x, v2.0.6, True
+43320, cached-constructors-x, v2.0.5, True
+43321, cached-constructors-x, v2.0.4, True
+43322, cached-constructors-x, v2.0.3, True
+43323, cached-constructors-x, v2.0.2, True
+43324, cached-constructors-x, v2.0.1, True
+43325, cached-constructors-x, v2.0.0, True
+43326, cucumber, v8.0.0-rc.1, True
+43327, cucumber, v7.3.1, True
+43328, cucumber, v7.3.0, True
+43329, polished, v3.7.2, True
+43330, polished, v4.1.3, True
+43331, polished, v4.1.2, False, 1, 0, 0, 0, 1
+43332, polished, v4.1.1, False, 1, 0, 0, 0, 1
+43333, polished, v3.7.1, False, 1, 0, 0, 0, 1
+43334, polished, v3.7.0, False, 1, 0, 0, 0, 1
+43335, polished, v4.1.0, False, 1, 0, 0, 0, 1
+43336, polished, v4.0.5, False, 1, 0, 0, 0, 1
+43337, polished, v4.0.4, False, 1, 0, 0, 0, 1
+43338, polished, v4.0.3, False, 1, 0, 0, 0, 1
+43339, polished, v4.0.2, False, 1, 0, 0, 0, 1
+43340, polished, v.4.0.1, True
+43341, polished, v4.0.0-beta.2, False, 1, 0, 0, 0, 1
+43342, polished, v4.0.0-beta.1, False, 1, 0, 0, 0, 1
+43343, polished, v3.6.7, False, 1, 0, 0, 0, 1
+43344, polished, v3.6.6, False, 1, 0, 0, 0, 1
+43345, polished, v3.6.5, False, 1, 0, 0, 0, 1
+43346, polished, v3.6.4, False, 1, 0, 0, 0, 1
+43347, polished, v3.6.3, False, 1, 0, 0, 0, 1
+43348, polished, v3.6.2, False, 1, 0, 0, 0, 1
+43349, polished, v3.6.1, False, 1, 0, 0, 0, 1
+43350, polished, v3.6.0, False, 1, 0, 0, 0, 1
+43351, polished, v3.5.2, False, 1, 0, 0, 0, 1
+43352, polished, v3.5.1, False, 1, 0, 0, 0, 1
+43353, polished, v3.5.0, False, 1, 0, 0, 0, 1
+43354, polished, v3.4.4, False, 1, 0, 0, 0, 1
+43355, polished, v3.4.3, False, 1, 0, 0, 0, 1
+43356, polished, v3.4.2, False, 1, 0, 0, 0, 1
+43357, polished, v3.4.1, False, 1, 0, 0, 0, 1
+43358, polished, v3.4.0, False, 1, 0, 0, 0, 1
+43359, @lerna/batch-packages, v4.0.0, False, 1, 0, 1, 0, 0
+43360, @lerna/batch-packages, v3.22.1, True
+43361, @lerna/batch-packages, v3.22.0, True
+43362, @lerna/batch-packages, v3.21.0, True
+43363, @lerna/batch-packages, v3.20.2, True
+43364, @lerna/batch-packages, v3.20.1, True
+43365, @lerna/batch-packages, v3.20.0, True
+43366, @lerna/batch-packages, v3.19.0, True
+43367, @lerna/batch-packages, v3.18.5, True
+43368, @lerna/batch-packages, v3.18.4, True
+43369, @lerna/batch-packages, v3.18.3, True
+43370, @lerna/batch-packages, v3.18.2, True
+43371, @lerna/batch-packages, v3.18.1, True
+43372, @lerna/batch-packages, v3.18.0, True
+43373, @lerna/batch-packages, v3.17.0, True
+43374, @lerna/batch-packages, v3.16.5, True
+43375, @lerna/batch-packages, v3.16.4, True
+43376, @lerna/batch-packages, v3.16.3, True
+43377, @lerna/batch-packages, v3.16.2, True
+43378, @lerna/batch-packages, v3.16.1, True
+43379, @lerna/batch-packages, v3.16.0, True
+43380, @lerna/batch-packages, v3.15.0, True
+43381, @lerna/batch-packages, v3.14.2, True
+43382, @lerna/batch-packages, v3.14.1, True
+43383, @lerna/batch-packages, v3.14.0, True
+43384, @lerna/batch-packages, v3.13.4, True
+43385, @lerna/batch-packages, v3.13.3, True
+43386, @lerna/batch-packages, v3.13.2, True
+43387, @lerna/batch-packages, v3.13.1, True
+43388, @lerna/batch-packages, v3.13.0, True
+43389, @types/hammerjs, 0.1.450, True
+43390, @angular/router-deprecated, 13.0.0-rc.3, False, 16, 0, 1, 12, 3
+43391, @angular/router-deprecated, 13.0.0-rc.2, False, 16, 0, 1, 12, 3
+43392, @angular/router-deprecated, 12.2.12, False, 24, 0, 8, 13, 3
+43393, @angular/router-deprecated, 13.0.0-rc.1, False, 16, 0, 1, 12, 3
+43394, @angular/router-deprecated, 12.2.11, False, 24, 0, 8, 13, 3
+43395, @angular/router-deprecated, 13.0.0-rc.0, False, 16, 0, 1, 12, 3
+43396, @angular/router-deprecated, 12.2.10, False, 24, 0, 8, 13, 3
+43397, @angular/router-deprecated, 13.0.0-next.15, False, 16, 0, 1, 12, 3
+43398, @angular/router-deprecated, 13.0.0-next.14, False, 16, 0, 1, 12, 3
+43399, @angular/router-deprecated, 12.2.9, False, 24, 0, 8, 13, 3
+43400, @angular/router-deprecated, 13.0.0-next.13, False, 16, 0, 1, 12, 3
+43401, @angular/router-deprecated, 13.0.0-next.12, False, 16, 0, 1, 12, 3
+43402, @angular/router-deprecated, 13.0.0-next.11, False, 16, 0, 1, 12, 3
+43403, @angular/router-deprecated, 13.0.0-next.10, False, 16, 0, 1, 12, 3
+43404, @angular/router-deprecated, 13.0.0-next.9, False, 16, 0, 1, 12, 3
+43405, @angular/router-deprecated, 12.2.8, False, 24, 0, 8, 13, 3
+43406, @angular/router-deprecated, 13.0.0-next.8, False, 16, 0, 1, 12, 3
+43407, @angular/router-deprecated, 13.0.0-next.7, False, 23, 0, 7, 13, 3
+43408, @angular/router-deprecated, 12.2.7, False, 24, 0, 8, 13, 3
+43409, @angular/router-deprecated, 13.0.0-next.6, False, 23, 0, 7, 13, 3
+43410, @angular/router-deprecated, 12.2.6, False, 24, 0, 8, 13, 3
+43411, @angular/router-deprecated, 13.0.0-next.5, False, 33, 0, 13, 17, 3
+43412, @angular/router-deprecated, 12.2.5, False, 34, 0, 14, 17, 3
+43413, @angular/router-deprecated, 13.0.0-next.4, False, 33, 0, 13, 17, 3
+43414, @angular/router-deprecated, 12.2.4, False, 34, 0, 14, 17, 3
+43415, @angular/router-deprecated, 13.0.0-next.3, False, 33, 0, 13, 17, 3
+43416, @angular/router-deprecated, 12.2.3, False, 34, 0, 14, 17, 3
+43417, @angular/router-deprecated, 13.0.0-next.2, False, 33, 0, 13, 17, 3
+43418, @angular/router-deprecated, 12.2.2, False, 34, 0, 14, 17, 3
+43419, @angular/router-deprecated, 13.0.0-next.1, False, 34, 0, 14, 17, 3
+43420, d3-zoom, v3.0.0, False, 3, 0, 0, 3, 0
+43421, d3-zoom, v2.0.0, False, 3, 0, 0, 3, 0
+43422, d3-zoom, v1.8.2, False, 3, 0, 0, 3, 0
+43423, d3-zoom, v1.8.3, False, 3, 0, 0, 3, 0
+43424, d3-zoom, v1.8.1, False, 3, 0, 0, 3, 0
+43425, d3-zoom, v1.8.0, False, 3, 0, 0, 3, 0
+43426, d3-zoom, v1.7.4, False, 3, 0, 0, 3, 0
+43427, d3-zoom, v1.7.3, False, 3, 0, 0, 3, 0
+43428, d3-zoom, v1.7.2, False, 3, 0, 0, 3, 0
+43429, d3-zoom, v1.7.1, False, 3, 0, 0, 3, 0
+43430, d3-zoom, v1.7.0, False, 3, 0, 0, 3, 0
+43431, d3-zoom, v1.6.0, False, 3, 0, 0, 3, 0
+43432, d3-zoom, v1.5.0, False, 3, 0, 0, 3, 0
+43433, d3-zoom, v1.3.1, False, 3, 0, 0, 3, 0
+43434, d3-zoom, v1.3.0, False, 3, 0, 0, 3, 0
+43435, d3-zoom, v1.2.0, False, 3, 0, 0, 3, 0
+43436, d3-zoom, v1.1.4, False, 3, 0, 0, 3, 0
+43437, d3-zoom, v1.1.3, False, 3, 0, 0, 3, 0
+43438, d3-zoom, v1.1.2, False, 3, 0, 0, 3, 0
+43439, d3-zoom, v1.1.1, False, 3, 0, 0, 3, 0
+43440, d3-zoom, v1.1.0, False, 3, 0, 0, 3, 0
+43441, d3-zoom, v1.0.3, False, 3, 0, 0, 3, 0
+43442, d3-zoom, v1.0.2, False, 3, 0, 0, 3, 0
+43443, d3-zoom, v1.0.1, False, 3, 0, 0, 3, 0
+43444, d3-zoom, v1.0.0, False, 3, 0, 0, 3, 0
+43445, d3-zoom, v0.3.1, False, 3, 0, 0, 3, 0
+43446, d3-zoom, v0.3.0, False, 3, 0, 0, 3, 0
+43447, d3-zoom, v0.2.2, False, 3, 0, 0, 3, 0
+43448, d3-zoom, v0.2.1, False, 3, 0, 0, 3, 0
+43449, d3-zoom, v0.2.0, False, 3, 0, 0, 3, 0
+43450, lodash._baseget, 4.0.0, True
+43451, lodash._baseget, 3.0.0, True
+43452, iltorb, v2.4.5, True
+43453, iltorb, v2.4.4, True
+43454, iltorb, v2.4.3, True
+43455, iltorb, v2.4.2, True
+43456, iltorb, v2.4.1, True
+43457, iltorb, v2.4.0, True
+43458, iltorb, v2.3.2, True
+43459, iltorb, v2.3.1, True
+43460, iltorb, v2.3.0, True
+43461, iltorb, v2.2.0, True
+43462, iltorb, v2.2.0, True
+43463, iltorb, v2.1.0, True
+43464, iltorb, v2.0.9, False, 6, 0, 5, 0, 1
+43465, iltorb, v2.0.8, False, 6, 0, 5, 0, 1
+43466, iltorb, v2.0.7, False, 6, 0, 5, 0, 1
+43467, iltorb, v2.0.6, False, 6, 0, 5, 0, 1
+43468, iltorb, v2.0.5, False, 6, 0, 5, 0, 1
+43469, iltorb, v2.0.4, False, 6, 0, 5, 0, 1
+43470, iltorb, v2.0.3, False, 6, 0, 5, 0, 1
+43471, iltorb, v2.0.2, False, 6, 0, 5, 0, 1
+43472, iltorb, v2.0.1, False, 6, 0, 5, 0, 1
+43473, iltorb, v2.0.0, False, 6, 0, 5, 0, 1
+43474, iltorb, v1.3.10, False, 6, 0, 5, 0, 1
+43475, iltorb, v1.3.9, False, 6, 0, 5, 0, 1
+43476, iltorb, v1.3.8, False, 6, 0, 5, 0, 1
+43477, iltorb, 1.3.6, False, 12, 0, 10, 0, 2
+43478, iltorb, 1.3.5, False, 21, 0, 11, 8, 2
+43479, eslint-config-xo-space, v0.30.0, True
+43480, eslint-config-xo-space, v0.29.0, True
+43481, eslint-config-xo-space, v0.28.0, True
+43482, eslint-config-xo-space, v0.27.0, True
+43483, eslint-config-xo-space, v0.26.0, True
+43484, eslint-config-xo-space, v0.25.0, True
+43485, eslint-config-xo-space, v0.24.0, True
+43486, eslint-config-xo-space, v0.23.0, True
+43487, eslint-config-xo-space, v0.22.0, True
+43488, lodash._topath, 4.0.0, True
+43489, lodash._topath, 3.0.0, True
+43490, @lerna/run-parallel-batches, v4.0.0, False, 1, 0, 1, 0, 0
+43491, @lerna/run-parallel-batches, v3.22.1, True
+43492, @lerna/run-parallel-batches, v3.22.0, True
+43493, @lerna/run-parallel-batches, v3.21.0, True
+43494, @lerna/run-parallel-batches, v3.20.2, True
+43495, @lerna/run-parallel-batches, v3.20.1, True
+43496, @lerna/run-parallel-batches, v3.20.0, True
+43497, @lerna/run-parallel-batches, v3.19.0, True
+43498, @lerna/run-parallel-batches, v3.18.5, True
+43499, @lerna/run-parallel-batches, v3.18.4, True
+43500, @lerna/run-parallel-batches, v3.18.3, True
+43501, @lerna/run-parallel-batches, v3.18.2, True
+43502, @lerna/run-parallel-batches, v3.18.1, True
+43503, @lerna/run-parallel-batches, v3.18.0, True
+43504, @lerna/run-parallel-batches, v3.17.0, True
+43505, @lerna/run-parallel-batches, v3.16.5, True
+43506, @lerna/run-parallel-batches, v3.16.4, True
+43507, @lerna/run-parallel-batches, v3.16.3, True
+43508, @lerna/run-parallel-batches, v3.16.2, True
+43509, @lerna/run-parallel-batches, v3.16.1, True
+43510, @lerna/run-parallel-batches, v3.16.0, True
+43511, @lerna/run-parallel-batches, v3.15.0, True
+43512, @lerna/run-parallel-batches, v3.14.2, True
+43513, @lerna/run-parallel-batches, v3.14.1, True
+43514, @lerna/run-parallel-batches, v3.14.0, True
+43515, @lerna/run-parallel-batches, v3.13.4, True
+43516, @lerna/run-parallel-batches, v3.13.3, True
+43517, @lerna/run-parallel-batches, v3.13.2, True
+43518, @lerna/run-parallel-batches, v3.13.1, True
+43519, @lerna/run-parallel-batches, v3.13.0, True
+43520, merge-options, v2.0.0, True
+43521, merge-options, v1.0.0, False, 1, 0, 1, 0, 0
+43522, merge-options, v0.0.64, False, 1, 0, 1, 0, 0
+43523, retry-axios, v2.6.0, True
+43524, retry-axios, v2.5.1, True
+43525, retry-axios, v2.5.0, True
+43526, retry-axios, v2.4.0, True
+43527, retry-axios, v2.3.0, True
+43528, retry-axios, v2.2.1, True
+43529, retry-axios, v2.2.0, True
+43530, retry-axios, v2.1.3, True
+43531, retry-axios, v2.1.2, True
+43532, retry-axios, v2.1.1, True
+43533, retry-axios, v2.1.0, True
+43534, retry-axios, v2.0.1, True
+43535, retry-axios, v2.0.0, True
+43536, retry-axios, v1.0.2, True
+43537, retry-axios, v1.0.1, True
+43538, retry-axios, v1.0.0, True
+43539, retry-axios, v0.5.0, True
+43540, retry-axios, v0.4.1, True
+43541, retry-axios, v0.4.0, True
+43542, retry-axios, v0.3.2, True
+43543, retry-axios, v0.3.1, True
+43544, retry-axios, v0.3.0, True
+43545, retry-axios, v0.2.0, True
+43546, retry-axios, v0.1.0, True
+43547, retry-axios, v0.0.1, True
+43548, utf-8-validate, v5.0.7, True
+43549, utf-8-validate, v5.0.6, True
+43550, utf-8-validate, v5.0.5, True
+43551, utf-8-validate, v5.0.4, True
+43552, utf-8-validate, v5.0.3, True
+43553, utf-8-validate, v5.0.2, True
+43554, utf-8-validate, v5.0.1, True
+43555, utf-8-validate, v5.0.0, True
+43556, utf-8-validate, v4.0.2, True
+43557, utf-8-validate, v4.0.1, True
+43558, utf-8-validate, v4.0.0, True
+43559, utf-8-validate, v3.0.4, True
+43560, utf-8-validate, v3.0.3, True
+43561, utf-8-validate, v3.0.2, False, 1, 0, 0, 1, 0
+43562, utf-8-validate, v3.0.1, False, 1, 0, 0, 1, 0
+43563, yeoman-assert, v3.1.0, True
+43564, yeoman-assert, v3.0.0, True
+43565, yeoman-assert, v2.2.2, False, 9, 1, 4, 4, 0
+43566, yeoman-assert, v2.2.1, False, 9, 1, 4, 4, 0
+43567, yeoman-assert, v2.2.0, False, 9, 1, 4, 4, 0
+43568, yeoman-assert, v2.1.2, False, 9, 1, 4, 4, 0
+43569, yeoman-assert, v2.1.1, False, 9, 1, 4, 4, 0
+43570, yeoman-assert, v2.1.0, False, 9, 1, 4, 4, 0
+43571, yeoman-assert, v2.0.0, False, 9, 1, 4, 4, 0
+43572, eslint-config-semistandard, v16.0.0, True
+43573, gulp-usemin, v0.3.9, False, 5, 0, 5, 0, 0
+43574, gulp-usemin, v0.3.6, False, 4, 0, 4, 0, 0
+43575, gulp-usemin, v0.3.1, False, 1, 0, 1, 0, 0
+43576, gulp-usemin, 0.2.3, False, 1, 0, 1, 0, 0
+43577, better-scroll, v2.4.2, True
+43578, better-scroll, v2.4.1, True
+43579, better-scroll, v2.4.0, True
+43580, better-scroll, v2.3.1, True
+43581, better-scroll, v2.3.0, True
+43582, better-scroll, v2.2.1, True
+43583, better-scroll, v2.1.4, True
+43584, better-scroll, v2.1.3, True
+43585, better-scroll, v2.1.1, True
+43586, better-scroll, v2.1.0, True
+43587, better-scroll, v2.0.6, True
+43588, better-scroll, v2.0.5, True
+43589, better-scroll, v2.0.4, True
+43590, better-scroll, v2.0.3, True
+43591, better-scroll, v2.0.2, True
+43592, better-scroll, v2.0.1, True
+43593, better-scroll, v2.0.0, True
+43594, better-scroll, v1.15.0, True
+43595, better-scroll, v1.14.0, True
+43596, better-scroll, v1.13.0, True
+43597, better-scroll, v1.12.0, True
+43598, better-scroll, v1.11.1, True
+43599, better-scroll, v1.10.3, True
+43600, better-scroll, v1.10.0, True
+43601, better-scroll, v1.9.0, True
+43602, better-scroll, v1.8.4, True
+43603, better-scroll, v1.8.1, True
+43604, better-scroll, v1.8.0, True
+43605, better-scroll, v1.7.0, True
+43606, better-scroll, v1.6.3, True
+43607, catbox, v11.1.1, True
+43608, uncss, 0.17.3, True
+43609, uncss, 0.17.2, True
+43610, uncss, 0.17.1, True
+43611, uncss, 0.17.0, True
+43612, uncss, 0.16.2, False, 1, 0, 0, 1, 0
+43613, uncss, 0.16.1, False, 1, 0, 0, 1, 0
+43614, uncss, 0.16.0, False, 1, 0, 0, 1, 0
+43615, uncss, 0.15.0, False, 2, 0, 0, 2, 0
+43616, uncss, 0.14.1, False, 19, 1, 6, 12, 0
+43617, uncss, 0.14.0, False, 19, 1, 6, 12, 0
+43618, uncss, 0.13.0, False, 31, 1, 9, 21, 0
+43619, uncss, 0.12.1, False, 34, 1, 11, 21, 1
+43620, uncss, 0.12.0, False, 34, 1, 11, 21, 1
+43621, uncss, 0.11.0, False, 35, 1, 11, 22, 1
+43622, uncss, 0.7.4, False, 28, 0, 5, 20, 3
+43623, uncss, 0.10.0, False, 28, 0, 7, 19, 2
+43624, uncss, 0.9.1, False, 28, 0, 7, 19, 2
+43625, uncss, 0.9.0, False, 26, 0, 5, 19, 2
+43626, jest-junit, v13.0.0, True
+43627, jest-junit, v12.3.0, False, 1, 0, 1, 0, 0
+43628, jest-junit, v12.2.0, False, 1, 0, 1, 0, 0
+43629, jest-junit, v12.1.0, False, 1, 0, 1, 0, 0
+43630, jest-junit, v12.0.0, False, 1, 0, 1, 0, 0
+43631, jest-junit, v11.1.0, False, 1, 0, 1, 0, 0
+43632, jest-junit, v11.0.1, False, 1, 0, 1, 0, 0
+43633, jest-junit, v11.0.0, False, 2, 0, 2, 0, 0
+43634, jest-junit, v10.0.0, False, 2, 0, 2, 0, 0
+43635, jest-junit, v9.0.0, False, 2, 0, 2, 0, 0
+43636, jest-junit, v8.0.0, False, 2, 0, 2, 0, 0
+43637, jest-junit, v7.0.0, False, 2, 0, 2, 0, 0
+43638, jest-junit, v6.4.0, False, 2, 0, 2, 0, 0
+43639, jest-junit, v6.3.0, False, 2, 0, 2, 0, 0
+43640, jest-junit, v6.2.1, False, 2, 0, 2, 0, 0
+43641, jest-junit, v6.2.0, False, 2, 0, 2, 0, 0
+43642, jest-junit, v6.1.0, False, 31, 0, 13, 9, 9
+43643, jest-junit, v6.0.1, False, 31, 0, 13, 9, 9
+43644, jest-junit, v6.0.0, False, 31, 0, 13, 9, 9
+43645, jest-junit, v5.2.0, False, 31, 0, 13, 9, 9
+43646, jest-junit, v5.1.0, False, 2, 0, 2, 0, 0
+43647, jest-junit, v5.0.0, False, 2, 0, 2, 0, 0
+43648, jest-junit, v4.0.0, False, 1, 0, 1, 0, 0
+43649, jest-junit, v3.7.0, False, 1, 0, 1, 0, 0
+43650, jest-junit, v3.6.0, False, 1, 0, 1, 0, 0
+43651, jest-junit, v3.5.0, False, 1, 0, 1, 0, 0
+43652, jest-junit, v3.4.1, False, 1, 0, 1, 0, 0
+43653, jest-junit, v3.4.0, False, 1, 0, 1, 0, 0
+43654, jest-junit, v3.3.0, False, 1, 0, 1, 0, 0
+43655, jest-junit, v3.2.1, False, 1, 0, 1, 0, 0
+43656, webpackbar, v3.0.0, False, 2, 0, 2, 0, 0
+43657, material-design-icons, 4.0.0, error, Couldn't find the requested package or version
+43658, material-design-icons, 3.0.2, True
+43659, material-design-icons, 3.0.1, True
+43660, material-design-icons, 3.0.0, True
+43661, material-design-icons, 2.2.3, True
+43662, material-design-icons, 2.2.2, True
+43663, material-design-icons, 2.2.1, True
+43664, material-design-icons, 2.2.0, True
+43665, material-design-icons, v2.1.3, True
+43666, material-design-icons, 2.1.1, True
+43667, material-design-icons, 2.1, True
+43668, material-design-icons, 2.0.0, True
+43669, material-design-icons, 1.0.2b, True
+43670, material-design-icons, 1.0.1, True
+43671, material-design-icons, 1.0.0, True
+43672, material-design-icons, 1.0.0-pre, True
+43673, babel-plugin-htmlbars-inline-precompile, v5.3.1, True
+43674, babel-plugin-htmlbars-inline-precompile, v5.3.0, True
+43675, babel-plugin-htmlbars-inline-precompile, v5.2.2, True
+43676, babel-plugin-htmlbars-inline-precompile, v5.2.1, True
+43677, babel-plugin-htmlbars-inline-precompile, v5.2.0, True
+43678, babel-plugin-htmlbars-inline-precompile, v5.1.0, True
+43679, babel-plugin-htmlbars-inline-precompile, v5.0.0, True
+43680, babel-plugin-htmlbars-inline-precompile, v4.4.6, True
+43681, babel-plugin-htmlbars-inline-precompile, v4.4.5, True
+43682, babel-plugin-htmlbars-inline-precompile, v4.4.4, True
+43683, babel-plugin-htmlbars-inline-precompile, v4.4.3, True
+43684, babel-plugin-htmlbars-inline-precompile, v4.4.2, True
+43685, babel-plugin-htmlbars-inline-precompile, v4.4.1, True
+43686, babel-plugin-htmlbars-inline-precompile, v4.4.0, True
+43687, babel-plugin-htmlbars-inline-precompile, v4.3.0, True
+43688, babel-plugin-htmlbars-inline-precompile, v4.2.1, True
+43689, babel-plugin-htmlbars-inline-precompile, v3.2.0, True
+43690, babel-plugin-htmlbars-inline-precompile, v4.2.0, True
+43691, babel-plugin-htmlbars-inline-precompile, v4.1.0, True
+43692, babel-plugin-htmlbars-inline-precompile, v4.0.1, True
+43693, babel-plugin-htmlbars-inline-precompile, v4.0.0, True
+43694, babel-plugin-htmlbars-inline-precompile, v3.1.0, True
+43695, babel-plugin-htmlbars-inline-precompile, v3.0.1, True
+43696, babel-plugin-htmlbars-inline-precompile, v3.0.0, True
+43697, babel-plugin-htmlbars-inline-precompile, v2.1.1, True
+43698, babel-plugin-htmlbars-inline-precompile, v2.1.0, True
+43699, babel-plugin-htmlbars-inline-precompile, v2.0.0, True
+43700, google-closure-compiler, 20170423.0.0, True
+43701, google-closure-compiler, 20161201.0.0, True
+43702, google-closure-compiler, 20161024.2.0, True
+43703, google-closure-compiler, 20161024.1.0, False, 4, 0, 1, 2, 1
+43704, google-closure-compiler, 20161024.0.0, False, 4, 0, 1, 2, 1
+43705, google-closure-compiler, 20160911.0.0, False, 4, 0, 1, 2, 1
+43706, google-closure-compiler, 20160822.1.0, False, 4, 0, 1, 2, 1
+43707, google-closure-compiler, 20160822.0.0, False, 4, 0, 1, 2, 1
+43708, google-closure-compiler, 20160713.3.0, False, 4, 0, 1, 2, 1
+43709, google-closure-compiler, 20160713.2.0, False, 4, 0, 1, 2, 1
+43710, google-closure-compiler, 20160713.1.0, False, 4, 0, 1, 2, 1
+43711, google-closure-compiler, 20160713.0.0, False, 4, 0, 1, 2, 1
+43712, google-closure-compiler, 20160619.0.0, False, 4, 0, 1, 2, 1
+43713, google-closure-compiler, 20160315.2.0, False, 4, 0, 1, 2, 1
+43714, google-closure-compiler, 20151216.0.0, False, 4, 0, 1, 2, 1
+43715, select2, 4.1.0-rc.0, True
+43716, select2, 4.1.0-beta.1, True
+43717, select2, 4.1.0-beta.0, True
+43718, select2, 4.0.13, True
+43719, select2, 4.0.12, True
+43720, select2, 4.0.11, True
+43721, select2, 4.0.10, True
+43722, select2, 4.0.9, True
+43723, select2, 4.0.8, True
+43724, select2, 4.0.7, False, 1, 0, 0, 1, 0
+43725, select2, 4.0.7-rc.0, False, 1, 0, 0, 1, 0
+43726, select2, 4.0.6, False, 1, 0, 0, 1, 0
+43727, select2, 4.0.6-rc.1, False, 1, 0, 0, 1, 0
+43728, select2, 4.0.6-rc.0, False, 1, 0, 0, 1, 0
+43729, select2, 4.0.5, False, 1, 0, 0, 1, 0
+43730, select2, 4.0.4, False, 1, 0, 0, 1, 0
+43731, select2, 4.0.3, False, 1, 0, 0, 1, 0
+43732, select2, 4.0.2, False, 1, 0, 0, 1, 0
+43733, select2, 4.0.2-rc.1, False, 1, 0, 0, 1, 0
+43734, select2, 4.0.1, False, 1, 0, 0, 1, 0
+43735, select2, 3.5.4, True
+43736, select2, 3.5.3, True
+43737, select2, 4.0.1-rc.1, True
+43738, select2, 4.0.0, False, 1, 0, 0, 1, 0
+43739, select2, 4.0.0-rc.2, True
+43740, select2, 4.0.0-rc.1, True
+43741, select2, 4.0.0-beta.3, True
+43742, select2, 4.0.0-beta.2, True
+43743, select2, 4.0.0-beta.1, error, Couldn't find the requested package or version
+43744, emotion-theming, @emotion/eslint-plugin@11.5.0, error, Couldn't find the requested package or version
+43745, emotion-theming, @emotion/cache@11.5.0, error, Couldn't find the requested package or version
+43746, emotion-theming, @emotion/sheet@1.0.3, error, Couldn't find the requested package or version
+43747, emotion-theming, @emotion/react@11.5.0, error, Couldn't find the requested package or version
+43748, emotion-theming, @emotion/css@11.5.0, error, Couldn't find the requested package or version
+43749, emotion-theming, @emotion/jest@11.5.0, error, Couldn't find the requested package or version
+43750, emotion-theming, @emotion/sheet@1.0.2, error, Couldn't find the requested package or version
+43751, emotion-theming, @emotion/react@11.4.1, error, Couldn't find the requested package or version
+43752, emotion-theming, @emotion/cache@11.4.0, error, Couldn't find the requested package or version
+43753, emotion-theming, @emotion/server@11.4.0, error, Couldn't find the requested package or version
+43754, emotion-theming, @emotion/react@11.4.0, error, Couldn't find the requested package or version
+43755, emotion-theming, @emotion/serialize@1.0.2, error, Couldn't find the requested package or version
+43756, emotion-theming, @emotion/styled@11.3.0, error, Couldn't find the requested package or version
+43757, emotion-theming, @emotion/jest@11.3.0, error, Couldn't find the requested package or version
+43758, emotion-theming, @emotion/babel-plugin@11.3.0, error, Couldn't find the requested package or version
+43759, emotion-theming, @emotion/serialize@1.0.1, error, Couldn't find the requested package or version
+43760, emotion-theming, @emotion/jest@11.2.1, error, Couldn't find the requested package or version
+43761, emotion-theming, babel-plugin-emotion@10.2.2, error, Couldn't find the requested package or version
+43762, emotion-theming, @emotion/babel-plugin@11.2.0, error, Couldn't find the requested package or version
+43763, emotion-theming, @emotion/eslint-plugin@11.2.0, error, Couldn't find the requested package or version
+43764, emotion-theming, @emotion/babel-preset-css-prop@11.2.0, error, Couldn't find the requested package or version
+43765, emotion-theming, @emotion/jest@11.2.0, error, Couldn't find the requested package or version
+43766, emotion-theming, @emotion/is-prop-valid@1.1.0, error, Couldn't find the requested package or version
+43767, emotion-theming, @emotion/styled@11.1.5, error, Couldn't find the requested package or version
+43768, emotion-theming, @emotion/react@11.1.5, error, Couldn't find the requested package or version
+43769, emotion-theming, @emotion/react@11.1.4, error, Couldn't find the requested package or version
+43770, emotion-theming, @emotion/css@11.1.3, error, Couldn't find the requested package or version
+43771, emotion-theming, @emotion/react@11.1.3, error, Couldn't find the requested package or version
+43772, emotion-theming, @emotion/cache@11.1.3, error, Couldn't find the requested package or version
+43773, emotion-theming, @emotion/babel-plugin@11.1.2, error, Couldn't find the requested package or version
+43774, grunt-bootlint, v1.1.0, False, 2, 0, 1, 1, 0
+43775, grunt-bootlint, v1.0.0, False, 2, 0, 1, 1, 0
+43776, grunt-bootlint, v0.12.4, False, 2, 0, 1, 1, 0
+43777, grunt-bootlint, v0.12.3, False, 2, 0, 1, 1, 0
+43778, grunt-bootlint, v0.12.2, False, 2, 0, 1, 1, 0
+43779, grunt-bootlint, v0.12.1, False, 2, 0, 1, 1, 0
+43780, grunt-bootlint, v0.12.0, False, 2, 0, 1, 1, 0
+43781, grunt-bootlint, v0.11.1, False, 2, 0, 1, 1, 0
+43782, grunt-bootlint, v0.10.2, False, 13, 1, 5, 6, 1
+43783, grunt-bootlint, v0.10.1, False, 13, 1, 5, 6, 1
+43784, grunt-bootlint, v0.10.0, False, 13, 1, 5, 6, 1
+43785, grunt-bootlint, v0.9.1, False, 11, 1, 6, 4, 0
+43786, grunt-bootlint, v0.9.0, False, 11, 1, 6, 4, 0
+43787, grunt-bootlint, v0.8.0, False, 11, 1, 6, 4, 0
+43788, grunt-bootlint, v0.7.0, False, 11, 1, 6, 4, 0
+43789, catbox-memory, v2.0.3, True
+43790, catbox-memory, v2.0.2, True
+43791, catbox-memory, v2.0.1, False, 1, 0, 0, 1, 0
+43792, catbox-memory, v2.0.0, False, 1, 0, 0, 1, 0
+43793, catbox-memory, v1.1.2, False, 1, 0, 0, 1, 0
+43794, catbox-memory, v1.1.1, False, 1, 0, 0, 1, 0
+43795, catbox-memory, v1.1.0, False, 1, 0, 0, 1, 0
+43796, @lerna/github-client, v4.0.0, True
+43797, @lerna/github-client, v3.22.1, True
+43798, @lerna/github-client, v3.22.0, True
+43799, @lerna/github-client, v3.21.0, True
+43800, @lerna/github-client, v3.20.2, True
+43801, @lerna/github-client, v3.20.1, True
+43802, @lerna/github-client, v3.20.0, True
+43803, @lerna/github-client, v3.19.0, True
+43804, @lerna/github-client, v3.18.5, True
+43805, @lerna/github-client, v3.18.4, True
+43806, @lerna/github-client, v3.18.3, True
+43807, @lerna/github-client, v3.18.2, True
+43808, @lerna/github-client, v3.18.1, True
+43809, @lerna/github-client, v3.18.0, True
+43810, @lerna/github-client, v3.17.0, True
+43811, @lerna/github-client, v3.16.5, True
+43812, @lerna/github-client, v3.16.4, True
+43813, @lerna/github-client, v3.16.3, True
+43814, @lerna/github-client, v3.16.2, True
+43815, @lerna/github-client, v3.16.1, True
+43816, @lerna/github-client, v3.16.0, True
+43817, @lerna/github-client, v3.15.0, True
+43818, @lerna/github-client, v3.14.2, True
+43819, @lerna/github-client, v3.14.1, True
+43820, @lerna/github-client, v3.14.0, True
+43821, @lerna/github-client, v3.13.4, True
+43822, @lerna/github-client, v3.13.3, True
+43823, @lerna/github-client, v3.13.2, True
+43824, @lerna/github-client, v3.13.1, True
+43825, @lerna/github-client, v3.13.0, True
+43826, bundle-loader, v0.5.4, True
+43827, bundle-loader, v0.5.6, True
+43828, bundle-loader, v0.5.5, True
+43829, ink, v3.2.0, True
+43830, ink, v3.1.0, True
+43831, ink, v3.0.9, True
+43832, ink, v3.0.8, False, 1, 0, 1, 0, 0
+43833, ink, v3.0.7, False, 1, 0, 1, 0, 0
+43834, ink, v3.0.6, False, 1, 0, 1, 0, 0
+43835, ink, v3.0.5, False, 1, 0, 1, 0, 0
+43836, ink, v3.0.4, False, 1, 0, 1, 0, 0
+43837, ink, v3.0.3, False, 1, 0, 1, 0, 0
+43838, ink, v3.0.2, False, 1, 0, 1, 0, 0
+43839, ink, v3.0.1, False, 1, 0, 1, 0, 0
+43840, ink, v3.0.0, False, 1, 0, 1, 0, 0
+43841, ink, v3.0.0-7, False, 1, 0, 1, 0, 0
+43842, ink, v3.0.0-6, False, 1, 0, 1, 0, 0
+43843, ink, v3.0.0-5, False, 1, 0, 1, 0, 0
+43844, ink, v3.0.0-4, False, 1, 0, 1, 0, 0
+43845, ink, v3.0.0-3, False, 1, 0, 1, 0, 0
+43846, ink, v3.0.0-2, False, 1, 0, 1, 0, 0
+43847, ink, v3.0.0-1, False, 1, 0, 1, 0, 0
+43848, ink, v3.0.0-0, False, 1, 0, 1, 0, 0
+43849, ink, v2.7.1, False, 3, 0, 3, 0, 0
+43850, ink, v2.7.0, False, 3, 0, 3, 0, 0
+43851, ink, v2.6.0, False, 3, 0, 3, 0, 0
+43852, ink, v2.5.0, False, 7, 0, 7, 0, 0
+43853, ink, v2.4.0, False, 7, 0, 7, 0, 0
+43854, ink, v2.3.0, False, 7, 0, 7, 0, 0
+43855, ink, v2.2.0, False, 7, 0, 7, 0, 0
+43856, ink, v2.1.1, False, 7, 0, 7, 0, 0
+43857, ink, v2.1.0, False, 7, 0, 7, 0, 0
+43858, ink, v2.0.6, False, 4, 0, 4, 0, 0
+43859, color-diff, v1.2.0, True
+43860, color-diff, v1.1.0, True
+43861, kebab-case, v1.0.1, True
+43862, @csstools/normalize.css, 11.0.1, True
+43863, @csstools/normalize.css, 11.0.0, True
+43864, @csstools/normalize.css, 9.0.0, True
+43865, @csstools/normalize.css, 8.1.0, True
+43866, gulp-json-editor, v2.5.6, True
+43867, gulp-json-editor, v2.5.5, True
+43868, gulp-json-editor, v2.5.4, True
+43869, gulp-json-editor, v2.5.3, True
+43870, gulp-json-editor, v2.5.2, True
+43871, gulp-json-editor, v2.5.1, True
+43872, gulp-json-editor, v2.5.0, True
+43873, gulp-json-editor, v2.4.4, True
+43874, gulp-json-editor, v2.4.3, True
+43875, gulp-json-editor, v2.4.2, True
+43876, gulp-json-editor, v2.4.1, True
+43877, gulp-json-editor, v2.4.0, True
+43878, gulp-json-editor, v2.3.0, True
+43879, gulp-json-editor, v2.2.2, True
+43880, grunt-nuget, 0.1.4, False, 56, 5, 30, 21, 0
+43881, grunt-nuget, 0.1.3, False, 56, 5, 30, 21, 0
+43882, grunt-nuget, 0.1.2, False, 56, 5, 30, 21, 0
+43883, grunt-nuget, 0.1.0, False, 56, 5, 30, 21, 0
+43884, grunt-nuget, 0.1.1, False, 56, 5, 30, 21, 0
+43885, collections, v5.1.11, True
+43886, collections, v5.1.9, True
+43887, collections, v5.1.8, True
