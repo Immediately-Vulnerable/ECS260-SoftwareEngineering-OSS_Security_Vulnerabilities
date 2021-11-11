@@ -7,6 +7,8 @@ import requests
 from pprint import pprint
 import base64
 from github import Github
+import bq_helper
+from bq_helper import BigQueryHelper
 
 
 def helper_print_repo(repo):
@@ -81,7 +83,7 @@ def data_get_github_public_multiple_repositories():
 
 
 def data_get_github_public_search():
-    topic = "npm"
+    topic = "python"
     print("Github Statistics: Public Repositories Search | Topic: ["+str(topic)+"].")
     username = "parichaya"
     g = Github()
@@ -96,11 +98,78 @@ def data_get_github_public_search():
             break
     print("End of Public Repository Search | Count = [" + str(count) + "] | Topic = [" + str(topic) + "].")
 
+def data_libraries_io():
+    print("Libraries.io Data")
+    library = bq_helper.BigQueryHelper(active_project="bigquery-public-data",
+                                       dataset_name="libraries_io")
+
+    bq_assistant = BigQueryHelper("bigquery-public-data", "libraries_io")
+    print(bq_assistant.list_tables())
+    print(bq_assistant.head("repositories", num_rows=20))
+    #print(bq_assistant.table_schema("repositories"))
+    print("What are the repositories, avg project size, and avg # of stars?")
+    sql_q1 = """
+                SELECT
+                  host_type,
+                  COUNT(*) repositories,
+                  ROUND(AVG(size),2) avg_size,
+                  ROUND(AVG(stars_count),2) avg_stars
+                FROM
+                  `bigquery-public-data.libraries_io.repositories`
+                GROUP BY
+                  host_type
+                ORDER BY
+                  repositories DESC
+                LIMIT
+                  1000;
+        """
+    response1 = library.query_to_pandas_safe(sql_q1)
+    print(response1.head(10))
+    print("Type: " + str(type(response1)))
+
+
+    print("What are the top dependencies per platform?")
+    sql_q2 = """
+                SELECT
+                  dependency_platform,
+                  COUNT(*) dependencies,
+                  APPROX_TOP_COUNT(dependency_name, 3) top_dependencies
+                FROM
+                  `bigquery-public-data.libraries_io.dependencies`
+                GROUP BY
+                  dependency_platform
+                ORDER BY
+                  dependencies DESC;
+        """
+    response2 = library.query_to_pandas_safe(sql_q2, max_gb_scanned=10)
+    print(response2.head(20))
+
+    print("What are the top unmaintained or deprecated projects?")
+    sql_q3 = """
+                SELECT
+                  name,
+                  repository_sourcerank,
+                  LANGUAGE,
+                  status
+                FROM
+                  `bigquery-public-data.libraries_io.projects_with_repository_fields`
+                WHERE
+                  status IN ('Deprecated',
+                    'Unmaintained')
+                ORDER BY
+                  repository_sourcerank DESC
+                LIMIT
+                  20;
+        """
+    response3 = library.query_to_pandas_safe(sql_q3, max_gb_scanned=10)
+    print(response3.head(20))
+
+
 if __name__ == '__main__':
     #data_fetch_drill()
     #data_get_github_private_multiple_repositories()
     #data_get_github_public_multiple_repositories()
-    data_get_github_public_search()
-    pass
+    #data_get_github_public_search()
+    data_libraries_io()
 
 
