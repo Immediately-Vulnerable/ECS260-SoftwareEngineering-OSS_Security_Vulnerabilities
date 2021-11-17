@@ -4,7 +4,7 @@ import multiprocessing as mp
 import pandas as pd
 
 
-def fetch_vuln(package_name, package_version, github_url):
+def fetch_vuln(package_name, package_version, github_url = None):
     """
     Todo: add try-catch and timeout, try subprocess
     """
@@ -21,7 +21,7 @@ def fetch_vuln(package_name, package_version, github_url):
             command = "snyk test {}@{} --json".format(package_name, package_version)
             r = subprocess.run(command, timeout=TIMEOUT, shell=True, capture_output=True)
             vuln_json = json.loads(r.stdout)
-            if "error" in vuln_json:
+            if "error" in vuln_json and github_url is not None:
                 command = "snyk test {} --json".format(github_url)
                 r = subprocess.run(command, timeout=TIMEOUT, shell=True, capture_output=True)
                 vuln_json = json.loads(r.stdout)
@@ -97,7 +97,10 @@ def generate_vuln_file(in_fname, out_fname, errlog_fname, id_index, name_index, 
                 id = row[id_index]
                 name = row[name_index]
                 version = row[version_index]
-                url = row[url_index]
+                if url_index is not None:
+                    url = row[url_index]
+                else:
+                    url = None
                 output_arr = [id, name, version]
                 
                 this_vuln_json = fetch_vuln(name, version, url)
@@ -120,19 +123,7 @@ def generate_vuln_file(in_fname, out_fname, errlog_fname, id_index, name_index, 
             errlog.close()
     
 
-
-## Old test file
-# proj_fname = dir + "(NPM_extracted)projects_with_repository_fields-1.6.0-2020-01-12.csv"
-# vuln_fname = dir + "output/project_vuln_sample.csv"
-# id_index = 0
-# name_index = 2
-# version_index = 13
-
-# in_fname = dir + "split/github_releases_{}.csv".format("1")
-# out_fname = dir + "output/github_releases_{}.csv".format("1")
-# errlog_fname = out_fname.replace(".csv", "_err.txt")
-
-def para_wrapper(raw_file, i, id_index, name_index, version_index, url_index, skip = None):
+def para_wrapper(raw_file, i, id_index, name_index, version_index, url_index = None, skip = None):
     dir = "/Users/Nan/projects/ECS260/snyk/data/npm/"
     in_fname = dir + "split/{}_{}.csv".format(raw_file, str(i))
     out_fname = dir + "output/{}_{}.csv".format(raw_file, str(i))
