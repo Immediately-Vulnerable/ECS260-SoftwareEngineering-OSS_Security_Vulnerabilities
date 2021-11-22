@@ -1,7 +1,5 @@
 import os, json, csv
 import subprocess
-import multiprocessing as mp
-import pandas as pd
 
 
 def fetch_vuln(package_name, package_version, github_url = None):
@@ -10,10 +8,6 @@ def fetch_vuln(package_name, package_version, github_url = None):
     """
     MAX_RETRY = 10
     TIMEOUT = 60*3
-
-    # vuln_file = "vuln_{}.json".format(package_name"
-    # command = "snyk test {}@{} --json-file-output={}".format(package_name, package_version, vuln_file)
-
     retry_counter = MAX_RETRY
 
     while retry_counter > 0:
@@ -33,7 +27,8 @@ def fetch_vuln(package_name, package_version, github_url = None):
             print("{} retries left".format(retry_counter))
         except Exception as e:
             print(e)
-            raise Exception()
+            retry_counter -= 1
+            print("{} retries left".format(retry_counter))
 
     if retry_counter == 0:
         raise Exception("Maxed out tries")
@@ -123,9 +118,10 @@ def generate_vuln_file(in_fname, out_fname, errlog_fname, id_index, name_index, 
             errlog.close()
     
 
-def para_wrapper(raw_file, i, id_index, name_index, version_index, url_index = None, skip = None):
+def para_wrapper(raw_file, i, id_index, name_index, version_index, url_index = None, skip = None, sample_size = None):
     dir = "/Users/Nan/projects/ECS260/snyk/data/npm/"
     in_fname = dir + "split/{}_{}.csv".format(raw_file, str(i))
     out_fname = dir + "output/{}_{}.csv".format(raw_file, str(i))
     errlog_fname = out_fname.replace(".csv", "_err.txt")
-    generate_vuln_file(in_fname, out_fname, errlog_fname, id_index=id_index, name_index=name_index, version_index=version_index, url_index=url_index, skip = skip)
+    generate_vuln_file(in_fname, out_fname, errlog_fname, id_index=id_index, name_index=name_index, version_index=version_index, 
+                        url_index=url_index, skip = skip, sample_size = sample_size)

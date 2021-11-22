@@ -9,7 +9,7 @@ That being said, to run the script, we need both
 * Complete authentication by `synk auth`
 
 To run (for now):
-`python3 -c 'import extract_snyk; extract_snyk.para_wrapper("github_releases", 1, skip = 4562)'`
+`python3 -c 'import extract_snyk; extract_snyk.para_wrapper("top_2000_package_release",id_index=0,name_index=3,version_index=4, i=1)'`
 
 ## Vulnerability Lookup in Snyk DB
 Lookup by
