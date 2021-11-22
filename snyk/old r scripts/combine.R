@@ -55,9 +55,14 @@ count(res, res$num_vuln)
 
 ori_rank <- read.csv("stars_from_top5k_PageRank.csv", header = TRUE, as.is = TRUE, 
                      strip.white = TRUE, comment.char = "")
+ori_rank <- ori_rank[1:2000,]
 ori_rank$In.Release.Csv <- ori_rank$Name %in% res$Name
 ori_rank$In.Vuln.Combined <- ori_rank$Repository %in% vuln_combined$Repository.URL
 ori_rank$Can.Fix <- ori_rank$In.Release.Csv == FALSE && ori_rank$In.Vuln.Combined == TRUE
+
+missing_release <- ori_rank[ori_rank$In.Release.Csv == FALSE,]
+missing_release <- subset(missing_release, select = -c(In.Release.Csv, In.Vuln.Combined, Can.Fix))
+write.csv(missing_release, file = "447_missing_package.csv", quote = FALSE, row.names = FALSE )
 
 ###
 res_latest <- res[duplicated(res$Name)==FALSE, ]
@@ -136,7 +141,7 @@ length(unique(res_had_vuln$Name))
 
 res_had_vuln$is_ok <- as.logical(res_had_vuln$is_ok)
 res_had_vuln$has_vuln <- !res_had_vuln$is_ok
-res_had_vuln_mean <- aggregate(res_had_vuln$has_vuln, list(res_had_vuln$Name, res_had_vuln$rank))
+res_had_vuln_mean <- aggregate(res_had_vuln$has_vuln, list(res_had_vuln$Name, res_had_vuln$rank), mean)
 colnames(res_had_vuln_mean) <- c("Name", "rank", "mean")
 res_had_vuln_mean$percentage <- floor(res_had_vuln_mean$mean*100)
 
@@ -146,4 +151,16 @@ p <- ggplot(res_had_vuln_mean, aes(x=percentage )) +
   ylab("Package Count") +
   xlab("Versions with Vulnerabilities (%)") + 
   ggtitle("Percentage of Versions with Vulnerabilities")
+p
+
+res_had_vuln_total <- aggregate(res_had_vuln$has_vuln,  by = list(res_had_vuln$Name, res_had_vuln$rank), FUN = function(x) length(x)   )
+colnames(res_had_vuln_total) <- c("Name", "rank", "total")
+res_had_vuln_sum <- aggregate(res_had_vuln$has_vuln,  by = list(res_had_vuln$Name, res_had_vuln$rank), FUN = function(x) sum(x) )
+colnames(res_had_vuln_sum) <- c("Name", "rank", "sum")
+
+res_had_vuln_summary <- merge(res_had_vuln_total, res_had_vuln_sum, by = c("Name", "rank") )
+p <- ggplot(res_had_vuln_summary, aes(x=total, y=sum)) + 
+  geom_point() +
+  geom_rug(col="steelblue",alpha=0.1, size=1.5) + 
+  scale_x_continuous(limits = c(0, 30))
 p
