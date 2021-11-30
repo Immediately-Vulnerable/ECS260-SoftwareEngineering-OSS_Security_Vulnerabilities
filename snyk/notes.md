@@ -2,9 +2,7 @@
 Notes on Running `extract_snyk.py`
 
 ## Prerequisite & Notes
-This scripts can be running **only locally** for now, because `Snyk CLI` requires authentication, which I haven't figure out how to bypass in Google Colab.
-
-That being said, to run the script, we need both
+To run the script, we need both
 * Install `Snyk CLI`
 * Complete authentication by `synk auth`
 
@@ -27,7 +25,13 @@ So far, I only output the following vulnerability info from the Json file:
 * *medium*: int, number of medium serverity vulnerabilities
 * *low*: int, number of low serverity vulnerabilities
 
-A sample output can be found at `snyk/data/npm/output/project_vuln_sample.csv`.
+More info:
+Most column are self-explanatory and use the exact name from the Snyk DB json (a sample here at notes.md). A couple of additional/different columns:
+* vulnIndex: index for vulnerabilities within the same package release, starting at 1.
+* path: corresponds to the "from" list from the json file, a list of vulnerabilities tracing back to the source package
+* pathDepth: length of path
+* rootPackage: corresponds to the "Name" from json, the root of the * vulnerable source package
+* rootPackageVersion: version for the above
 
 ## Appendix A: Sample Snyk Json output 
 Example `npm` package: `jquery-ui`, vulnerable version <1.13.0.

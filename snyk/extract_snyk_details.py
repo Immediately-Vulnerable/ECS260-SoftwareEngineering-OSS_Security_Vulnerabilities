@@ -39,11 +39,11 @@ def fetch_vuln(package_name, package_version, github_url = None):
 def extract_vuln_details(vuln_json):
     """
     colnames = ["is_ok", "vulnIndex", "creationTime", "disclosureTime", "modificationTime", "publicationTime",
-                "severity", "title", "path", "pathDepth", "rootPackage", "rootPackageVersion" ,"upgradePath", "isUpgradable", "isPatchable", "isPinnable" ]
+                "severity", "title", "path", "pathDepth", "rootPackage", "rootPackageVersion" ,"upgradePath", "isUpgradable", "isPatchable", "isPinnable", "fixedIn", "semver"]
     Case 1: return [ "error" + "err message" ]
     Case 2: return [ "true" ]
     Case 3: return [ ["false", vulnIndex(int), creationTime, disclosureTime, modificationTime, publicationTime, 
-                      severity, title, from/path(arr), pathDepth(int), rootPackage, rootPackageVersion, upgradePath(arr), isUpgradable, isPatchable, isPinnable],
+                      severity, title, from/path(arr), pathDepth(int), rootPackage, rootPackageVersion, upgradePath(arr), isUpgradable, isPatchable, isPinnable, fixedIn, semver],
                      ...
                     ]       
     """
@@ -72,7 +72,8 @@ def extract_vuln_details(vuln_json):
                             this_vuln_json["from"], len(this_vuln_json["from"]), 
                             this_vuln_json["name"], this_vuln_json["version"],
                             this_vuln_json["upgradePath"], this_vuln_json["isUpgradable"], 
-                            this_vuln_json["isPatchable"], this_vuln_json["isPinnable"]
+                            this_vuln_json["isPatchable"], this_vuln_json["isPinnable"],
+                            this_vuln_json["fixedIn"],this_vuln_json["semver"]
                             ])
         res.append(this_vuln_res)
     return res
@@ -81,7 +82,7 @@ def generate_vuln_details_file(in_fname, out_fname, errlog_fname, id_index, name
     counter = 0
     header_out = ["id", "name", "version", "is_ok",
                   "vulnIndex", "creationTime", "disclosureTime", "modificationTime", "publicationTime",
-                  "severity", "title", "path", "pathDepth", "rootPackage", "rootPackageVersion" ,"upgradePath", "isUpgradable", "isPatchable", "isPinnable" ]
+                  "severity", "title", "path", "pathDepth", "rootPackage", "rootPackageVersion" ,"upgradePath", "isUpgradable", "isPatchable", "isPinnable", "fixedIn", "semver" ]
     
     with open(out_fname, 'w' if skip is None else 'a' ) as outfile, open(in_fname, 'r') as infile, open(errlog_fname, 'w') as errlog:
         datareader = csv.reader(infile)

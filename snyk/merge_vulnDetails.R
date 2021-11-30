@@ -4,7 +4,7 @@ rm(list = ls())
 library(dplyr)
 
 rawfile_name = "top_2000_package_release_vulnCount_had_vuln"
-total_subfiles = 12
+total_subfiles = 15
 
 
 dir_in = "./split"
@@ -49,6 +49,7 @@ table(res$is_ok.x)
 table(res$is_ok.y)
 any(res$is_ok.y == "True")
 table(res$is_ok.y[res$is_ok.y %in% c("True", "False") == FALSE])
+duplicated( c(res$X, res$vulnIndex) )
 
 #### write error data ####
 err_data <- filter(res, res$is_ok.y %in% c("True", "False")== FALSE)
@@ -70,6 +71,10 @@ colnames(res_good)[colnames(res_good) == "is_ok.y"] <- "is_ok"
 res_final <- bind_rows(res_good, res_patch)
 res_final <- res_final[order(res_final$X, res_final$vulnIndex), ]
 any(is.na(res_final))
+
+# res_final_dup <- res_final[duplicated(res_final), ]
+res_final_isok <- res_final[res_final$is_ok == "True", ]
+res_final <- res_final[res_final$is_ok == "False", ]
 
 filename_res <- paste(rawfile_name, "_vulnDetails",".tsv", sep = "")
 write.table(res_final, file = filename_res, quote = FALSE, row.names = FALSE, sep = "\t")
